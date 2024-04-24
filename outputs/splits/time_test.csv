@@ -1,0 +1,208 @@
+name,CID,CAS,SMILES,source,year,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,label,ppdb_level
+Metominostrobin (Ref: SSF 126),5483872,133408-50-1,CNC(=O)C(=NOC)c1ccccc1Oc1ccccc1,PPDB,2000,Contact,0,0,0,1,0,1
+"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",3081304,145701-21-9,CCOc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3Cl)nn12,ECOTOX,2000,Contact,1,0,0,0,0,1
+Primisulfuron,91774,113036-87-6,O=C(Nc1nc(OC(F)F)cc(OC(F)F)n1)NS(=O)(=O)c1ccccc1C(=O)O,PPDB,2000,Contact,1,0,0,0,0,1
+Mesotrione (Ref: ZA 1296),175967,104206-82-8,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c([N+](=O)[O-])c1,PPDB,2000,Oral,1,0,0,0,1,1
+Diflovidazin (Ref: SZ1 121),153985,162320-67-4,Fc1cccc(F)c1-c1nnc(-c2ccccc2Cl)nn1,PPDB,2000,Contact,0,0,0,1,0,1
+Dinotefuran (Ref: MTI 446),197701,165252-70-0,CN=C(NCC1CCOC1)N[N+](=O)[O-],PPDB,2000,Contact,0,0,1,0,1,2
+Cafenstrole (Ref: CH 900),195429,125306-83-4,CCN(CC)C(=O)n1cnc(S(=O)(=O)c2c(C)cc(C)cc2C)n1,PPDB,2001,Oral,1,0,0,0,0,0
+Propoxycarbazone,177355,145026-81-9,CCCOc1nn(C(=O)NS(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C,PPDB,2001,Contact,1,0,0,0,0,0
+Clothianidin (Ref: CGA 322704),213027,210880-92-5,CN=C(NCc1cnc(Cl)s1)N[N+](=O)[O-],PPDB,2001,Oral,0,0,1,0,1,2
+Pyribenzoxim (Ref: LGC 40863 ),178117,168088-61-7,COc1cc(OC)nc(Oc2cccc(Oc3nc(OC)cc(OC)n3)c2C(=O)ON=C(c2ccccc2)c2ccccc2)n1,PPDB,2001,Other,1,0,0,0,0,1
+Pyriftalid (Ref: CGA 279233),9948894,135186-78-6,COc1cc(OC)nc(Sc2cccc3c2C(=O)OC3C)n1,PPDB,2001,Contact,1,0,0,0,0,1
+Picolinafen (Ref: BAS 700H),3294375,137641-05-5,O=C(Nc1ccc(F)cc1)c1cccc(Oc2cccc(C(F)(F)F)c2)n1,PPDB,2001,Contact,1,0,0,0,0,0
+Verbutin (Ref: MB-599),11458968,185676-84-0,CC#CCOC(C)c1ccc(OC)c(OC)c1,PPDB,2001,Contact,0,0,1,0,0,1
+"(1R,3S)-3-(2,2-Dichloroethenyl)-2,2-dimethyl-(2,3,5,6-tetrafluorophenyl)methyl ester cyclopropanecarboxylic acid",656612,118712-89-3,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1c(F)c(F)cc(F)c1F,ECOTOX,2001,Contact,0,0,1,0,1,2
+"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",10403199,161326-34-7,CSC1=NC(C)(c2ccccc2)C(=O)N1Nc1ccccc1,ECOTOX,2001,Contact,0,1,0,0,0,1
+Propisochlor,167454,86763-47-5,CCc1cccc(C)c1N(COC(C)C)C(=O)CCl,PPDB,2001,Contact,1,0,0,0,0,1
+Chromafenozide (Ref: ANS 118),10157484,143807-66-3,Cc1cc(C)cc(C(=O)N(NC(=O)c2ccc3c(c2C)CCCO3)C(C)(C)C)c1,PPDB,2001,Contact,0,0,1,0,0,1
+Tau-fluvalinate (Ref: SAN 527l),91768,102851-06-9,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,PPDB,2001,Contact,0,0,1,0,0,1
+Dimethenamid-P,13633097,163515-14-8,COCC(C)N(C(=O)CCl)c1c(C)csc1C,PPDB,2001,Oral,1,0,0,0,0,0
+Benthiavalicarb,20593234,413615-35-7,CC(NC(=O)C(NC(=O)O)C(C)C)c1nc2ccc(F)cc2s1,PPDB,2002,Contact,1,1,0,0,0,1
+1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-1H-imidazol-2-amine,14626249,115086-54-9,O=[N+]([O-])Nc1nccn1Cc1ccc(Cl)nc1,ECOTOX,2002,Oral,0,0,0,1,1,2
+Indanofan (Ref: MK 243),11046097,133220-30-1,CCC1(CC2(c3cccc(Cl)c3)CO2)C(=O)c2ccccc2C1=O,PPDB,2002,Contact,0,0,0,1,0,1
+"2-[2-Chloro-4-fluoro-5-[5-methyl-6-oxo-4-(trifluoromethyl)-1(6H)-pyridazinyl]phenoxy]acetic acid, Ethyl ester",3083546,188489-07-8,CCOC(=O)COc1cc(-n2ncc(C(F)(F)F)c(C)c2=O)c(F)cc1Cl,ECOTOX,2002,Contact,1,0,0,0,0,1
+Azimsulfuron,86355,120162-55-2,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(-c3nnn(C)n3)cnn2C)n1,PPDB,2002,Contact,1,0,0,0,0,1
+Beflubutamid (Ref: UBH 820),6451159,113614-08-7,CCC(Oc1ccc(F)c(C(F)(F)F)c1)C(=O)NCc1ccccc1,PPDB,2002,Contact,1,0,0,0,0,0
+Flucarbazone,3081367,145026-88-6,COc1nn(C(=O)NS(=O)(=O)c2ccccc2OC(F)(F)F)c(=O)n1C,PPDB,2002,Other,1,0,0,0,0,0
+Bromoxynil-butanoate,62526,3861-41-4,CCCC(=O)Oc1c(Br)cc(C#N)cc1Br,PPDB,2002,Oral,1,0,0,0,0,1
+Mesosulfuron (Ref: AE F154851),11520759,400852-66-6,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2cc(CNS(C)(=O)=O)ccc2C(=O)O)n1,PPDB,2002,Oral,1,0,0,0,1,1
+Iodosulfuron-methyl-sodium (Ref: AE F115008),16760189,144550-36-7,COC(=O)c1ccc(I)cc1S(=O)(=O)[N-]C(=O)Nc1nc(C)nc(OC)n1.[Na+],PPDB,2002,Oral,1,0,0,0,0,1
+Bromoxynil-potassium,23691011,2961-68-4,N#Cc1cc(Br)c([O-])c(Br)c1.[K+],PPDB,2002,Oral,1,0,0,0,0,1
+Thenylchlor (Ref: NSK 850),443036,96491-05-3,COc1ccsc1CN(C(=O)CCl)c1c(C)cccc1C,PPDB,2002,Other,0,0,0,1,0,1
+N-(Cyano-2-thienylmethyl)-4-ethyl-2-(ethylamino)-5-thiazolecarboxamide,11174640,162650-77-3,CCNc1nc(CC)c(C(=O)NC(C#N)c2cccs2)s1,ECOTOX,2002,Oral,0,1,0,0,0,0
+"2-(4-Methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylic acid, 1-Methylethyl ester",176879,149877-41-8,COc1ccc(-c2ccccc2)cc1NNC(=O)OC(C)C,ECOTOX,2002,Contact,0,0,1,0,1,1
+2-Chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenyl-1-propen-1-yl)acetamide,6450826,106700-29-2,CCOCCN(C(=O)CCl)C(=C(C)C)c1ccccc1,ECOTOX,2002,Oral,1,0,0,0,0,1
+Cyhalofop,15118048,122008-78-0,CC(Oc1ccc(Oc2ccc(C#N)cc2F)cc1)C(=O)O,PPDB,2002,Oral,1,0,0,0,0,1
+"3-Chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-1H-pyrazole-4-carboxylic acid, Methyl ester",91763,100784-20-1,COC(=O)c1c(Cl)nn(C)c1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,ECOTOX,2002,Contact,1,0,0,0,0,1
+Glyphosate-sodium,23677848,34494-03-6,O=C(O)CNCP(=O)([O-])O.[Na+],PPDB,2002,Contact,1,0,0,0,0,1
+Pyriminobac-methyl (Ref: KIH-6127),9604652,136191-64-5,CON=C(C)c1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)OC,PPDB,2002,Contact,1,0,0,0,0,0
+Pyrazosulfuron,93525,98389-04-9,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(C(=O)O)cnn2C)n1,PPDB,2002,Contact,0,0,0,1,0,1
+Ethoxysulfuron (Ref: AE F095404),3623881,126801-58-9,CCOc1ccccc1OS(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,PPDB,2002,Contact,1,0,0,0,0,0
+Fentrazamide (Ref: BAY YRC 2388),3081363,158237-07-1,CCN(C(=O)n1nnn(-c2ccccc2Cl)c1=O)C1CCCCC1,PPDB,2002,Contact,1,0,0,0,0,0
+3-[2-Chloro-4-(methanesulfonyl)benzoyl]-4-(phenylsulfanyl)bicyclo[3.2.1]oct-3-en-2-one,11236201,156963-66-5,CS(=O)(=O)c1ccc(C(=O)C2=C(Sc3ccccc3)C3CCC(C3)C2=O)c(Cl)c1,ECOTOX,2002,Contact,1,0,0,0,0,0
+"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidinyl]benzoic acid 1,1-dimethyl-2-oxo-2-(2-propenyloxy)ethyl ester",11826859,134605-64-4,C=CCOC(=O)C(C)(C)OC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)ccc1Cl,ECOTOX,2003,Contact,1,0,0,0,0,1
+"2,2-Dimethylbutanoic acid, 3-(2,4-Dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl ester",177863,148477-71-8,CCC(C)(C)C(=O)OC1=C(c2ccc(Cl)cc2Cl)C(=O)OC12CCCCC2,ECOTOX,2003,Oral,0,0,1,0,0,0
+Tepraloxydim (Ref: BAS 620H),135585373,149979-41-9,CCC(NOCC=CCl)=C1C(=O)CC(C2CCOCC2)CC1=O,PPDB,2003,Oral,1,0,0,0,0,0
+Mefenpyr diethyl (Ref: HOE 107892),10937610,135590-91-9,CCOC(=O)C1=NN(c2ccc(Cl)cc2Cl)C(C)(C(=O)OCC)C1,PPDB,2003,Contact,1,0,0,0,0,0
+"2-Chloro-N-(4'-chloro[1,1'-biphenyl]-2-yl)-3-pyridinecarboxamide",213013,188425-85-6,O=C(Nc1ccccc1-c1ccc(Cl)cc1)c1cccnc1Cl,ECOTOX,2003,Oral,0,1,0,0,0,1
+Iprovalicarb (Ref: SZX 0722),10958189,140923-17-7,Cc1ccc(C(C)NC(=O)C(NC(=O)OC(C)C)C(C)C)cc1,PPDB,2004,Oral,0,1,0,0,0,0
+Noviflumuron,9828359,121451-02-3,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)C(F)(F)F)c(Cl)c1F,PPDB,2004,Contact,0,0,1,0,0,1
+Sucrose octanoate,5484222,42922-74-7,CCCCCCCC(=O)OC1(C2(CO)OC(CO)C(O)C2O)OC(CO)C(O)C(O)C1O,BPDB,2004,Contact,0,0,0,1,0,1
+Oxasulfuron (Ref: CGA 277476 ),86443,144651-06-9,Cc1cc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC2COC2)n1,PPDB,2004,Oral,1,0,0,0,0,1
+Thifluzamide (Ref: MON 24000),86389,130000-40-7,Cc1nc(C(F)(F)F)c(C(=O)Nc2c(Br)cc(OC(F)(F)F)cc2Br)s1,PPDB,2004,Oral,0,1,0,0,0,1
+Pyrifenox (Ref: CGA 179945),6023583,88283-41-4,CON=C(Cc1cccnc1)c1ccc(Cl)cc1Cl,PPDB,2005,Oral,0,1,0,0,0,1
+"N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid, 2-Cyanoethylester",34476,25171-63-5,CNC(=O)ON=C(C)SCCC#N,ECOTOX,2005,Contact,0,0,0,0,0,1
+Mecoprop etexyl,598095,71526-69-7,CCCCC(CC)COC(=O)C(C)Oc1ccc(Cl)cc1C,PPDB,2005,Oral,1,0,0,0,0,0
+Sethoxydim (Ref: BAS 9052H),52923,74051-80-2,CCCC(NOCC)=C1C(=O)CC(CC(C)SCC)CC1=O,PPDB,2005,Contact,1,0,0,0,1,1
+"S-[(5-Ethoxy-2-oxo-1,3,4-thiadiazol-3(2H)-yl)methyl] O,O-dimethyl phosphorodithioate",17580,2669-32-1,CCOc1nn(CSP(=S)(OC)OC)c(=O)s1,ECOTOX,2005,Contact,0,0,0,0,1,2
+"alpha-Methyl-omega-[3-[1,3,3,3-tetramethyl-1-[(trimethylsilyl)oxy]-1-disiloxanyl]propoxy]poly(oxy-1,2-ethanediyl)",197160,27306-78-1,COCCOCCC[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C,ECOTOX,2005,Contact,0,0,0,0,0,0
+"N'-[4-[(3,4-Dihydro-2-methoxy-2,4,4-trimethyl-2H-1-benzopyran-7-yl)oxy]phenyl]-N-methoxy-N-methylurea",14152665,111578-32-6,CON(C)C(=O)Nc1ccc(Oc2ccc3c(c2)OC(C)(OC)CC3(C)C)cc1,ECOTOX,2005,Contact,1,0,0,0,0,1
+Trifloxysulfuron (Ref: CGA 292230),9955886,145099-21-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2OCC(F)(F)F)n1,PPDB,2005,Contact,1,0,0,0,0,1
+"Cyclopropanecarboxylic acid, 3-(2,2-Dichloroethenyl)-2,2-dimethylcyano(4-fluoro-3-phenoxyphenyl)methyl ester mixt. with 1-[(6-chloro-3-pyridinyl)methyl]-N-nitro-2-imidizolidinimide",153881,116475-12-8,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1.O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,ECOTOX,2005,Other,0,0,0,0,1,2
+"1,1'-(2-Nitrobutylidene)bis(4-chlorobenzene), Mixt. with 1,1'-(2-Nitropropylidene)bis(4-chlorobenzene)",24694,8027-00-7,CC(C(c1ccc(Cl)cc1)c1ccc(Cl)cc1)[N+](=O)[O-].CCC(C(c1ccc(Cl)cc1)c1ccc(Cl)cc1)[N+](=O)[O-],ECOTOX,2005,Contact,0,0,0,0,0,1
+Tralkoxydim (Ref: PP 604),91746,87820-88-0,CCONC(CC)=C1C(=O)CC(c2c(C)cc(C)cc2C)CC1=O,PPDB,2005,Contact,1,0,0,0,0,1
+Polyoxin B,418922,19396-06-6,NC(=O)OCC(O)C(O)C(N)C(=O)NC(C(=O)O)C1OC(n2cc(CO)c(=O)[nH]c2=O)C(O)C1O,BPDB,2005,Oral,0,1,0,0,0,1
+Ethirimol (Ref: PP149),32152,23947-60-6,CCCCc1c(C)[nH]c(NCC)nc1=O,PPDB,2005,Oral,0,1,0,0,1,1
+"3-(1-Ethylpropyl)phenol, 1-(N-Methylcarbamate) mixt. with 3-(1-Methylbutyl)phenyl N-methylcarbamate",24721,8065-36-9,CCC(CC)c1cccc(OC(=O)NC)c1.CCCC(C)c1cccc(OC(=O)NC)c1,ECOTOX,2005,Contact,0,0,0,0,1,1
+Prochloraz manganese complex (Ref: BTS 46828),155203,69192-23-0,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.Cl[Mn]Cl,PPDB,2005,Oral,0,0,0,1,0,0
+Calcium acid methanearsonate,22193,5902-95-4 ,C[As](=O)([O-])[O-].C[As](=O)([O-])[O-].[Ca+2],PPDB,2005,Contact,1,0,0,0,0,1
+Asulam sodium (Ref: AE F102789),61292,2302-17-2,COC(=O)[N-]S(=O)(=O)c1ccc(N)cc1.[Na+],PPDB,2005,Contact,1,0,0,0,0,1
+Zarilamid (Ref: ICIA001),158659,84527-51-5,CCOC(C#N)NC(=O)c1ccc(Cl)cc1,PPDB,2005,Contact,0,1,0,0,1,2
+Cycloxydim (Ref: BAS 517H),91765,101205-02-1,CCCC(NOCC)=C1C(=O)CC(C2CCCSC2)CC1=O,PPDB,2005,Contact,1,0,0,0,0,1
+Bistrifluron (Ref: DBI-3204),10275455,201593-84-2,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1Cl,PPDB,2005,Contact,0,0,1,0,0,1
+"N-[2,4-Dimethyl-5-[[(trifluoromethyl)sulfonyl]amino]phenyl]acetamide compd. with 2,2'-Iminobis[ethanol](1:1)",62067,53780-36-2,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C.OCCNCCO,ECOTOX,2005,Contact,1,0,0,0,0,1
+Di-1-p-menthene,61928,34363-01-4,CC1=CCC(CCC(C)(C)C2CC=C(C)CC2)CC1,PPDB,2005,Other,1,0,0,0,0,0
+Dimethirimol (Ref: PP675),21290,5221-53-4,CCCCc1c(C)[nH]c(N(C)C)nc1=O,PPDB,2005,Other,0,1,0,0,0,0
+Piproctanyl,92514,69309-47-3,C=CC[N+]1(CCC(C)CCCC(C)C)CCCCC1,PPDB,2005,Contact,0,0,0,1,0,1
+Sumithrin ,187827,51186-88-0,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,PPDB,2005,Contact,0,0,1,0,1,2
+"5-[[(2,6-Difluorophenyl)methoxy]methyl]-4,5-dihydro-5-methyl(3-methyl-2-thienyl)isoxazole",11500973,403640-27-7,Cc1ccsc1C1=NOC(C)(COCc2c(F)cccc2F)C1,ECOTOX,2005,Oral,0,0,0,0,0,1
+Alloxydim,3034433,55634-91-8,C=CCONC(CCC)=C1C(=O)CC(C)(C)C(C(=O)OC)C1=O,PPDB,2005,Contact,1,0,0,0,0,1
+Profoxydim (Ref: BAS 625H),197395,139001-49-3,CCCC(NOCC(C)Oc1ccc(Cl)cc1)=C1C(=O)CC(C2CCCSC2)CC1=O,PPDB,2005,Contact,1,0,0,0,0,0
+Kaolin calcined (Ref: SIK6463.5),64742,92704-41-1,[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],PPDB,2005,Contact,0,0,0,1,0,1
+Picloram-tripromine,62620,6753-47-5,CC(O)CN(CC(C)O)CC(C)O.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,PPDB,2005,Oral,1,0,0,0,0,1
+Picloram-triethylammonium,61949,35832-11-2,CCN(CC)CC.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,PPDB,2005,Oral,1,0,0,0,0,1
+Haloxyfop-etotyl (Ref: DOWCO 453EE),91743,87237-48-7,CCOCCOC(=O)C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1,PPDB,2006,Oral,1,0,0,0,0,1
+Sintofen (Ref: SC 2053),10915750,130561-48-7,COCCOc1cccc2c1c(=O)c(C(=O)O)nn2-c1ccc(C)cc1,PPDB,2006,Contact,0,0,0,1,0,1
+Ethidimuron (Ref: MET 1486 ),91596,30043-49-3,CCS(=O)(=O)c1nnc(N(C)C(=O)NC)s1,PPDB,2006,Other,1,0,0,0,0,0
+N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide,9834513,158062-67-0,N#CCNC(=O)c1cnccc1C(F)(F)F,ECOTOX,2006,Oral,0,0,1,0,0,1
+Dimoxystrobin (Ref: BAS 505F),10936292,149961-52-4,CNC(=O)C(=NOC)c1ccccc1COc1cc(C)ccc1C,PPDB,2006,Oral,0,1,0,0,0,1
+MCPA-thioethyl,32876,25319-90-8,CCSC(=O)COc1ccc(Cl)cc1C,PPDB,2006,Contact,0,0,0,1,0,1
+4-Chloro-3-ethyl-1-methyl-N-[[4-(4-methylphenoxy)phenyl]methyl]-1H-pyrazole-5-carboxamide,10110536,129558-76-5,CCc1nn(C)c(C(=O)NCc2ccc(Oc3ccc(C)cc3)cc2)c1Cl,ECOTOX,2006,Oral,0,0,1,0,1,2
+Cyflufenamid (Ref: NF 149),9844539,180409-60-3,O=C(Cc1ccccc1)N=C(NOCC1CC1)c1c(C(F)(F)F)ccc(F)c1F,PPDB,2006,Contact,0,1,0,0,0,1
+Imibenconazole (Ref: HF 6305),93483,86598-92-7,Clc1ccc(CSC(Cn2cncn2)=Nc2ccc(Cl)cc2Cl)cc1,PPDB,2006,Oral,0,1,0,0,0,0
+Metyltetraprole (Ref: S-2367),8988183,1472649-01-6,Cc1cccc(-n2nnn(C)c2=O)c1COc1ccn(-c2ccc(Cl)cc2)n1,PPDB,2006,Contact,0,1,0,0,0,1
+Fluacrypyrim,9954185,229977-93-9,COC=C(C(=O)OC)c1ccccc1COc1cc(C(F)(F)F)nc(OC(C)C)n1,PPDB,2006,Contact,0,0,0,1,1,1
+"(3-Bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone",6451057,220899-03-6,COc1cc(C)c(C(=O)c2c(OC)ccc(Br)c2C)c(OC)c1OC,ECOTOX,2006,Oral,0,1,0,0,0,1
+"C6-12 Fatty acids, Me esters",16204500,67762-39-4,CCCCCCCC(=O)OC.CCCCCCCCCC(=O)OC,ECOTOX,2007,Contact,0,0,0,1,0,1
+(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,11285653,117428-22-5,COC=C(C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1,ECOTOX,2007,Contact,0,1,0,0,0,0
+Proquinazid (Ref: DPX KQ926),11057771,189278-12-4,CCCOc1nc2ccc(I)cc2c(=O)n1CCC,PPDB,2007,Oral,0,1,0,0,0,0
+"2-[4,5-Dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-methyl-3-pyridinecarboxylic acid ammonium salt (1:1)",18772439,115136-53-3,Cc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)[O-])c1.[NH4+],ECOTOX,2007,Contact,0,0,0,0,0,1
+Spinosad (Ref: XDE 105),21871655,168316-95-8,CCC1CCCC(OC2CCC(N(C)C)C(C)O2)C(C)C(=O)C2=CC3C(C=C(C)C4CC(OC5OC(C)C(OC)C(OC)C5OC)CC43)C2CC(=O)O1.CCC1CCCC(OC2CCC(N(C)C)C(C)O2)C(C)C(=O)C2=CC3C(C=CC4CC(OC5OC(C)C(OC)C(OC)C5OC)CC43)C2CC(=O)O1,BPDB,2007,Contact,0,0,1,0,1,2
+Flupyrsulfuron-methyl-sodium,15764724,144740-54-5,COC(=O)c1ccc(C(F)(F)F)nc1S(=O)(=O)NC(=O)[N-]c1nc(OC)cc(OC)n1.[Na+],PPDB,2007,Contact,1,0,0,0,0,1
+"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,239110-15-7,O=C(NCc1ncc(C(F)(F)F)cc1Cl)c1c(Cl)cccc1Cl,ECOTOX,2007,Contact,0,1,0,0,0,1
+Metamifop (Ref: DBH-129),59558935,256412-89-2,CC(Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1)C(=O)N(C)c1ccccc1F,PPDB,2007,Oral,1,0,0,0,0,1
+2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,20056430,139968-49-3,N#Cc1ccc(CC(=NNC(=O)Nc2ccc(OC(F)(F)F)cc2)c2cccc(C(F)(F)F)c2)cc1,ECOTOX,2007,Oral,0,0,1,0,1,1
+Cyenopyrafen (Ref: NC-512 ),18772482,560121-52-0,Cc1nn(C)c(C(OC(=O)C(C)(C)C)=C(C#N)c2ccc(C(C)(C)C)cc2)c1C,PPDB,2007,Contact,0,0,1,0,0,1
+Copper oxychloride,18629822,1332-40-7,ClOCl.[Cu+2],PPDB,2007,Oral,0,1,0,0,0,1
+Tritosulfuron,11657899,142469-14-5,COc1nc(NC(=O)NS(=O)(=O)c2ccccc2C(F)(F)F)nc(C(F)(F)F)n1,PPDB,2007,Contact,1,0,0,0,0,0
+"N-(5,7-Dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)-3-pyridinesulfonamide",11571555,422556-08-9,COc1cc(OC)n2nc(NS(=O)(=O)c3c(C(F)(F)F)ccnc3OC)nc2n1,ECOTOX,2007,Contact,1,0,0,0,0,1
+"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid, Isooctyl ester",18772488,26952-20-5,CC(C)CCCCCOC(=O)c1nc(Cl)c(Cl)c(N)c1Cl,ECOTOX,2007,Contact,1,0,0,0,0,1
+"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid 2-ethylhexyl ester",24843409,865363-39-9,CCCCC(CC)COC(=O)C(C)Oc1ccc(Cl)cc1Cl,ECOTOX,2008,Contact,1,0,0,0,0,1
+"2-(4-Chlorophenyl)-1-ethyl-1,4-dihydro-6-methyl-4-oxo-3-pyridinecarboxylic acid, Potassium salt",23674747,81052-29-1,CCn1c(C)cc(=O)c(C(=O)[O-])c1-c1ccc(Cl)cc1.[K+],ECOTOX,2008,Oral,0,0,0,1,0,1
+"2-(4-Chlorophenyl)-3-ethyl-2,5-dihydro-5-oxo-4-pyridazinecarboxylic acid potassium salt",23681559,82697-71-0,CCc1c(C(=O)[O-])c(=O)cnn1-c1ccc(Cl)cc1.[K+],ECOTOX,2008,Contact,0,0,0,1,0,1
+Potassium hydrogen phosphonate,23701737,13977-65-6,[K+].[O-]P(O)O,PPDB,2008,Oral,0,0,0,1,0,0
+Ioxynil-lithium,23691010,2961-61-7,N#Cc1cc(I)c([O-])c(I)c1.[Li+],PPDB,2008,Contact,1,0,0,0,1,1
+Ioxynil-sodium,23666695,2961-62-8,N#Cc1cc(I)c([O-])c(I)c1.[Na+],PPDB,2008,Contact,1,0,0,0,1,1
+Sordidin,85099697,162490-88-2,CCC12OC(C)CC(C)(CC1C)O2,BPDB,2008,Other,0,0,0,1,0,1
+"N-[2-(1,3-Dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide",11388558,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F,ECOTOX,2008,Oral,0,1,0,0,0,1
+"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,125401-92-5,COc1cc(OC)nc(Oc2cccc(Oc3nc(OC)cc(OC)n3)c2C(=O)[O-])n1.[Na+],ECOTOX,2009,Contact,1,0,0,0,0,1
+Glyphosate-monopotassium,23716553,39600-42-5,O=C(O)CNCP(=O)([O-])O.[K+],PPDB,2009,Contact,1,0,0,0,0,1
+Sodium tetrathiocarbonate (Ref: GY-81),3034198,7345-69-9,S=C([S-])S[S-].[Na+].[Na+],PPDB,2009,Contact,0,0,0,1,0,1
+"Carbonic acid, cis-3-(2,5-Dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4.5]dec-3-en-4-yl ethyl ester",9969573,203313-25-1,CCOC(=O)OC1=C(c2cc(C)ccc2C)C(=O)NC12CCC(OC)CC2,ECOTOX,2009,Contact,0,0,1,0,0,1
+Orysastrobin,11486133,248593-16-0,CNC(=O)C(=NOC)c1ccccc1CON=C(C)C(=NOC)C(C)=NOC,PPDB,2009,Other,0,1,0,0,0,0
+"2,4,5-trichlorophenol",44147467,95-95-4,Oc1cc(Cl)c(Cl)cc1Cl,PPDB,2009,Other,0,0,0,1,0,1
+"3-Phenyl-5-(2-thienyl)-1,2,4-oxadiazole",695679,330459-31-9,c1ccc(-c2noc(-c3cccs3)n2)cc1,ECOTOX,2010,Oral,0,0,1,0,1,2
+"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl-1(2H)-pyrimidinyl]-4-fluoro-N-[[methyl(1-methylethyl)amino]sulfonyl]benzamide",11571392,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,ECOTOX,2010,Contact,1,0,0,0,0,1
+3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide,11578610,736994-63-1,CNC(=O)c1cc(C#N)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,ECOTOX,2010,Oral,0,0,1,0,1,2
+Iprobenfos,18772466,26087-47-8,CC(C)OP(=O)(OC(C)C)SCc1ccccc1,PPDB,2010,Contact,0,1,0,0,0,1
+Dihydroazadirachtin,44631173,108189-58-8,CC=C(C)C(=O)OC1CC(OC(C)=O)C2(C(=O)OC)COC3C2C12COC(O)(C(=O)OC)C2C(C)(C12OC1(C)C1CC2OC2OCCC21O)C3O,BPDB,2010,Contact,0,0,1,0,0,1
+Kasugamycin,265071,6980-18-3,CC1OC(OC2C(O)C(O)C(O)C(O)C2O)C(N)CC1N=C(N)C(=O)O,BPDB,2010,Contact,0,0,0,1,0,1
+N-[Methyloxido[1-[6-(trifluoromethyl)-3-pyridinyl]ethyl]-lambda4-sulfanylidene]cyanamide,16723172,946578-00-3,CC(c1ccc(C(F)(F)F)nc1)S(C)(=O)=NC#N,ECOTOX,2010,Contact,0,0,1,0,1,2
+Isopyrazam (Ref: SYN 520453),25271089,881685-58-1,CC(C)C1C2CCC1c1c(NC(=O)c3cn(C)nc3C(F)F)cccc12,PPDB,2010,Oral,0,1,0,0,0,0
+"2-(4-Chloro-2-methylphenoxy)acetic acid, 2-Ethylhexyl ester",93128,29450-45-1,CCCCC(CC)COC(=O)COc1ccc(Cl)cc1C,ECOTOX,2010,Contact,1,0,0,0,0,1
+Flufenprox (Ref: ICIA5682),86103,107713-58-6,CCOc1ccc(C(COCc2cccc(Oc3ccc(Cl)cc3)c2)C(F)(F)F)cc1,PPDB,2011,Other,0,0,1,0,1,2
+"2-[1-[2-[[(3,5-Difluorophenyl)amino]carbonyl]hydrazinylidene]ethyl]-3-pyridinecarboxylic acid",123626,109293-97-2,CC(=NNC(=O)Nc1cc(F)cc(F)c1)c1ncccc1C(=O)O,ECOTOX,2011,Contact,1,0,0,0,0,1
+Oxytetracycline hydrochloride,54687415,2-58-46-0,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12.Cl,BPDB,2011,Other,0,0,0,1,0,1
+Trifludimoxazin,49831143,1258836-72-4,C#CCN1C(=O)C(F)(F)Oc2cc(F)c(-n3c(=O)n(C)c(=S)n(C)c3=O)cc21,PPDB,2011,Contact,1,0,0,0,0,1
+"3-[[[5-(Difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl]methyl]sulfonyl]-4,5-dihydro-5,5-dimethyl-isoxazole",11556910,447399-55-5,Cn1nc(C(F)(F)F)c(CS(=O)(=O)C2=NOC(C)(C)C2)c1OC(F)F,ECOTOX,2011,Contact,1,0,0,0,0,1
+Emamectin benzoate (Ref: MK 244),53394847,155569-91-8,CCC(C)C1OC2(C=CC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(NC)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2.O=C(O)c1ccccc1,BPDB,2011,Contact,0,0,0,1,1,2
+"N2-[(1R,2S)-2,3-Dihydro-2,6-dimethyl-1H-inden-1-yl]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine",44146693,950782-86-2,Cc1ccc2c(c1)C(Nc1nc(N)nc(C(C)F)n1)C(C)C2,ECOTOX,2011,Contact,1,0,0,0,0,1
+Hexylthiofos,6451756,41495-67-4,CCOP(=O)(OC1CCCCC1)SCC,PPDB,2011,Contact,0,1,0,0,0,1
+"N-(3',4'-Dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11434448,581809-46-3,Cn1cc(C(=O)Nc2ccc(F)cc2-c2ccc(Cl)c(Cl)c2)c(C(F)F)n1,ECOTOX,2012,Contact,0,1,0,0,0,1
+Guadipyr,76325977,1376342-13-0,CCCCC=NN(Cc1ccc(Cl)nc1)C(N)=N[N+](=O)[O-],PPDB,2012,Contact,0,0,1,0,0,1
+"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'-dimethyl ester carbamic acid mixt. with 2,4,5,6-tetrachloro-1,3-benzenedicarbonitrile",56842817,8077-21-2,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC.N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,ECOTOX,2012,Oral,0,0,0,0,1,2
+Fluxapyroxad (Ref: BAS 700F),16095400,907204-31-3,Cn1cc(C(=O)Nc2ccccc2-c2cc(F)c(F)c(F)c2)c(C(F)F)n1,PPDB,2012,Contact,0,0,0,1,0,1
+Cyflumetofen (Ref: OK-5101),11496052,400882-07-7,COCCOC(=O)C(C#N)(C(=O)c1ccccc1C(F)(F)F)c1ccc(C(C)(C)C)cc1,PPDB,2012,Contact,0,0,1,0,0,0
+"N-(2-[1,1'-Bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11688533,874967-67-6,Cn1cc(C(=O)Nc2ccccc2C2CC2C2CC2)c(C(F)F)n1,ECOTOX,2012,Oral,0,1,0,0,1,1
+Furalaxyl-M,12767955,57764-08-6,COC(=O)C(C)N(C(=O)c1ccc(C(=O)c2ccccc2)cc1)c1c(C)cccc1C,PPDB,2013,Contact,0,1,0,0,1,1
+"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,199119-58-9,COc1cc(OC)nc(NC(=O)[N-]S(=O)(=O)c2ncccc2OCC(F)(F)F)n1.[Na+],ECOTOX,2013,Contact,1,0,0,0,0,1
+Sodium tetraborate pentahydrate,71306767,11130-12-4,O.O.O.O.O.OB(O)O.[Na+],PPDB,2013,Contact,0,0,0,1,0,0
+Glyphosate-sesquisodium (Ref: Mon 8000),71463591,70393-85-0,O=C(O)CNCP(=O)([O-])O.O=C(O)CNCP(=O)([O-])[O-].[Na+].[Na+].[Na+],PPDB,2013,Contact,1,0,0,0,0,1
+"3,6-Dichloro-2-pyridinecarboxylic acid compd. with 2-aminoethanol (1:1)",162839,57754-85-5,NCCO.O=C(O)c1nc(Cl)ccc1Cl,ECOTOX,2013,Contact,1,0,0,0,0,1
+Prochloraz manganese chloride complex,71306902,75747-77-2,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.Cl[Mn]Cl,PPDB,2013,Oral,0,0,0,1,0,0
+"1-Acetyl-3,4-dihydro-3-[(3-pyridinylmethyl)amino]-6-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-2(1H)-quinazolinone",11842644,337458-27-2,CC(=O)N1C(=O)N(NCc2cccnc2)Cc2cc(C(F)(C(F)(F)F)C(F)(F)F)ccc21,ECOTOX,2013,Oral,0,0,1,0,1,1
+"1-[4-[4-[5-(2,6-Difluorophenyl)-4,5-dihydro-3-isoxazolyl]-2-thiazolyl]-1-piperidinyl]-2-[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl]ethanone",56945145,1003318-67-9,Cc1cc(C(F)(F)F)nn1CC(=O)N1CCC(c2nc(C3=NOC(c4c(F)cccc4F)C3)cs2)CC1,ECOTOX,2014,Contact,0,1,0,0,0,0
+Spinetoram,73462741,935545-74-7,CCOC1C(OC)C(C)OC(OC2CC3CCC4C5CC(=O)OC(CC)CCCC(OC6CCC(N(C)C)C(C)O6)C(C)C(=O)C5=CC4C3C2)C1OC,ECOTOX,2014,Contact,0,0,0,0,1,2
+Iodosulfuron,11027582,185119-76-0,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2cc(I)ccc2C(=O)O)n1,PPDB,2014,Oral,1,0,0,0,0,1
+"4-[[(6-Chloro-3-pyridinyl)methyl](2,2-difluoroethyl)amino]-2(5H)-furanone",16752772,951659-40-8,O=C1C=C(N(Cc2ccc(Cl)nc2)CC(F)F)CO1,ECOTOX,2014,Oral,0,0,1,0,1,1
+Alloxydim sodium,74087703,55635-13-7,C=CCON=C(CCC)C1=C([O-])CC(C)(C)C(C(=O)OC)C1=O.[Na+],PPDB,2014,Contact,1,0,0,0,0,1
+Copper acetoarsenite (Ref: ENT 884),72720419,12002-03-8,CC(=O)[O-].CC(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2].[O-][As]1O[As]([O-])O[As]([O-])O1.[O-][As]1O[As]([O-])O[As]([O-])O1,PPDB,2014,Other,0,0,1,0,1,1
+"N-{2-[(4,6-Dimethoxypyrimidin-2-yl)(hydroxy)methyl]-6-(methoxymethyl)phenyl}-1,1-difluoromethanesulfonamide",11407474,221205-90-9,COCc1cccc(C(O)c2nc(OC)cc(OC)n2)c1NS(=O)(=O)C(F)F,ECOTOX,2014,Contact,1,0,0,0,0,1
+Sabadilla (Ref: ENT 123 ),76419455,8051-02-3,CC=C(C)C(=O)OC1CCC2(C)C3CCC4C5(O)CC(O)C6(O)C(CN7CC(C)CCC7C6(C)O)C5(O)CC42OC13O.COc1ccc(C(=O)OC2CCC3(C)C4CCC5C6(O)CC(O)C7(O)C(CN8CC(C)CCC8C7(C)O)C6(O)CC53OC24O)cc1OC,BPDB,2014,Contact,0,0,0,1,0,1
+"S-Prop-2-en-1-yl 5-amino-4-(2-methylphenyl)-3-oxo-2-(propan-2-yl)-2,3-dihydro-1H-pyrazole-1-carbothioate",11493665,473798-59-3,C=CCSC(=O)n1c(N)c(-c2ccccc2C)c(=O)n1C(C)C,ECOTOX,2014,Contact,0,1,0,0,0,1
+Picloram-dimethylammonium,87148380,55870-98-9,CNC.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,PPDB,2015,Oral,1,0,0,0,0,1
+"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",53491464,1072957-71-1,Cn1cc(C(=O)Nc2cccc3c2C2CCC3C2=C(Cl)Cl)c(C(F)F)n1,ECOTOX,2015,Contact,0,1,0,0,0,1
+4-Hydroxy-3-[[2-[(2-methoxyethoxy)methyl]-6-(trifluoromethyl)-3-pyridinyl]carbonyl]bicyclo[3.2.1]oct-3-en-2-one,22600466,352010-68-5,COCCOCc1nc(C(F)(F)F)ccc1C(O)=C1C(=O)C2CCC(C2)C1=O,ECOTOX,2015,Oral,1,0,0,0,0,0
+Butroxydim (Ref: ICIA0500),135993077,138164-12-2,CCCC(=O)c1c(C)cc(C)c(C2CC(=O)C(=C(CC)NOCC)C(=O)C2)c1C,PPDB,2015,Contact,1,0,0,0,0,0
+Brofluthrinate (Ref: ZXI 8901),16722122,160791-64-0,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccc(Br)cc2)c1)c1ccc(OC(F)F)cc1,PPDB,2015,Contact,0,0,0,1,1,2
+"(5-Chloro-2-methoxy-4-methylpyridin-3-yl)(2,3,4-trimethoxy-6-methylphenyl)methanone",23082663,688046-61-9,COc1cc(C)c(C(=O)c2c(OC)ncc(Cl)c2C)c(OC)c1OC,ECOTOX,2015,Oral,0,1,0,0,0,1
+Ametoctradin (Ref: BAS 650F),15604010,865318-97-4,CCCCCCCCc1c(CC)nc2ncnn2c1N,PPDB,2015,Contact,0,1,0,0,0,1
+"2-{2-[(2,5-Dimethylphenoxy)methyl]phenyl}-2-methoxy-N-methylacetamide",10935908,173662-97-0,CNC(=O)C(OC)c1ccccc1COc1cc(C)ccc1C,ECOTOX,2015,Oral,0,1,0,0,0,1
+Penflufen (Ref: BYF-14182),11674113,494793-67-8,Cc1nn(C)c(F)c1C(=O)Nc1ccccc1C(C)CC(C)C,PPDB,2016,Contact,0,1,0,0,0,1
+Cyclaniliprole (Ref: IKI-3106),24822142,1031756-98-5,CC(NC(=O)c1cc(Cl)cc(Br)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl)C1CC1,PPDB,2016,Oral,0,0,1,0,1,2
+Sodium 5-nitroguaiacolate,3017748,67233-85-6,COc1ccc([N+](=O)[O-])cc1[O-].[Na+],PPDB,2016,Contact,0,0,0,1,0,1
+4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,16656802,943831-98-9,COC(=O)c1nc(-c2ccc(Cl)c(OC)c2F)cc(N)c1Cl,ECOTOX,2016,Contact,1,0,0,0,0,1
+Triflumezopyrim (Ref: DPX-RAB55),57414497,1263133-33-0,O=c1c(-c2cccc(C(F)(F)F)c2)c([O-])n(Cc2cncnc2)c2cccc[n+]12,PPDB,2016,Contact,0,0,1,0,1,2
+N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,99485-76-4,CC(C)(NC(=O)NCc1ccccc1Cl)c1ccccc1,ECOTOX,2016,Contact,0,0,0,1,0,1
+1-(3-Chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-{[5-(trifluoromethyl)-2H-tetrazol-2-yl]methyl}-1H-pyrazole-5-carboxamide,56602311,1229654-66-3,CNC(=O)c1cc(C#N)cc(C)c1NC(=O)c1cc(Cn2nnc(C(F)(F)F)n2)nn1-c1ncccc1Cl,ECOTOX,2016,Oral,0,0,0,0,1,2
+Broflanilide (Ref: MCI-8007),53341374,1207727-04-5,CN(C(=O)c1ccccc1)c1cccc(C(=O)Nc2c(Br)cc(C(F)(C(F)(F)F)C(F)(F)F)cc2C(F)(F)F)c1F,PPDB,2016,Contact,0,0,1,0,1,2
+"N-[6-[[[(Z)-[(1-Methyl-1H-tetrazol-5-yl)phenylmethylene]amino]oxy]methyl]-2-pyridinyl]-1,1-dimethylethyl ester carbamic acid",56945144,500207-04-5,Cn1nnnc1C(=NOCc1cccc(NC(=O)OC(C)(C)C)n1)c1ccccc1,ECOTOX,2017,Oral,0,0,0,1,0,1
+Fluazaindolizine (Ref: DPX-Q8U80),46944253,1254304-22-7,COc1ccc(Cl)c(S(=O)(=O)NC(=O)c2cn3cc(C(F)(F)F)cc(Cl)c3n2)c1,PPDB,2017,Oral,0,0,0,1,0,1
+Thiencarbazone-methyl (Ref: BYH 18636 ),11205153,317815-83-1,COC(=O)c1csc(C)c1S(=O)(=O)NC(=O)n1nc(OC)n(C)c1=O,PPDB,2017,Oral,1,0,0,0,0,0
+"N-[1,1-Dimethyl-2-[2-methyl-4-(1-methylethoxy)phenyl]-2-oxoethyl]-3-methyl-2-thiophenecarboxamide",71657865,875915-78-9,Cc1cc(OC(C)C)ccc1C(=O)C(C)(C)NC(=O)c1sccc1C,ECOTOX,2017,Oral,0,1,0,0,0,1
+1-({1-Ethyl-4-[4-(methanesulfonyl)-3-(2-methoxyethoxy)-2-methylbenzoyl]-1H-pyrazol-5-yl}oxy)ethyl methyl carbonate,44473182,1101132-67-5,CCn1ncc(C(=O)c2ccc(S(C)(=O)=O)c(OCCOC)c2C)c1OC(C)OC(=O)OC,ECOTOX,2017,Oral,1,0,0,0,0,1
+Triafamone (Ref: AE 1887198),16004663,874195-61-6,COc1nc(OC)nc(C(=O)c2cccc(F)c2N(C)S(=O)(=O)C(F)F)n1,PPDB,2017,Oral,1,0,0,0,0,1
+Momfluorothrin (Ref: S-1563),25193220,609346-29-4,COCc1c(F)c(F)c(COC(=O)C2C(C=C(C)C#N)C2(C)C)c(F)c1F,PPDB,2017,Contact,0,0,1,0,1,2
+(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,44151818,958647-10-4,COc1ccccc1N1CCSC1=C(C#N)Sc1cc(C(F)(F)F)ccc1F,ECOTOX,2017,Contact,0,1,0,0,0,1
+Thiencarbazone,20056440,936331-72-5,COc1nn(C(=O)NS(=O)(=O)c2c(C(=O)O)csc2C)c(=O)n1C,PPDB,2017,Oral,1,0,0,0,0,0
+"Cyclopropanecarboxylic acid, [(3S,4R,4aR,6S,6aS,12R,12aS,12bS)-3-[(Cyclopropylcarbonyl)oxy]-1,3,4,4a,5,6,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)-2H,11H-naphtho[2,1-b]pyrano[3,4-e]pyran-4-yl]methyl ester",54589430,915972-17-7,CC1(COC(=O)C2CC2)C(OC(=O)C2CC2)CCC2(C)C1CC(O)C1(C)Oc3cc(-c4cccnc4)oc(=O)c3C(O)C21,ECOTOX,2017,Oral,0,0,1,0,0,1
+Methyl 3-(4-chlorophenyl)-3-[(N-{[(propan-2-yl)oxy]carbonyl}valyl)amino]propanoate,11338509,283159-90-0,COC(=O)CC(NC(=O)C(NC(=O)OC(C)C)C(C)C)c1ccc(Cl)cc1,ECOTOX,2018,Oral,0,1,0,0,0,1
+Zinc borate,167155,10361-94-1,[O-]B([O-])[O-].[O-]B([O-])[O-].[Zn+2].[Zn+2].[Zn+2],PPDB,2018,Contact,0,1,0,0,0,0
+"2-[4-(4-Chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol",71230671,1417782-03-6,CC(O)(Cn1cncn1)c1ccc(Oc2ccc(Cl)cc2)cc1C(F)(F)F,ECOTOX,2019,Oral,0,1,0,0,0,1
+"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",56933411,1228284-64-7,CON(C(=O)c1cn(C)nc1C(F)F)C(C)Cc1c(Cl)cc(Cl)cc1Cl,ECOTOX,2019,Contact,0,1,0,0,0,1
+Fenpicoxamid (Ref: XDE 777),121494114,517875-34-2,COc1ccnc(C(=O)NC2COC(=O)C(Cc3ccccc3)C(OC(=O)C(C)C)C(C)OC2=O)c1OCOC(=O)C(C)C,PPDB,2020,Contact,0,1,0,0,0,0
+Flupyrimin,14127920,1689566-03-7,O=C(N=c1ccccn1Cc1ccc(Cl)nc1)C(F)(F)F,PPDB,2020,Oral,1,0,0,0,0,1
+"Methyl N-[2-({2-chloro-4-fluoro-5-[3-methyl-2,6-dioxo-4-(trifluoromethyl)-3,6-dihydropyrimidin-1(2H)-yl]phenyl}sulfanyl)propanoyl]-beta-alaninate",67295585,1220411-29-9,COC(=O)CCNC(=O)C(C)Sc1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,ECOTOX,2020,Oral,0,0,0,0,1,1
+Glyphosate-diammonium,44146828,69254-40-6,O=C(O)CNCP(=O)([O-])[O-].[NH4+].[NH4+],PPDB,2020,Contact,1,0,0,0,0,1
+Isoflucypram (Ref: BCS-CN88460),66553206,1255734-28-1,CC(C)c1ccc(Cl)cc1CN(C(=O)c1c(C(F)F)nn(C)c1F)C1CC1,PPDB,2021,Contact,0,1,0,0,0,1
+Fluindapyr (Ref: IR9792),57343740,1383809-87-7,CC1CC(C)(C)c2c(F)ccc(N=C(O)c3cn(C)nc3C(F)F)c21,PPDB,2021,Oral,0,0,0,1,0,1
+Maltodextrin,162179169,9050-36-6,O=CC(O)C(O)C(O)C(O)CO,BPDB,2021,Contact,0,0,0,1,0,0
+Halauxifen (Ref: X11393729),25181547,943832-60-8,COc1c(Cl)ccc(-c2cc(N)c(Cl)c(C(=O)O)n2)c1F,PPDB,2022,Contact,1,0,0,0,0,1
+"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester mixt. with cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate",163360625,943012-36-0,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1.Cc1c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,ECOTOX,2022,Other,0,0,0,0,1,2
+"(1S,3S)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethyl-(R)-cyano(3-phenoxyphenyl)methyl ester cyclopropanecarboxylic acid mixt. with 3-bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide",163360624,873330-19-9,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1.CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,ECOTOX,2022,Other,0,0,0,0,1,1
+Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,70495450,1390661-72-9,COc1c(Cl)ccc(-c2nc(C(=O)OCc3ccccc3)c(Cl)c(N)c2F)c1F,ECOTOX,2023,Contact,1,0,0,0,0,1
+Glyphosate-dimethylammonium,13208144,34494-04-7,CNC.O=C(O)CNCP(=O)(O)O,PPDB,2023,Contact,1,0,0,0,0,1
+Glyphosate-monoammonium,11615303,114370-14-8,N.O=C(O)CNCP(=O)(O)O,PPDB,2023,Contact,1,0,0,0,0,1
+Bixlozone (Ref: F9600),15056663,81777-95-9,CC1(C)CON(Cc2ccc(Cl)cc2Cl)C1=O,PPDB,2023,Contact,1,0,0,0,0,1
+2-(4-Chloro-2-methylphenoxy)acetic acid compd. with N-methylmethanamine (1:1),62420,2039-46-5,CNC.Cc1cc(Cl)ccc1OCC(=O)O,ECOTOX,2023,Contact,1,0,0,0,0,1

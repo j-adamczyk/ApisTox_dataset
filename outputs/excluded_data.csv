@@ -1,0 +1,1434 @@
+CAS,name,exposure_type,observed_response_mean,observed_response_unit,Exclusion reason
+50293,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.9,ug,Invalid units
+50293,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,114.0,ug/g org,Invalid units
+50293,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Environmental, unspecified",205.4,ug/eu,Invalid units
+50293,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Environmental, unspecified",92.3,ug/eu,Invalid units
+50293,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Food,3.7,ul/org,Invalid units
+52686,"P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester","Topical, general",36.74,AI ug/g bdwt,Invalid units
+56382,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester","Spray, unspecified",0.000354,mg/cm2,Invalid units
+56382,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",Dermal,10.3,ug/g org,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester","Topical, general",241,ug/g org,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester","Topical, general",2700/,ug/g org,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",Food,26.0,mg/ml diet,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester","Topical, general",222,ug/g org,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester","Topical, general",2700,ug/g org,Invalid units
+56724,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester","Topical, general",221,ug/g org,Invalid units
+57749,"1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene","Spray, unspecified",0.005000,mg/cm2,Invalid units
+57749,"1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",Dermal,6.0,ug/g org,Invalid units
+58899,"(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane",Dermal,32.32,ug/g org,Invalid units
+58899,"(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane","Spray, unspecified",0.000851,mg/cm2,Invalid units
+58899,"(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane",Dermal,0.375,ug/g bdwt,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,170,AI ng,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.00424,mg/mg bdwt,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.00406,mg/mg bdwt,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.00543,mg/mg bdwt,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.098,ug,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.10,ng/ul,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Spray, unspecified",0.78,AI ug/g bdwt,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,18.65,ug/g org,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.13,ul/org,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.15,ul/org,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.12,ug,Invalid units
+60515,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.11,ug,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ",Food,0.33,ul/org,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ","Topical, general",0.16,ug,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ","Topical, general",0.16,ug,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ","Spray, unspecified",0.000575,mg/cm2,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ","Environmental, unspecified",7.81,ug/eu,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ",Food,0.32,ul/org,Invalid units
+60571,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ","Environmental, unspecified",4.0,ug/eu,Invalid units
+62384,(Acetato-kappaO)phenylmercury,Food,10,ul/org,Invalid units
+62737,"Phosphoric acid 2,2-dichloroethenyl dimethyl ester","Topical, general",0.37,ug/g,Invalid units
+62737,"Phosphoric acid 2,2-dichloroethenyl dimethyl ester",Dermal,27.2,ug/g org,Invalid units
+62737,"Phosphoric acid 2,2-dichloroethenyl dimethyl ester","Topical, general",8.45,ug/g,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",0.232,ug/ul,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Environmental, unspecified",0.110410,%,Invalid units
+63252,1-Naphthalenol methylcarbamate,Dermal,71.7,AI mg/L,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Spray, unspecified",4.97,AI ug/g bdwt,Invalid units
+63252,1-Naphthalenol methylcarbamate,Dermal,0.1809,AI %,Invalid units
+63252,1-Naphthalenol methylcarbamate,Dermal,1.291,ug/g bdwt,Invalid units
+63252,1-Naphthalenol methylcarbamate,Dermal,26.0,ug/g org,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Environmental, unspecified",240.0,ug/eu,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Environmental, unspecified",228.5,ug/eu,Invalid units
+63252,1-Naphthalenol methylcarbamate,Food,0.11,ul/org,Invalid units
+63252,1-Naphthalenol methylcarbamate,Food,0.14,ul/org,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",1.3,ug,Invalid units
+63252,1-Naphthalenol methylcarbamate,Food,0.11,ul/org,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",1.1,ug,Invalid units
+63252,1-Naphthalenol methylcarbamate,Food,0.14,ul/org,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",2.721,AI ug/g bdwt,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",1.37,ug/g,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",2.28,ug/g,Invalid units
+63252,1-Naphthalenol methylcarbamate,"Topical, general",2.3,ug/g bdwt,Invalid units
+64186,Formic acid,"Environmental, unspecified",NR,%,Invalid units
+64186,Formic acid,Multiple routes between application groups,NR,%,Invalid units
+64186,Formic acid,"Environmental, unspecified",NR,%,Invalid units
+64186,Formic acid,"Environmental, unspecified",2,%,Invalid units
+64186,Formic acid,Multiple routes between application groups,1.5,%,Invalid units
+64186,Formic acid,Multiple routes between application groups,2,%,Invalid units
+72208,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]",Food,0.46,ul/org,Invalid units
+72208,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]",Dermal,30.05,ug/g org,Invalid units
+72208,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]","Topical, general",1.2,ug,Invalid units
+72208,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]","Topical, general",0.65,ug,Invalid units
+72208,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]",Food,1.4,ul/org,Invalid units
+72435,"1,1'-(2,2,2-Trichloroethylidene)bis[4-methoxybenzene]",Dermal,165.5,ug/g org,Invalid units
+76448,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",Dermal,128.5,ug/g org,Invalid units
+78579,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid","Topical, general",4.3,ug,Invalid units
+78579,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",Food,0.46,ul/org,Invalid units
+86500,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",Food,0.15,ul/org,Invalid units
+86500,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid","Topical, general",0.063,ug,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,"Topical, general",3240,ug/g org,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,Food,38.1,mg/ml diet,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,Food,NR,mg,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,Multiple routes between application groups,1.5,mg,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,"Topical, general",524,ug/g org,Invalid units
+89838,5-Methyl-2-(1-methylethyl)phenol,Multiple routes between application groups,NR,mg,Invalid units
+107277,Chloroethylmercury,"Topical, general",22,ug,Invalid units
+107277,Chloroethylmercury,Food,13,ul/org,Invalid units
+107493,Tetraethyl ester diphosphoric acid,"Spray, unspecified",0.000445,mg/cm2,Invalid units
+115264,"N,N,N',N'-Tetramethylphosphorodiamidic fluoride","Spray, unspecified",0.02317,mg/cm2,Invalid units
+115297,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,275.0,ug/g org,Invalid units
+115297,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,6.9,ul/org,Invalid units
+115297,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide","Topical, general",7.1,ug,Invalid units
+115297,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,0.8875,AI %,Invalid units
+115297,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,4.4,ug,Invalid units
+115322,4-Chloro-alpha-(4-chlorophenyl)-alpha-(trichloromethyl)benzenemethanol,Dermal,22.5,ug/g org,Invalid units
+116063,2-Methyl-2-(methylthio)propanol O-[(methylamino)carbonyl]oxime,Food,0.65,ug/g diet,Invalid units
+119368,"2-Hydroxybenzoic acid, Methyl ester",Multiple routes between application groups,8,mg,Invalid units
+119368,"2-Hydroxybenzoic acid, Methyl ester",Multiple routes between application groups,NR,mg,Invalid units
+119368,"2-Hydroxybenzoic acid, Methyl ester",Multiple routes between application groups,NR,mg,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Environmental, unspecified",59.9,ug/eu,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,35.0,ug/g org,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",0.64,ug/g,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",1.01,ug/g,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,0.38,ul/org,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",0.27,ug,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",0.22,ug,Invalid units
+121755,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Environmental, unspecified",57.0,ug/eu,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Environmental, unspecified",0.013213,%,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Spray, unspecified",0.011,ul/org,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Spray, unspecified",0.092,ul/org,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Diet, unspecified",0.162,ul/org,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Diet, unspecified",0.116,ul/org,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Topical, general",3.33,ug/g,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Topical, general",0.77,ug/g,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester","Topical, general",1.213,AI ug/g bdwt,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",Dermal,27.77,ug/g org,Invalid units
+122145,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",Dermal,0.222,ug/g bdwt,Invalid units
+140114,Benzyl acetate,Multiple routes between application groups,5,mg,Invalid units
+140114,Benzyl acetate,Multiple routes between application groups,NR,mg,Invalid units
+140114,Benzyl acetate,Multiple routes between application groups,NR,mg,Invalid units
+141662,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester","Topical, general",0.3,ug/g,Invalid units
+141662,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",Food,0.068,ul/org,Invalid units
+141662,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester","Topical, general",0.076,ug,Invalid units
+141662,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester","Spray, unspecified",0.26,AI ug/g bdwt,Invalid units
+144627,Ethanedioic acid,"Spray, unspecified",7.97,ml/1000 org,Invalid units
+144627,Ethanedioic acid,"Spray, unspecified",6.16,ml/1000 org,Invalid units
+144627,Ethanedioic acid,"Spray, unspecified",7.45,ml/1000 org,Invalid units
+298000,"O,O-Dimethyl O-(4-nitrophenyl) ester phosphorothioic acid","Topical, general",0.041,ug/ul,Invalid units
+298000,"O,O-Dimethyl O-(4-nitrophenyl) ester phosphorothioic acid","Environmental, unspecified",1.28,ug/eu,Invalid units
+298000,"O,O-Dimethyl O-(4-nitrophenyl) ester phosphorothioic acid","Environmental, unspecified",1.47,ug/eu,Invalid units
+298000,"O,O-Dimethyl O-(4-nitrophenyl) ester phosphorothioic acid",Dermal,19.5,ug/g org,Invalid units
+298022,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",Food,0.43,ul/org,Invalid units
+298022,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",Dermal,0.33,ug,Invalid units
+298022,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",Food,0.44,ul/org,Invalid units
+298022,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",Dermal,0.32,ug,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,39,ul/org,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,4.1,ug,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,5.0,ug,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,4.3,ug,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,16,ul/org,Invalid units
+298044,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,23,ul/org,Invalid units
+309002,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene","Spray, unspecified",0.000562,mg/cm2,Invalid units
+309002,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",Dermal,125.5,ug/g org,Invalid units
+315184,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)","Topical, general",0.477,AI ug/g bdwt,Invalid units
+321540,"Phosphoric acid, 3-Chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl diethyl ester","Topical, general",1000,ug/g org,Invalid units
+321540,"Phosphoric acid, 3-Chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl diethyl ester","Topical, general",5500,ug/g org,Invalid units
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",Dermal,35.5,ug/g org,Invalid units
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",Dermal,0.22,ug,Invalid units
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",Food,0.24,ug,Invalid units
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",Food,0.20,ul/org,Invalid units
+563122,"Phosphorodithioic acid, S,S'-Methylene O,O,O',O'-tetraethyl ester",Food,106.7,mg/L,Invalid units
+584792,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid 2-methyl-4-oxo-3-(2-propenyl)-2-cyclopenten-1-yl ester",Food,4.6,ul/org,Invalid units
+584792,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid 2-methyl-4-oxo-3-(2-propenyl)-2-cyclopenten-1-yl ester",Food,9.1,ul/org,Invalid units
+608731,"1,2,3,4,5,6-Hexachlorocyclohexane",Food,0.76,ul/org,Invalid units
+608731,"1,2,3,4,5,6-Hexachlorocyclohexane","Topical, general",0.20,ug,Invalid units
+608731,"1,2,3,4,5,6-Hexachlorocyclohexane","Topical, general",0.46,ug,Invalid units
+608731,"1,2,3,4,5,6-Hexachlorocyclohexane",Food,0.45,ul/org,Invalid units
+786196,Carbofenthion,Food,5.2,ul/org,Invalid units
+786196,Carbofenthion,"Topical, general",1.4,ug,Invalid units
+919868,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorothioic acid",Dermal,26.7,ug/g org,Invalid units
+1071836,N-(Phosphonomethyl)glycine,Food,0.24,mg/L,Invalid units
+1071836,N-(Phosphonomethyl)glycine,Dermal,103,ae ug/org,Invalid units
+1332407,Copper chloride oxide hydrate,Food,137.3,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,112.3,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,48.9,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,78.7,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,57.5,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,129.0,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,154.8,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,151.8,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,59.2,ug/g bdwt,Invalid units
+1332407,Copper chloride oxide hydrate,Food,54.5,ug/g bdwt,Invalid units
+1646873,2-Methyl-2-(methylsulfinyl)propanal O-[(methylamino)carbonyl]oxime,Food,1.6,ug/g diet,Invalid units
+1646884,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Food,4.5,ug/g diet,Invalid units
+2032599,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)","Topical, general",0.849,AI ug/g bdwt,Invalid units
+2032599,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)",Dermal,1.216,ug/g bdwt,Invalid units
+2032657,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",Dermal,65.9,AI mg/L,Invalid units
+2104963,"Phosphorothioic acid O-(4-bromo-2,5-dichlorophenyl) O,O-dimethyl ester",Dermal,19.2,ug/g org,Invalid units
+2310170,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid","Environmental, unspecified",0.052966,%,Invalid units
+2312358,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid","Spray, unspecified",706395.38,AI ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,1054.1,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,1006.2,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,1059.3,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,1139.9,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,1218.5,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,780.2,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,928.3,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,660.6,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,660.0,ug/g bdwt,Invalid units
+2702729,"2-(2,4-Dichlorophenoxy)acetic acid sodium salt (1:1)",Food,615.0,ug/g bdwt,Invalid units
+2921882,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester","Topical, general",0.13,ug/g,Invalid units
+2921882,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester","Spray, unspecified",0.85,AI ug/g bdwt,Invalid units
+2921882,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester","Topical, general",1.06,ug/g org,Invalid units
+2921882,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester","Topical, general",0.40,ug/g org,Invalid units
+2921882,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester","Topical, general",4.45,ug/g,Invalid units
+5598152,"Phosphoric acid, diethyl 3,5,6-trichloro-2-pyridinyl ester","Topical, general",0.47,ug/g org,Invalid units
+5598152,"Phosphoric acid, diethyl 3,5,6-trichloro-2-pyridinyl ester","Topical, general",0.17,ug/g org,Invalid units
+6923224,Phosphoric acid dimethyl (1E)-1-methyl-3-(methylamino)-3-oxo-1-propen-1-yl ester,Dermal,10.6,ug/g org,Invalid units
+6923224,Phosphoric acid dimethyl (1E)-1-methyl-3-(methylamino)-3-oxo-1-propen-1-yl ester,"Environmental, unspecified",383.4,ug/eu,Invalid units
+6923224,Phosphoric acid dimethyl (1E)-1-methyl-3-(methylamino)-3-oxo-1-propen-1-yl ester,"Topical, general",1.2,ug/g,Invalid units
+7440382,Arsenic,Food,0.044975,mg/mg bdwt,Invalid units
+7440382,Arsenic,Food,0.0476,mg/mg bdwt,Invalid units
+7440382,Arsenic,Food,0.0353,mg/mg bdwt,Invalid units
+7440439,Cadmium,Food,0.0129,mg/mg bdwt,Invalid units
+7440439,Cadmium,Food,0.0322,mg/mg bdwt,Invalid units
+7786347,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",Food,0.027,ul/org,Invalid units
+7786347,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester","Topical, general",0.070,ug,Invalid units
+8001352,Toxaphene,"Spray, unspecified",0.04467,mg/cm2,Invalid units
+8003347,Pyrethrins and Pyrethroids,Food,0.15,ul/org,Invalid units
+8003347,Pyrethrins and Pyrethroids,Food,0.15,ul/org,Invalid units
+8003347,Pyrethrins and Pyrethroids,"Topical, general",0.29,ug,Invalid units
+8003347,Pyrethrins and Pyrethroids,Dermal,5.25,ug/g org,Invalid units
+8003347,Pyrethrins and Pyrethroids,"Topical, general",0.13,ug,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate","Topical, general",0.41,ug,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate","Topical, general",0.74,ug,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate",Food,0.61,ul/org,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate",Food,0.83,ul/org,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate",Food,0.58,ul/org,Invalid units
+8022002,"Phosphorothioic acid, O-[2-(Ethylthio)ethyl]-O,O-dimethyl ester, Mixt. with S-[2-(ethylthio)ethyl] O,O-dimethyl phosphorothioate","Topical, general",0.54,ug,Invalid units
+8065483,"Phosphorothioic acid, O,O-Diethyl O-[2-(ethylthio)ethyl] ester mixt. with O,O-diethyl S-[2-(ethylthio)ethyl] phosphorothioate","Spray, unspecified",0.005123,mg/cm2,Invalid units
+10101538,"Sulfuric acid, Chromium(3+)salt(3:2)",Food,3458,mg/L diet,Invalid units
+10265926,"Phosphoramidothioic acid, O,S-Dimethyl ester","Environmental, unspecified",442.6,AI ug/ml,Invalid units
+11141176,"2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-(Acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naptho[1,8-bc:4,4a-c']difuran-5,10a(8H)-dicarboxylic acid 5-10a-dimethyl ester","Topical, general",61,AI ug/g bdwt,Invalid units
+11141176,"2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-(Acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naptho[1,8-bc:4,4a-c']difuran-5,10a(8H)-dicarboxylic acid 5-10a-dimethyl ester","Environmental, unspecified",37,AI ug/g bdwt,Invalid units
+12789036,Chlordane (Technical Grade),"Topical, general",1.4,ug,Invalid units
+13171216,"Phosphoric acid, 2-Chloro-3-(diethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",Dermal,0.159,ug/g bdwt,Invalid units
+13548384,"Nitric acid, Chromium(3+) salt",Food,2049/,mg/L diet,Invalid units
+13593038,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",Dermal,11.6,ug/g org,Invalid units
+15165670,"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid",Food,23.3,ae ug/org,Invalid units
+15165670,"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid",Food,23.3,ae ug/org,Invalid units
+16484778,(2R)-2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,87.2,ae ug/org,Invalid units
+16752775,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,"Spray, unspecified",0.66,AI ug/g bdwt,Invalid units
+16752775,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,Food,80,AI ng,Invalid units
+22248799,"Phosphoric acid (1Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl dimethyl ester",Dermal,15.0,ug/g org,Invalid units
+23135220,2-(Dimethylamino)-N-[[(methylamino)carbonyl]oxy]-2-oxo-ethanimidothioic acid methyl ester,"Spray, unspecified",1.13,AI ug/g bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.43,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.47,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.41,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.47,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.35,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.48,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.45,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.45,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.45,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.33,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.41,ng/mg bdwt,Invalid units
+26002802,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester","Topical, general",0.32,ng/mg bdwt,Invalid units
+28434017,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid, (1R,3R)-[5-(Phenylmethyl)-3-furanyl]methyl ester",Dermal,0.565,ug/g org,Invalid units
+29232937,"O-[2-(Diethylamino)-6-methyl-4-pyrimidinyl]O,O-dimethyl ester, Phosphorothioic acid",Dermal,11.6,ug/g org,Invalid units
+29450451,"2-(4-Chloro-2-methylphenoxy)acetic acid, 2-Ethylhexyl ester",Food,119.24,ae ug/org,Invalid units
+30560191,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester","Spray, unspecified",1.55,AI ug/g bdwt,Invalid units
+30560191,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",Food,180,AI ng,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",27.1,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",30.6,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",36.4,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",18.5,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",26.7,ug/g org,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",21.8,ug/g org,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Diet, unspecified",3.273,ul/org,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Diet, unspecified",7.082,ul/org,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide",Food,5.47,mg/ml diet,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",59.4,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",42.4,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",46.8,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",18.4,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",33.7,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",41.0,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",60.6/,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",25.3,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",20.1,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",20.0,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",23.8,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",19.5,ng/mg bdwt,Invalid units
+33089611,"N'-(2,4-Dimethylphenyl)-N-[[(2,4-dimethylphenyl)imino]methyl]-N-methylmethanimidanide","Topical, general",17.6,ng/mg bdwt,Invalid units
+35367385,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide","Topical, general",1000,ng/ul,Invalid units
+39515418,"2,2,3,3-Tetramethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester","Topical, general",0.29,ng/ul,Invalid units
+40465665,N-(Phosphonomethyl)glycine ammonium salt (1:1),"Spray, unspecified",2.8380E32,AI ug/g bdwt,Invalid units
+51630581,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,Dermal,6.273,ug/g org,Invalid units
+52315078,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester","Spray, unspecified",1.28,AI ug/g bdwt,Invalid units
+52315078,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",Dermal,0.333,ug/g org,Invalid units
+52645531,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester","Topical, general",0.173,AI ug/g bdwt,Invalid units
+52645531,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester",Dermal,2.133,ug/g org,Invalid units
+52645531,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester",Dermal,2.666,ug/g org,Invalid units
+52645531,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester","Spray, unspecified",0.92,AI ug/g bdwt,Invalid units
+52918635,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Environmental, unspecified",6.6,AI ug/ml,Invalid units
+52918635,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Dermal,0.186,ug/g org,Invalid units
+55285148,"N-[(Dibutylamino)thio]-N-methylcarbamic acid 2,3-dihydro-2,2-dimethyl-7-benzofuranyl ester",Dermal,1.3,AI mg/L,Invalid units
+59669260,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester","Spray, unspecified",7.60,AI ug/g bdwt,Invalid units
+60207901,"1-[[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",Food,13.5,ae ug/org/d,Invalid units
+66230044,(alphaS)-4-Chloro-alpha-(1-methylethyl)benzeneacetic acid (S)-cyano-(3-phenoxyphenyl)methyl ester,"Spray, unspecified",1.59,AI ug/g bdwt,Invalid units
+68359375,"3-(2,2-Dichloroethenyl)-2,2-dimethyl cyclopropanecarboxylic acid cyano(4-fluoro-3-phenoxyphenyl)methyl ester","Spray, unspecified",0.50,AI ug/g bdwt,Invalid units
+68359375,"3-(2,2-Dichloroethenyl)-2,2-dimethyl cyclopropanecarboxylic acid cyano(4-fluoro-3-phenoxyphenyl)methyl ester","Spray, unspecified",0.57,AI ug/g bdwt,Invalid units
+71751412,Avermectin B1,"Spray, unspecified",0.02,AI ug/g bdwt,Invalid units
+71751412,Avermectin B1,"Environmental, unspecified",15.4,AI ug/ml,Invalid units
+74115245,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine","Topical, general",2.5,AI ug,Invalid units
+76703623,"(1R,3R)-3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)-cyano(3-phenoxyphenyl)methyl ester","Spray, unspecified",1.04,AI ug/g bdwt,Invalid units
+81406373,"2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic acid 1-methylheptyl ester",Food,51.2,ae ug/org,Invalid units
+82657043,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester","Topical, general",0.034,ug/ul,Invalid units
+82657043,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester","Spray, unspecified",0.82,AI ug/g bdwt,Invalid units
+91465086,"3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (1S,3S)-rel-(R)-cyano(3-phenoxyphenyl)methyl ester","Spray, unspecified",1.65,AI ug/g bdwt,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,"Topical, general",586,ug/g org,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,"Topical, general",188,ug/g org,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,Multiple routes between application groups,1000,mg,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,Food,9.20,mg/ml diet,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,Multiple routes between application groups,NR,mg,Invalid units
+102851069,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,Multiple routes between application groups,NR,mg,Invalid units
+111988499,[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide,"Spray, unspecified",33.105,ul/org,Invalid units
+111988499,[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide,"Spray, unspecified",6.109,ul/org,Invalid units
+112281773,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole","Spray, unspecified",20.94,AI ug/g bdwt,Invalid units
+116475128,"Cyclopropanecarboxylic acid, 3-(2,2-Dichloroethenyl)-2,2-dimethylcyano(4-fluoro-3-phenoxyphenyl)methyl ester mixt. with 1-[(6-chloro-3-pyridinyl)methyl]-N-nitro-2-imidizolidinimide","Spray, unspecified",0.56,AI ug/g bdwt,Invalid units
+116714466,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide","Spray, unspecified",47262.11,AI ug/g bdwt,Invalid units
+120068373,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile",Dermal,0.103/,ug/g bdwt,Invalid units
+134098616,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Spray, unspecified",9.23,AI ug/g bdwt,Invalid units
+134098616,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Topical, general",1620,ug/g org,Invalid units
+134098616,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Topical, general",30.0,ug/g org,Invalid units
+134098616,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Topical, general",39.9,ug/g org,Invalid units
+135410207,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Spray, unspecified",2214.80,AI ug/g bdwt,Invalid units
+135410207,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Spray, unspecified",531.55,ul/org,Invalid units
+135410207,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Spray, unspecified",2367.07,ul/org,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Topical, general",0.53,ng/ul,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Spray, unspecified",1.49,AI ug/g bdwt,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Spray, unspecified",1.79,ul/org,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Spray, unspecified",0.82,ul/org,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Diet, unspecified",0.109,ul/org,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,"Diet, unspecified",0,ul/org,Invalid units
+138261413,(2E)-1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-2-imidazolidinimine,Food,0.4,mg/L,Invalid units
+153233911,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole","Spray, unspecified",11761.69,AI ug/g bdwt,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Diet, unspecified",0.01,ul/org,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Diet, unspecified",0.005,ul/org,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Spray, unspecified",0.32,AI ug/g bdwt,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Spray, unspecified",0.019,ul/org,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Spray, unspecified",0.034,ul/org,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",6.03,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",4.17,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",4.61,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.53,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",5.36,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",2.75,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",5.30,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",5.27,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",5.27,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.75,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",4.44,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.11,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.38,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.09,AI ppm,Invalid units
+153719234,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Environmental, unspecified",3.31,AI ppm,Invalid units
+155569918,(4''R)-4''-Deoxy-4''-(methylamino)avermectin B1 benzoate (1:1),"Spray, unspecified",0.02,AI ug/g bdwt,Invalid units
+158062670,N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide,Food,60.5,ae ug/org,Invalid units
+158062670,N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide,"Spray, unspecified",6149.35,AI ug/g bdwt,Invalid units
+165252700,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Spray, unspecified",0.14,ul/org,Invalid units
+165252700,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Spray, unspecified",0.138,ul/org,Invalid units
+165252700,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Diet, unspecified",0,ul/org,Invalid units
+165252700,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Diet, unspecified",0,ul/org,Invalid units
+165252700,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Environmental, unspecified",1.29,AI mg/L,Invalid units
+168316958,Spinosad,"Spray, unspecified",1.68,AI ug/g bdwt,Invalid units
+173584446,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester","Spray, unspecified",2.15,AI ug/g bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,3.25,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.608,AI ppm diet,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.844,AI ppm diet,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.689,AI ppm diet,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Diet, unspecified",0,ul/org,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Diet, unspecified",0.003,ul/org,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Spray, unspecified",0.05,ul/org,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Spray, unspecified",0.022,ul/org,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Spray, unspecified",0.20,AI ug/g bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.000182,mg/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.000193,mg/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.000146,mg/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.20,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.78,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.59,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.62,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.07,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.81,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.60,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.12,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.39,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.19,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.97,ng/mg bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",4.53,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",3.12,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",2.96,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",4.71,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",4.29,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",4.64,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,21.49,AI ng/g bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,19.08,AI ng/g bdwt,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",4.08,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",3.03,AI ppm,Invalid units
+210880925,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",3.28,AI ppm,Invalid units
+272451657,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide","Spray, unspecified",2928194.66,AI ug/g bdwt,Invalid units
+283594901,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester","Spray, unspecified",80076000000000000,AI ug/g bdwt,Invalid units
+396653002,"Avermectin B1 mixt. with rel-(2-methyl[1,1'-biphenyl]-3-yl)methyl (1R,3R)-3-[(1Z)-2-chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylate","Spray, unspecified",0.22,AI ug/g bdwt,Invalid units
+500008457,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,"Spray, unspecified",184370000000000,AI ug/g bdwt,Invalid units
+873330199,"(1S,3S)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethyl-(R)-cyano(3-phenoxyphenyl)methyl ester cyclopropanecarboxylic acid mixt. with 3-bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide","Spray, unspecified",2.40,AI ug/g bdwt,Invalid units
+921202144,"(1S,3S)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (R)-cyano(3-phenoxyphenyl)methyl ester mixt. with 3-[(2-chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine","Spray, unspecified",0.17,AI ug/g bdwt,Invalid units
+935545747,Spinetoram,"Topical, general",0.11,ng/ul,Invalid units
+943012360,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester mixt. with cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate","Spray, unspecified",0.71,AI ug/g bdwt,Invalid units
+946578003,N-[Methyloxido[1-[6-(trifluoromethyl)-3-pyridinyl]ethyl]-lambda4-sulfanylidene]cyanamide,"Spray, unspecified",1.45,AI ug/g bdwt,Invalid units
+1048373723,"2-Hydroxy-N,N,N-trimethylethan-1-aminium (2,4-dichlorophenoxy)acetate",Dermal,89.4,ae ug/org,Invalid units
+1048373723,"2-Hydroxy-N,N,N-trimethylethan-1-aminium (2,4-dichlorophenoxy)acetate",Food,62.6,ae ug/org,Invalid units
+1315501188,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)-cyano(3-phenoxyphenyl)methyl ester","Spray, unspecified",0.17,AI ug/g bdwt,Invalid units
+1402570380,"3-Methoxy-2-methyl-2-(3,5-dimethylbenzoyl)-2-(1,1-dimethylethyl)hydrazide benzoic acid mixt. with spinetoram","Spray, unspecified",2.54,AI ug/g bdwt,Invalid units
+
+CAS,name,exposure_type,observed_response_mean,observed_response_unit,Exclusion reason
+63252,1-Naphthalenol methylcarbamate,"Topical, general",NR,ug/org,Unknown observed response mean
+63252,1-Naphthalenol methylcarbamate,"Topical, general",NR,ug/org,Unknown observed response mean
+63252,1-Naphthalenol methylcarbamate,"Topical, general",NR,ug/org,Unknown observed response mean
+63252,1-Naphthalenol methylcarbamate,"Topical, general",NR,ug/org,Unknown observed response mean
+63252,1-Naphthalenol methylcarbamate,"Topical, general",NR,ug/org,Unknown observed response mean
+93652,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,NR,ug/bee,Unknown observed response mean
+93652,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,NR,ug/bee,Unknown observed response mean
+94757,"2-(2,4-Dichlorophenoxy)acetic acid",Food,NR,ug/bee,Unknown observed response mean
+94757,"2-(2,4-Dichlorophenoxy)acetic acid",Food,NR,ug/bee,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+114261,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)","Topical, general",NR,ug/org,Unknown observed response mean
+309002,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene","Topical, general",NR,ug/org,Unknown observed response mean
+309002,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene","Topical, general",NR,ug/org,Unknown observed response mean
+309002,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene","Topical, general",NR,ug/org,Unknown observed response mean
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid","Topical, general",NR,ug/org,Unknown observed response mean
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid","Topical, general",NR,ug/org,Unknown observed response mean
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid","Topical, general",NR,ug/org,Unknown observed response mean
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid","Topical, general",NR,ug/org,Unknown observed response mean
+333415,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid","Topical, general",NR,ug/org,Unknown observed response mean
+1332407,Copper chloride oxide hydrate,Food,NR,ug/bee,Unknown observed response mean
+1332407,Copper chloride oxide hydrate,Food,NR,ug/bee,Unknown observed response mean
+30560191,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",Food,NR,ng/org,Unknown observed response mean
+
+CAS,name,exposure_type,observed_response_mean,observed_response_unit,toxicity_type,Exclusion reason
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,5.36,ug/bee,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,7.12,ug/bee,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",17.2,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.01,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.75,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.4,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.31,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",6.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",0.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.14,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.55,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",10.04,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",5.1,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.54,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.37,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",9.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",76.33,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.82,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",10.2,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",6.7,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.97,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.3,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",67.0,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.22,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",7.3,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",70.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",20.1,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.2,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",4.0,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.23,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.0,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.2,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.25,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.7,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",15.7,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.87,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.05,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.52,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",7.5,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",6.9,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.31,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",9.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.27,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.44,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",0.54,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.55,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.1,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",7.91,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.41,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",36.6,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",9.67,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.81,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.1,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",63.76,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",0.92,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.42,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.49,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",1.58,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.904,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",4.69,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",18.0,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",3.47,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,3.9,ug/bee,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Diet, unspecified",3.7,ug/bee,Oral,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,5.95,ug/bee,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",2.4,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",25.09,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]","Topical, general",6.3,ug/org,Contact,Unspecifed toxicity level
+50-29-3,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",Dermal,0.052,ug/org,Contact,Unspecifed toxicity level
+52-68-6,"P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester","Topical, general",5.137,AI ug/org,Contact,Unspecifed toxicity level
+52-68-6,"P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester",Dermal,59.83,ug/bee,Contact,Unspecifed toxicity level
+52-68-6,"P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester","Topical, general",9.0,AI ug/org,Contact,Unspecifed toxicity level
+52-68-6,"P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester",Dermal,0.024,ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,1.67,ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,1.69,ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.1,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.26,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.22,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Diet, unspecified",0.12,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Diet, unspecified",0.11,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Diet, unspecified",0.11,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.3,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,1.14,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.14,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.2,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.6,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.31,ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.0224,ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.4305,mg/bee,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.3251,mg/bee,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.3391,mg/bee,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.13,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.188,ug/bee,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.16,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.16,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.19,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,320.0,mg/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,430.0,mg/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,339.0,mg/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.13,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.15,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.11,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Oral via capsule,0.152,ng/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.12,ug/bee,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Diet, unspecified",0.15,ug/bee,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.19,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.19,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.19,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.2,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Spray, unspecified",0.22,ug/bee,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Spray, unspecified",0.1,AI ug/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,1.93,ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.13,ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.16,ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Drinking water,0.13,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Drinking water,0.11,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Drinking water,0.15,AI ug/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Drinking water,0.17,ng/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.16,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.16,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester","Topical, general",0.19,AI ug/org,Contact,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Multiple routes between application groups,0.248,ug/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Multiple routes between application groups,0.661,ug/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Multiple routes between application groups,0.315,ug/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Multiple routes between application groups,0.191,ug/org,Other,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.108,AI ng/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.089,AI ng/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.133,AI ng/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Food,0.038,AI ng/org,Oral,Unspecifed toxicity level
+60-51-5,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",Dermal,0.0014,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.34,ug/bee,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Food,46.0,AI ug/org,Oral,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.02,ug/bee,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.88,ug/bee,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.212,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.75,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Diet, unspecified",0.14,ug/bee,Oral,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.18,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.14,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Spray, unspecified",1.41,ug/bee,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Spray, unspecified",0.62,AI ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.809,AI ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,0.123,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Multiple routes between application groups,2.115,ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Multiple routes between application groups,0.488,ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Multiple routes between application groups,1.72,ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Multiple routes between application groups,1.34,ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Multiple routes between application groups,1.212,ug/org,Other,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",1.1,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",1.3,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.385,AI ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.3,ug/bee,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.142,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.055,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.96,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.78,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,"Topical, general",0.0428,ug/org,Contact,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Food,1.33,ug/org,Oral,Unspecifed toxicity level
+63-25-2,1-Naphthalenol methylcarbamate,Dermal,1.34,ug/bee,Contact,Unspecifed toxicity level
+78-57-9,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",Dermal,4.3,ug/bee,Contact,Unspecifed toxicity level
+78-57-9,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid","Diet, unspecified",0.46,ug/bee,Oral,Unspecifed toxicity level
+78-57-9,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",Dermal,11.06,ug/bee,Contact,Unspecifed toxicity level
+83-79-4,"[2R-(2-alpha, 6a-alpha, 12a-alpha)]-1,2,12,12a-Tetrahydro-8,9-dimethoxy-2-(1-methylethenyl)-[1]-benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6(6aH)-one",Dermal,60.0,ug/bee,Contact,Unspecifed toxicity level
+83-79-4,"[2R-(2-alpha, 6a-alpha, 12a-alpha)]-1,2,12,12a-Tetrahydro-8,9-dimethoxy-2-(1-methylethenyl)-[1]-benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6(6aH)-one","Diet, unspecified",30.0,ug/bee,Oral,Unspecifed toxicity level
+83-79-4,"[2R-(2-alpha, 6a-alpha, 12a-alpha)]-1,2,12,12a-Tetrahydro-8,9-dimethoxy-2-(1-methylethenyl)-[1]-benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6(6aH)-one",Dermal,2.42,ug/bee,Contact,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Dermal,100.0,ug/bee,Contact,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,"Diet, unspecified",10.0,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Dermal,18.13,ug/bee,Contact,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,115.5,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,138.6,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,111.2,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,99.2,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,73.0,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,96.8,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,89.2,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,90.0,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,115.1,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,129.1,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,110.2,ug/bee,Oral,Unspecifed toxicity level
+93-65-2,2-(4-Chloro-2-methylphenoxy)propanoic acid,Food,51.3,ug/bee,Oral,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Food,194.0,AI ug/org,Oral,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Dermal,194.0,AI ug/org,Contact,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Food,34.6,AI ug/org,Oral,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Dermal,24.17,ug/bee,Contact,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,"Diet, unspecified",10.0,ug/bee,Oral,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Food,93.9,AI ug/org/d,Oral,Unspecifed toxicity level
+94-74-6,2-(4-Chloro-2-methylphenoxy)acetic acid,Dermal,100.0,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide","Topical, general",0.0461,ug/org,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,16.14,AI ug/org,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,7.81,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Multiple routes between application groups,109.5,ug/org,Other,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Multiple routes between application groups,21.79,ug/org,Other,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Multiple routes between application groups,14.42,ug/org,Other,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Multiple routes between application groups,28.14,ug/org,Other,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Multiple routes between application groups,13.88,ug/org,Other,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,7.1,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide","Diet, unspecified",6.9,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,6.83,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,9.5,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,6.3,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,6.15,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,4.45,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,5.85,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,5.51,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,5.08,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,4.86,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,4.43,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,6.11,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,4.82,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,7.62,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Direct application,5.87,ug/bee,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Dermal,8.875,AI ug/org,Contact,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,15.6,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,22.6,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,40.3,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,79.1,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,61.1,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,38.9,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,42.1,ug/bee,Oral,Unspecifed toxicity level
+115-29-7,"6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepin 3-oxide",Food,44.3,ug/bee,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Multiple routes between application groups,1.316,ug/org,Other,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,1.66,AI ug/org,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,0.4,AI ug/org,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,0.709,ug/bee,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,0.156,AI ug/org,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,0.19,AI ug/org,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,1.66,AI ug/org,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",0.0273,ug/org,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,870.0,mg/bee,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,820.0,mg/bee,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Food,410.0,mg/bee,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Topical, general",0.231,AI ug/org,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,0.27,ug/bee,Contact,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester","Diet, unspecified",0.38,ug/bee,Oral,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Multiple routes between application groups,0.726,ug/org,Other,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Multiple routes between application groups,0.35,ug/org,Other,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Multiple routes between application groups,0.764,ug/org,Other,Unspecifed toxicity level
+121-75-5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",Dermal,0.002,ug/org,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Dermal,3.09,ug/org,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Dermal,215.1,ug/org,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Food,6.0,AI ug/org/d,Oral,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Dermal,215.0,ug/bee,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Food,107.0,AI ug/org,Oral,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Dermal,5.392,ug/org,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Dermal,10.0,ug/bee,Contact,Unspecifed toxicity level
+133-06-2,"3a,4,7,7a-Tetrahydro-2-[(trichloromethyl)thio]-1H-isoindole-1,3-(2H)-dione",Food,2000.0,ug/bee,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,1.11,AI ug/org,Contact,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,6.12,ug/org,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,35.3,ug/org,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,230.5,ug/org,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,27.83,ug/org,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Food,8.169,ug/org,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,4.3,ug/bee,Contact,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester","Diet, unspecified",16.0,ug/bee,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester","Diet, unspecified",39.0,ug/bee,Oral,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,5.14,ug/bee,Contact,Unspecifed toxicity level
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",Dermal,0.96,AI ug/org,Contact,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Multiple routes between application groups,24.4,ug/org,Other,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Multiple routes between application groups,2.153,ug/org,Other,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Multiple routes between application groups,3.274,ug/org,Other,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Multiple routes between application groups,4.44,ug/org,Other,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Multiple routes between application groups,2.99,ug/org,Other,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Dermal,3.0,ug/bee,Contact,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Dermal,0.54,ug/bee,Contact,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester","Diet, unspecified",0.31,ug/bee,Oral,Unspecifed toxicity level
+301-12-2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",Dermal,0.003,ug/org,Contact,Unspecifed toxicity level
+510-15-6,4-Chloro-alpha-(4-chlorophenyl)-alpha-hydroxybenzeneacetic acid ethyl ester,Dermal,1849.0,ug/bee,Contact,Unspecifed toxicity level
+510-15-6,4-Chloro-alpha-(4-chlorophenyl)-alpha-hydroxybenzeneacetic acid ethyl ester,Dermal,9.67,ug/bee,Contact,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Food,99.1,AI ug/org,Oral,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Dermal,24.17,ug/bee,Contact,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Dermal,99.8,AI ug/org,Contact,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Food,22.0,AI ug/org/d,Oral,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Food,99.8,AI ug/org,Oral,Unspecifed toxicity level
+709-98-8,"N-(3,4-Dichlorophenyl)propanamide",Food,6.13,AI ug/org,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,33.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,13.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,11.9,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,47.9,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,16.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,6.1,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,5.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,23.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,13.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,4.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,5.1,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,10.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,15.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,32.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.5,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,18.4,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,15.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,10.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,24.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,21.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,23.4,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,15.1,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,15.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,7.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,22.1,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,21.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,19.4,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,11.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,11.5,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,19.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.4,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,7.4,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,37.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,19.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,20.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,27.1,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,14.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,22.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,26.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,14.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,11.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,10.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,13.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,21.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,30.3,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,9.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,11.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,13.6,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.5,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,3.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,35.8,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,14.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,13.0,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,32.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,7.2,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,12.7,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,8.9,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,5.5,ug/bee,Oral,Unspecifed toxicity level
+1332-40-7,Copper chloride oxide hydrate,Food,32.4,ug/bee,Oral,Unspecifed toxicity level
+1646-88-4,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Multiple routes between application groups,0.659,ug/org,Other,Unspecifed toxicity level
+1646-88-4,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Multiple routes between application groups,52.55,ug/org,Other,Unspecifed toxicity level
+1646-88-4,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Multiple routes between application groups,42.93,ug/org,Other,Unspecifed toxicity level
+1646-88-4,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Multiple routes between application groups,1.067,ug/org,Other,Unspecifed toxicity level
+1646-88-4,2-Methyl-2-(methylsulfonyl)propanal O-[(methylamino)carbonyl]oxime,Multiple routes between application groups,399.3,ug/org,Other,Unspecifed toxicity level
+1918-00-9,"3,6-Dichloro-2-methyoxybenzoic acid",Dermal,90.65,ug/bee,Contact,Unspecifed toxicity level
+1918-00-9,"3,6-Dichloro-2-methyoxybenzoic acid",Food,21.0,AI ug/org/d,Oral,Unspecifed toxicity level
+1918-00-9,"3,6-Dichloro-2-methyoxybenzoic acid",Dermal,100.0,ug/bee,Contact,Unspecifed toxicity level
+1918-00-9,"3,6-Dichloro-2-methyoxybenzoic acid","Diet, unspecified",10.0,ug/bee,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,5.87,AI ug/org/d,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,96.0,AI ug/org,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,5.05,AI ug/org/d,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,34.02,AI ug/org,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Food,22.0,AI ug/org,Oral,Unspecifed toxicity level
+2164-17-2,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",Dermal,193.38,ug/bee,Contact,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Dermal,8.94,ug/bee,Contact,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,13.3,ug/bee,Oral,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,11.1,ug/bee,Oral,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,16.3,ug/bee,Oral,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,9.9,ug/bee,Oral,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,17.4,ug/bee,Oral,Unspecifed toxicity level
+2310-17-0,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",Food,11.8,ug/bee,Oral,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Dermal,15.0,ug/bee,Contact,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Dermal,62.19,AI ug/org,Contact,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Food,4.8,AI ug/org/d,Oral,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Food,25.31,AI ug/org/d,Oral,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Multiple routes between application groups,107.8,ug/org,Other,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Multiple routes between application groups,67.47,ug/org,Other,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Multiple routes between application groups,111.8,ug/org,Other,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid","Spray, unspecified",126866.99,ug/bee,Other,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid","Spray, unspecified",88299.42,AI ug/org,Other,Unspecifed toxicity level
+2312-35-8,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",Dermal,51.33,AI ug/org,Contact,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Diet, unspecified",0.72,AI ug/org,Oral,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Topical, general",38.9,AI ug/org,Contact,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Diet, unspecified",0.4,AI ug/org,Oral,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Diet, unspecified",0.46,AI ug/org,Oral,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt",Food,0.4,AI ug/org,Oral,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Topical, general",10.4,AI ug/org,Contact,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Topical, general",4.78,AI ug/org,Contact,Unspecifed toxicity level
+2795-39-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt","Topical, general",6.0,AI ug/org,Contact,Unspecifed toxicity level
+5326-23-8,6-Chloro-3-pyridinecarboxylic acid,"Topical, general",50.0,AI ug/org,Contact,Unspecifed toxicity level
+5326-23-8,6-Chloro-3-pyridinecarboxylic acid,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+5326-23-8,6-Chloro-3-pyridinecarboxylic acid,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+5326-23-8,6-Chloro-3-pyridinecarboxylic acid,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+5326-23-8,6-Chloro-3-pyridinecarboxylic acid,Food,121.5,AI ng/org,Oral,Unspecifed toxicity level
+8001-35-2,Toxaphene,Food,39.809999999999995,mg/org,Oral,Unspecifed toxicity level
+8001-35-2,Toxaphene,"Topical, general",35.68,ug/org,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,"Topical, general",21.3,ug/org,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,Dermal,50.4,ug/bee,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,"Topical, general",73.81,ug/org,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,"Topical, general",19.08,ug/org,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,"Topical, general",33.6,ug/org,Contact,Unspecifed toxicity level
+8001-35-2,Toxaphene,Dermal,0.144,ug/org,Contact,Unspecifed toxicity level
+10124-65-9,Potassium dodecanoate,Dermal,25.0,ug/bee,Contact,Unspecifed toxicity level
+10124-65-9,Potassium dodecanoate,Dermal,0.4975,AI ug/org,Contact,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Dermal,1.37,ug/bee,Contact,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Food,3.7,AI ug/org,Oral,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Multiple routes between application groups,0.766,ug/org,Other,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Multiple routes between application groups,0.698,ug/org,Other,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Multiple routes between application groups,1.37,ug/org,Other,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Multiple routes between application groups,0.871,ug/org,Other,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Multiple routes between application groups,0.73,ug/org,Other,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester",Food,0.2,ng/org,Oral,Unspecifed toxicity level
+10265-92-6,"Phosphoramidothioic acid, O,S-Dimethyl ester","Topical, general",408.5,AI ug/org,Contact,Unspecifed toxicity level
+10311-84-9,"S-[2-Chloro-1-(1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)ethyl], O,O-diethyl ester phosphorodithioic acid",Dermal,34.45,ug/bee,Contact,Unspecifed toxicity level
+10311-84-9,"S-[2-Chloro-1-(1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)ethyl], O,O-diethyl ester phosphorodithioic acid","Diet, unspecified",29.2,ug/bee,Oral,Unspecifed toxicity level
+10311-84-9,"S-[2-Chloro-1-(1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)ethyl], O,O-diethyl ester phosphorodithioic acid",Dermal,9.5,ug/bee,Contact,Unspecifed toxicity level
+10311-84-9,"S-[2-Chloro-1-(1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)ethyl], O,O-diethyl ester phosphorodithioic acid",Dermal,28.6,ug/bee,Contact,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Dermal,10.0,ug/bee,Contact,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester","Diet, unspecified",10.0,ug/bee,Oral,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Multiple routes between application groups,3757.0,ug/org,Other,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Multiple routes between application groups,853000.0,ug/org,Other,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Multiple routes between application groups,1020000000.0,ug/org,Other,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Dermal,120.86,ug/bee,Contact,Unspecifed toxicity level
+17804-35-2,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",Multiple routes between application groups,1050000.0,ug/org,Other,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester","Diet, unspecified",3.2,ug/bee,Oral,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Food,19.5,AI ug/org,Oral,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Dermal,54.0,ug/bee,Contact,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Dermal,12.56,AI ug/org,Contact,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Food,3.01,AI ug/org,Oral,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester","Topical, general",2.791,AI ug/org,Contact,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Dermal,18.72,AI ug/org,Contact,Unspecifed toxicity level
+23103-98-2,"Dimethylcarbamic acid, 2-(Dimethylamino)-5,6-dimethyl-4-pyrimidinyl ester",Food,11.31,AI ug/org,Oral,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)","Topical, general",4.971,AI ug/org,Contact,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Multiple routes between application groups,67.202,ug/org,Other,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Multiple routes between application groups,18.252,ug/org,Other,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Multiple routes between application groups,426.3,ug/org,Other,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Multiple routes between application groups,9.21,ug/org,Other,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Food,0.16,AI ug/org,Oral,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Food,0.11,AI ug/org/d,Oral,Unspecifed toxicity level
+23422-53-9,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",Dermal,1.0,AI ug/org,Contact,Unspecifed toxicity level
+23564-05-8,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+23564-05-8,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",Food,52.0,AI ug/org/d,Oral,Unspecifed toxicity level
+23564-05-8,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",Food,4.16,AI ug/org/d,Oral,Unspecifed toxicity level
+23564-05-8,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",Food,114.68,AI ug/org,Oral,Unspecifed toxicity level
+23564-05-8,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",Food,88.0,AI ug/org,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide","Topical, general",3.01,ug/org,Contact,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Food,0.0624,AI ug/org,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Food,85.6,AI ug/org,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Dermal,74.2,AI ug/org,Contact,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Food,9.1,AI ug/org,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Food,0.044,AI ug/org/d,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide","Topical, general",2.42,ug/org,Contact,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide","Topical, general",6.01,ug/org,Contact,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide","Diet, unspecified",30.0,ug/bee,Oral,Unspecifed toxicity level
+35367-38-5,"N-[[(4-Chlorophenyl)amino]carbonyl]-2,6-difluorobenzamide",Dermal,30.0,ug/bee,Contact,Unspecifed toxicity level
+52508-35-7,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",Food,91.0,AI ug/org,Oral,Unspecifed toxicity level
+52508-35-7,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",Food,66.0,AI ug/org,Oral,Unspecifed toxicity level
+52508-35-7,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",Food,7.3,AI ug/org/d,Oral,Unspecifed toxicity level
+52508-35-7,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",Dermal,81.0,AI ug/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Topical, general",0.05065,ng/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Diet, unspecified",0.079,ug/bee,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Food,0.85,AI ug/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Diet, unspecified",0.0184,AI ng/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Dermal,0.019399999999999997,AI ng/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Food,0.71,AI ng/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Spray, unspecified",0.019,AI ng/org,Other,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Topical, general",0.677,AI ug/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Food,0.05,ug/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Dermal,0.112,AI ug/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Food,0.21,AI ug/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Food,0.191,AI ug/org,Oral,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Dermal,0.0015,AI ug/org,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",Dermal,0.051,ug/bee,Contact,Unspecifed toxicity level
+52918-63-5,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester","Topical, general",112.2,AI ug/org,Contact,Unspecifed toxicity level
+57960-19-7,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",Food,1.2,AI ug/org,Oral,Unspecifed toxicity level
+57960-19-7,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+57960-19-7,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",Food,0.43,AI ug/org/d,Oral,Unspecifed toxicity level
+57960-19-7,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",Dermal,350.0,AI ug/org,Contact,Unspecifed toxicity level
+57960-19-7,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",Food,315.0,AI ug/org,Oral,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester","Spray, unspecified",2.79,ug/bee,Other,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester","Spray, unspecified",0.95,AI ug/org,Other,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester","Topical, general",0.13,AI ug/org,Contact,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",Food,0.13,AI ug/org,Oral,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",Dermal,25.0,AI ug/org,Contact,Unspecifed toxicity level
+59669-26-0,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",Dermal,2.11,AI ug/org,Contact,Unspecifed toxicity level
+68157-60-8,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,Food,15.0,AI ug/org,Oral,Unspecifed toxicity level
+68157-60-8,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,Food,15.0,AI ug/org/d,Oral,Unspecifed toxicity level
+68157-60-8,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,Dermal,25.0,AI ug/org,Contact,Unspecifed toxicity level
+68157-60-8,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,Food,4.23,AI ug/org/d,Oral,Unspecifed toxicity level
+71422-67-8,"N-[[[3,5-Dichloro-4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,0.000195,ug/org,Contact,Unspecifed toxicity level
+71422-67-8,"N-[[[3,5-Dichloro-4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,7.34e-05,ug/org,Contact,Unspecifed toxicity level
+71422-67-8,"N-[[[3,5-Dichloro-4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,0.000478,ug/org,Contact,Unspecifed toxicity level
+71422-67-8,"N-[[[3,5-Dichloro-4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,186.6,ug/org,Contact,Unspecifed toxicity level
+74051-80-2,2-[1-(Ethoxyimino)butyl]-5-[2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one,Dermal,200.2,AI ug/org,Contact,Unspecifed toxicity level
+74051-80-2,2-[1-(Ethoxyimino)butyl]-5-[2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one,Food,21.0,AI ug/org/d,Oral,Unspecifed toxicity level
+74051-80-2,2-[1-(Ethoxyimino)butyl]-5-[2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one,Dermal,10.0,AI ug/org,Contact,Unspecifed toxicity level
+74051-80-2,2-[1-(Ethoxyimino)butyl]-5-[2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one,Food,200.2,AI ug/org,Oral,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Dermal,50.0,AI ug/org,Contact,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Food,198.0,ug/bee,Oral,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Dermal,198.0,ug/bee,Contact,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Dermal,10.5,AI ug/org,Contact,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Food,47.0,ug/org,Oral,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Food,50.0,ug/org,Oral,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Food,2.0,AI ug/org,Oral,Unspecifed toxicity level
+76674-21-0,"alpha-(2-Fluorophenyl)-alpha-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol",Dermal,52.5,AI ug/org,Contact,Unspecifed toxicity level
+86479-06-3,"N-[[[3,5-Dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl]amino]carbonyl]-2,6-difluorobenzamide",Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+86479-06-3,"N-[[[3,5-Dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,5.83,AI ug/org,Contact,Unspecifed toxicity level
+86479-06-3,"N-[[[3,5-Dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,99.6,AI ug/org,Contact,Unspecifed toxicity level
+86479-06-3,"N-[[[3,5-Dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl]amino]carbonyl]-2,6-difluorobenzamide",Food,5.68,AI ug/org,Oral,Unspecifed toxicity level
+95737-68-1,2-[1-Methyl-2-(4-phenoxyphenoxy)ethoxy]pyridine,Food,72.8,AI ug/org,Oral,Unspecifed toxicity level
+95737-68-1,2-[1-Methyl-2-(4-phenoxyphenoxy)ethoxy]pyridine,Food,2.0,AI ug/org/d,Oral,Unspecifed toxicity level
+95737-68-1,2-[1-Methyl-2-(4-phenoxyphenoxy)ethoxy]pyridine,Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+102851-06-9,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,"Topical, general",9.45,ng/org,Contact,Unspecifed toxicity level
+102851-06-9,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,"Topical, general",8.05,ng/org,Contact,Unspecifed toxicity level
+102851-06-9,N-[2-Chloro-4-(trifluoromethyl)phenyl]-D-valine cyano(3-phenoxyphenyl)methyl ester,"Topical, general",19.8,ug/org,Contact,Unspecifed toxicity level
+104206-82-8,"2-[4-(Methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",Food,10.6,AI ug/org/d,Oral,Unspecifed toxicity level
+104206-82-8,"2-[4-(Methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",Food,11.0,AI ug/org,Oral,Unspecifed toxicity level
+104206-82-8,"2-[4-(Methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",Food,24.9,AI ug/org/d,Oral,Unspecifed toxicity level
+104206-82-8,"2-[4-(Methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+112281-77-3,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole","Spray, unspecified",12.77,ug/bee,Other,Unspecifed toxicity level
+112281-77-3,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole","Spray, unspecified",2.62,AI ug/org,Other,Unspecifed toxicity level
+112281-77-3,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole",Food,76.0,AI ug/org/d,Oral,Unspecifed toxicity level
+112281-77-3,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole",Food,28.3,AI ug/org/d,Oral,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Food,0.0048,AI ug/org/d,Oral,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Food,200.0,ug/bee,Oral,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,200.0,ug/bee,Contact,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide","Spray, unspecified",5907.76,AI ug/org,Other,Unspecifed toxicity level
+116714-46-6,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide","Spray, unspecified",63524.34,ug/bee,Other,Unspecifed toxicity level
+117428-22-5,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,Food,200.0,AI ug/org,Oral,Unspecifed toxicity level
+117428-22-5,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,Food,7.83,AI ug/org,Oral,Unspecifed toxicity level
+117428-22-5,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+117428-22-5,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+119446-68-3,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+119446-68-3,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",Food,1.79,AI ug/org/d,Oral,Unspecifed toxicity level
+119446-68-3,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",Food,20.9,AI ug/org/d,Oral,Unspecifed toxicity level
+120868-66-8,1-[(6-Chloro-3-pyridinyl)methyl]-2-imidazolidinone,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+120868-66-8,1-[(6-Chloro-3-pyridinyl)methyl]-2-imidazolidinone,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+120868-66-8,1-[(6-Chloro-3-pyridinyl)methyl]-2-imidazolidinone,Food,1.0,ng/org,Oral,Unspecifed toxicity level
+120868-66-8,1-[(6-Chloro-3-pyridinyl)methyl]-2-imidazolidinone,Food,99.5,AI ng/org,Oral,Unspecifed toxicity level
+123312-89-0,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",Food,117.0,AI ug/org,Oral,Unspecifed toxicity level
+123312-89-0,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+123312-89-0,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",Dermal,0.16,ug/org,Contact,Unspecifed toxicity level
+123312-89-0,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",Food,62.71,AI ug/org,Oral,Unspecifed toxicity level
+123312-89-0,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+129909-90-6,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",Food,24.4,AI ug/org,Oral,Unspecifed toxicity level
+129909-90-6,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",Food,5.2,AI ug/org/d,Oral,Unspecifed toxicity level
+129909-90-6,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+129909-90-6,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",Food,45.0,AI ug/org,Oral,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Spray, unspecified",1.15,AI ug/org,Other,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester","Spray, unspecified",23.07,ug/bee,Other,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester",Food,0.029,AI ug/org/d,Oral,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester",Food,0.2,AI ug/org,Oral,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester",Dermal,15.8,AI ug/org,Contact,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester",Dermal,479.8,AI ug/org,Contact,Unspecifed toxicity level
+134098-61-6,"4-[[[(E)-[(1,3-Dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino]oxy]methyl]benzoic acid, 1,1-Dimethylethyl ester",Food,0.031,AI ug/org/d,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Spray, unspecified",276.85,AI ug/org,Other,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Spray, unspecified",395.5,ug/bee,Other,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,0.0215,ng/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,9.1,ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,72.6,ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,8.96,AI ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,5.65,ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,1.69,ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Topical, general",64.6,ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,12.5,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,0.96,AI ug/org/d,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,5.43,AI ug/org/d,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,10.21,AI ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,8.81,ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,10.53,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,"Topical, general",7.07,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Food,1.16,AI ug/org,Oral,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,3.26,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,4.79,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,0.96,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,6.44,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,0.86,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,4.43,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,10.73,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,15.91,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,3.62,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,1.21,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,1.52,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,26.0,AI ug/org,Contact,Unspecifed toxicity level
+135410-20-7,(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,Dermal,7.28,AI ug/org,Contact,Unspecifed toxicity level
+139968-49-3,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,Food,2.43,AI ug/org,Oral,Unspecifed toxicity level
+139968-49-3,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,Dermal,1.65,AI ug/org,Contact,Unspecifed toxicity level
+139968-49-3,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,Dermal,106.0,AI ug/org,Contact,Unspecifed toxicity level
+145701-21-9,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",Food,202.0,AI ug/org,Oral,Unspecifed toxicity level
+145701-21-9,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",Dermal,25.0,AI ug/org,Contact,Unspecifed toxicity level
+145701-21-9,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",Food,16.7,AI ug/org,Oral,Unspecifed toxicity level
+145701-21-9,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",Food,1.1,AI ug/org/d,Oral,Unspecifed toxicity level
+153233-91-1,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",Food,1.0,AI ug/org/d,Oral,Unspecifed toxicity level
+153233-91-1,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+153233-91-1,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole","Spray, unspecified",1470.21,AI ug/org,Other,Unspecifed toxicity level
+153233-91-1,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole","Spray, unspecified",2041.96,ug/bee,Other,Unspecifed toxicity level
+153233-91-1,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",Food,200.0,AI ug/org,Oral,Unspecifed toxicity level
+161326-34-7,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",Dermal,47.1,AI ug/org,Contact,Unspecifed toxicity level
+161326-34-7,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",Food,7.56,AI ug/org,Oral,Unspecifed toxicity level
+161326-34-7,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",Food,159.8,AI ug/org,Oral,Unspecifed toxicity level
+161326-34-7,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",Dermal,82.3,AI ug/org,Contact,Unspecifed toxicity level
+161326-34-7,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",Food,0.84,AI ug/org/d,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,"Topical, general",0.075,AI ug/org,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.51,ug/bee,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.59,ug/bee,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Dermal,0.047,AI ug/org,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.023,AI ug/org,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Dermal,0.024,AI ug/org,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Dermal,0.041,ug/bee,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Dermal,0.0006,ug/org,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,15.0,AI ug/org,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Dermal,0.061,AI ug/org,Contact,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.032,AI ug/org,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,3.3,AI ug/org,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.0076,AI ug/org,Oral,Unspecifed toxicity level
+165252-70-0,N''-Methyl-N-nitro-N'-[(tetrahydro-3-furanyl)methyl]guanidine,Food,0.011,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Dermal,0.0682,AI ug/org,Contact,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester","Spray, unspecified",0.27,AI ug/org,Other,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester","Spray, unspecified",1.8,ug/bee,Other,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,0.528,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,0.204,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Dermal,0.566,AI ug/org,Contact,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,18.1,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,0.478,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,14.0,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Dermal,1.5,AI ug/org,Contact,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Dermal,0.18,AI ug/org,Contact,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,10.0,AI ug/org,Oral,Unspecifed toxicity level
+173584-44-6,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",Food,0.0403,AI ug/org/d,Oral,Unspecifed toxicity level
+175013-18-0,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+175013-18-0,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+175013-18-0,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,Food,110.0,AI ug/org,Oral,Unspecifed toxicity level
+175013-18-0,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,Food,4.8,AI ug/org/d,Oral,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Food,71.0,AI ug/org,Oral,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Food,5.2,AI ug/org/d,Oral,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Food,58.0,AI ug/org/d,Oral,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Food,232.0,ug/bee,Oral,Unspecifed toxicity level
+178928-70-6,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",Dermal,200.0,ug/bee,Contact,Unspecifed toxicity level
+179101-81-6,"2-(3-{2,6-Dichloro-4-[(3,3-dichloroprop-2-en-1-yl)oxy]phenoxy}propoxy)-5-(trifluoromethyl)pyridine",Dermal,6.16,ug/org,Contact,Unspecifed toxicity level
+179101-81-6,"2-(3-{2,6-Dichloro-4-[(3,3-dichloroprop-2-en-1-yl)oxy]phenoxy}propoxy)-5-(trifluoromethyl)pyridine",Dermal,25.0,AI ug/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0095,AI ng/org/d,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.018,AI ng/org/d,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0269,AI ng/org/d,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.002,ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.02212,mg/bee,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.02212,mg/bee,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0196,mg/bee,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Dermal,0.0275,AI ug/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Topical, general",0.0218,AI ug/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Dermal,0.035,ug/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00739,ug/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.015099999999999999,AI ng/org/d,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00528,AI ug/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Dermal,0.0439,AI ug/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,2.6e-06,pg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,3.6700000000000004e-05,pg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,1.2999999999999999e-08,pg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,6.36e-06,pg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Spray, unspecified",0.03,AI ug/org,Other,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Spray, unspecified",0.11,ug/bee,Other,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,15.4,mg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,14.6,mg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,11.700000000000001,mg/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0157,AI ug/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00368,AI ug/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00408,AI ug/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Environmental, unspecified",0.0037,AI ug/org,Other,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00111,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00124,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00125,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00483,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00537,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00507,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00279,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00282,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00275,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00219,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00216,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0022,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00285,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0025,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00261,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.004671000000000001,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0049299999999999995,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.004514000000000001,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.003747,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.003885,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0037890000000000003,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.004369,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.004507,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.004627,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,"Topical, general",0.021418,ng/org,Contact,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0016799999999999999,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0019,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0067599999999999995,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.0062699999999999995,AI ng/org,Oral,Unspecifed toxicity level
+210880-92-5,[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine,Food,0.00613,AI ng/org,Oral,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Food,21.2,AI ug/org,Oral,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Food,8.48,AI ug/org,Oral,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Dermal,21.9,AI ug/org,Contact,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Food,3.4,AI ug/org/d,Oral,Unspecifed toxicity level
+219714-96-2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",Food,85.3,AI ug/org,Oral,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Food,93.0,AI ug/org,Oral,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Food,1.4,AI ug/org/d,Oral,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Food,88.0,AI ug/org,Oral,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Food,5.2,AI ug/org,Oral,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Dermal,84.0,AI ug/org,Contact,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+243973-20-8,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",Food,220.0,AI ug/org,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester","Spray, unspecified",4.3331e+16,ug/bee,Other,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Food,0.06,AI ug/org/d,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester","Spray, unspecified",1.0009e+16,AI ug/org,Other,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Food,0.07,AI ug/org/d,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Food,64.1,AI ug/org,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Food,0.3,AI ug/org/d,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Food,792.4,AI ug/org,Oral,Unspecifed toxicity level
+283594-90-1,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",Dermal,200.0,AI ug/org,Contact,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,Food,0.119,AI ug/org/d,Oral,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,"Topical, general",0.706,ug/org,Contact,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,"Spray, unspecified",23046000000000.0,AI ug/org,Other,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,"Spray, unspecified",4.6092,ug/bee,Other,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,Food,1.6,AI ug/org/d,Oral,Unspecifed toxicity level
+500008-45-7,3-Bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide,Food,0.193,AI ug/org/d,Oral,Unspecifed toxicity level
+943831-98-9,4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,Food,5.34,AI ug/org/d,Oral,Unspecifed toxicity level
+943831-98-9,4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,Dermal,98.1,AI ug/org,Contact,Unspecifed toxicity level
+943831-98-9,4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,Food,108.0,AI ug/org,Oral,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Food,10.4,AI ug/org,Oral,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Food,21.7,AI ug/org,Oral,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Food,8.19,AI ug/org,Oral,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Food,100.0,AI ug/org,Oral,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+958647-10-4,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,Dermal,50.0,AI ug/org,Contact,Unspecifed toxicity level
+1072957-71-1,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",Food,5.38,AI ug/org/d,Oral,Unspecifed toxicity level
+1072957-71-1,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+1072957-71-1,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",Food,109.0,AI ug/org,Oral,Unspecifed toxicity level
+1228284-64-7,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",Food,116.0,AI ug/org,Oral,Unspecifed toxicity level
+1228284-64-7,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+1228284-64-7,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",Food,7.6,AI ug/org/d,Oral,Unspecifed toxicity level
+1228284-64-7,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",Food,0.0035,AI ug/org/d,Oral,Unspecifed toxicity level
+1390661-72-9,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,Food,3.7,AI ug/org/d,Oral,Unspecifed toxicity level
+1390661-72-9,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,Dermal,100.0,AI ug/org,Contact,Unspecifed toxicity level
+1390661-72-9,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,Food,105.4,AI ug/org,Oral,Unspecifed toxicity level
+
+CAS,toxicity_type,label,ppdb_level,SMILES,Exclusion reason
+12071-83-9,Oral,0,0,AMBIGUOUS,Ambiguous SMILES
+12122-67-7,Oral,0,0,AMBIGUOUS,Ambiguous SMILES
+127277-53-6,Contact,0,1,AMBIGUOUS,Ambiguous SMILES
+137-30-4,Contact,0,0,AMBIGUOUS,Ambiguous SMILES
+155569-91-8,Contact,1,2,AMBIGUOUS,Ambiguous SMILES
+2702-72-9,Contact,0,1,AMBIGUOUS,Ambiguous SMILES
+274671-61-3,Contact,0,1,AMBIGUOUS,Ambiguous SMILES
+40465-66-5,Other,0,0,AMBIGUOUS,Ambiguous SMILES
+6980-18-3,Contact,0,1,AMBIGUOUS,Ambiguous SMILES
+77182-82-2,Contact,0,1,AMBIGUOUS,Ambiguous SMILES
+8018-01-7,Oral,0,0,AMBIGUOUS,Ambiguous SMILES
+
+CAS,toxicity_type,label,ppdb_level,SMILES,Exclusion reason
+1317-39-1,Contact,0,1,NOT FOUND,No SMILES found
+1402570-38-0,Other,1,2,NOT FOUND,No SMILES found
+155802-61-2,Oral,1,2,NOT FOUND,No SMILES found
+165252-70-0,Contact,1,2,NOT FOUND,No SMILES found
+168316-95-8,Contact,1,2,NOT FOUND,No SMILES found
+39148-24-8,Contact,0,0,NOT FOUND,No SMILES found
+39342-50-2,Oral,0,0,NOT FOUND,No SMILES found
+396653-00-2,Other,1,2,NOT FOUND,No SMILES found
+71751-41-2,Oral,1,2,NOT FOUND,No SMILES found
+8002-65-1,Contact,1,2,NOT FOUND,No SMILES found
+8012-69-9,Contact,0,1,NOT FOUND,No SMILES found
+8029-29-6,Contact,0,1,NOT FOUND,No SMILES found
+8046-74-0,Oral,0,1,NOT FOUND,No SMILES found
+84776-33-0,Oral,0,0,NOT FOUND,No SMILES found
+921202-14-4,Other,1,2,NOT FOUND,No SMILES found
+
+name,CID,CAS,SMILES,source,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,label,ppdb_level,Exclusion reason
+Beflubutamid-M (Ref: F4050),69991731,113614-09-8,,PPDB,Oral,1,0,0,0,0,0,No SMILES found
+Benzpyrimoxan (Ref: NNI-1501),,1449021-97-9,,PPDB,Contact,0,0,1,0,0,1,No SMILES found
+Bone oil,,8001-85-2,,PPDB,Other,0,0,0,1,0,1,No SMILES found
+Bordeaux mixture,,8011-63-0,,PPDB,Oral,0,1,0,0,0,1,No SMILES found
+Bromoxynil-heptanoate,128920,56634-95-8,,PPDB,Contact,1,0,0,0,0,0,No SMILES found
+Clopyralid-dimethylammonium,,1096483-37-2,,PPDB,Contact,1,0,0,0,0,1,No SMILES found
+Clopyralid-methyl,,1532-24-7,,PPDB,Contact,1,0,0,0,0,1,No SMILES found
+Clopyralid-potassium,,58509-83-4,,PPDB,Contact,1,0,0,0,0,1,No SMILES found
+Clopyralid-tripromine,,73455-09-1,,PPDB,Contact,1,0,0,0,0,1,No SMILES found
+Cufraneb,,11096-18-7,,PPDB,Contact,0,1,0,0,0,1,No SMILES found
+Dinocap 4,,875690-85-0,,PPDB,Oral,0,1,0,0,1,1,No SMILES found
+Dinocap 6,,875695-92-4,,PPDB,Oral,0,1,0,0,1,1,No SMILES found
+DNOC ammonium,,2980-64-5,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+DNOC potassium,,5787-96-2,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+DNOC sodium,,2312-76-7,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+Epsilon-momfluorothrin (Ref: S-1563),,1065124-65-3,,PPDB,Contact,0,0,1,0,1,2,No SMILES found
+Fluopimomide,,1309859-39-9,,PPDB,Oral,0,0,0,1,0,1,No SMILES found
+Heptamaloxyloglucan (Ref: EL101GV),,870721-81-6,,PPDB,Contact,0,0,0,1,0,1,No SMILES found
+Paraffin oil (CAS No. 72623-86-0),,72623-86-0,,PPDB,Contact,0,0,0,1,0,1,No SMILES found
+Paraffin oil (CAS No: 64742-46-7),,64742-46-7,,PPDB,Contact,0,0,0,1,0,1,No SMILES found
+Paraffin oil (CAS No: 8042-47-5) (Ref: NEU 11301),,8042-47-5,,PPDB,Contact,0,0,0,1,0,1,No SMILES found
+Paraffin oil (CAS No: 97862-82-3),,97862-82-3,,PPDB,Contact,0,0,0,1,0,0,No SMILES found
+Picloram-etexyl,,36374-99-9,,PPDB,Oral,1,0,0,0,0,1,No SMILES found
+Picloram-olamine,,55871-00-6,,PPDB,Oral,1,0,0,0,0,1,No SMILES found
+Potassium phosphonates,,-,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+Prochloraz copper complex,381392645,156065-03-1,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+Prochloraz zinc complex,,137001-93-5,,PPDB,Oral,0,0,0,1,0,0,No SMILES found
+QRD-460 Terpenoid blend,7462,99-86-5,,PPDB,Contact,0,0,1,0,0,1,No SMILES found
+
+name,CID,CAS,SMILES,source,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,value,Exclusion reason
+Dioxacarb (Ref: C8353),23421,6988-21-2,CNC(=O)OC1=CC=CC=C1C2OCCO2,PPDB,,0,0,1,0,Toxic,Only descriptive toxicity available
+Heptopargil (Ref: GL-1016),9570826,73886-28-9,CC1(C2CCC1(C(=NOCC#C)C2)C)C,PPDB,,0,0,0,1,Toxic,Only descriptive toxicity available
+Isazofos (Ref: CGA 12223),39223,42509-80-8,CCOP(=S)(OCC)OC1=NN(C(=N1)Cl)C(C)C,PPDB,,0,0,1,0,Toxic,Only descriptive toxicity available
+Profluralin (Ref: CGA 10832),33500,26399-36-0,CCCN(CC1CC1)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],PPDB,,1,0,0,0,Toxic,Only descriptive toxicity available
+Propaphos (Ref: NK-1158),23717,7292-16-2,CCCOP(=O)(OCCC)OC1=CC=C(C=C1)SC,PPDB,,0,0,1,0,Toxic,Only descriptive toxicity available
+
+name,CID,CAS,SMILES,source,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,label,ppdb_level,Exclusion reason
+(Z)-hexadec-13-en-11-ynyl acetate,,78617-58-0,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+4-methylnonan-5-ol,,152045-16-4,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+4-methylnonan-5-one,,152783-91-0,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+ABE IT56,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Alternaria destruens,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Ampelomyces quisqualis strain AQ10,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Aschersonia aleyrodis,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Aspergillus flavus AF36,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Aspergillus flavus MUCL54911,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Aureobasidium pullulans,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Bacillus amyloliquefaciens AH2,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Bacillus amyloliquefaciens FZB24 (Ref: 7514913-951),,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Bacillus amyloliquefaciens IT-45,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Bacillus amyloliquefaciens MBI600,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Bacillus amyloliquefaciens QST 713,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Bacillus amyloliquefaciens subsp. plantarum D747,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Bacillus firmus I-1582,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Bacillus pumilus strain QST 2808,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Bacillus subtilis strain FMCH002,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Bacillus subtilis strain GB03,,-,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Bacillus subtilis strain GB34,,-,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Bacillus subtilis strain RTI477,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Bacillus subtilis var amyloliquefaciens,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Bacillus thuringiensis Berliner subsp. japonensis,,68038-71-1,,BPDB,Contact,0,0,1,0,1,2,No SMILES found
+Bacillus thuringiensis Berliner subsp. morrisoni (Ref: SAN418),,68038-71-1,,BPDB,Contact,0,0,1,0,1,2,No SMILES found
+Bacillus thuringiensis subsp. aizawai strain GC-91 (Ref: SAN401),,68038-71-1,,BPDB,Contact,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. israelensis strain AM65-52 (Ref: SAN402),,68038-71-1,,BPDB,Contact,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. kurstaki strain ABTS 351,,68038-71-1,,BPDB,Oral,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. kurstaki strain EG2348,,68038-71-1,,BPDB,Oral,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. kurstaki strain SA11,,68038-71-1,,BPDB,Oral,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. kurstaki strain SA12,,68038-71-1,,BPDB,Oral,0,0,1,0,0,1,No SMILES found
+Bacillus thuringiensis subsp. tenebrionis NB 176 (Ref: TM14-1),,-,,BPDB,Contact,0,0,1,0,1,2,No SMILES found
+Bacillus velezensis strain RTI301,,-,,BPDB,Contact,0,0,1,0,0,0,No SMILES found
+Beauveria bassiana strain 147,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Beauveria bassiana strain 203,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Beauveria bassiana strain ATCC 74040 (Ref: F-7744),,-,,BPDB,Contact,0,0,1,0,0,0,No SMILES found
+Beauveria bassiana strain GHA,,-,,BPDB,Contact,0,0,1,0,0,0,No SMILES found
+Beauveria bassiana strain IMI389521,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Beauveria bassiana strain NPP111B005 (Ref: ARY-0711b-01),,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Blood meal,,90989-74-5,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Bordeaux mixture,,8011-63-0,,BPDB,Oral,0,1,0,0,0,1,No SMILES found
+Brassica juncea,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Brevibacillus brevis,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Canola oil,,-,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Cerevisane,,-,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Chalcogran,,38401-84-2,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Citronella oil,,8000-29-1,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Clonostachys rosea f. catenulate,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Clonostachys rosea strain J1446,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Colletotrichum gloeosporioides f. Sp. Cuscutae,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Colletotrichum gloeosporioides f. sp. malvae,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Colletotrichum gloeosporioidides f. sp. aeschynomene,,-,,BPDB,Other,1,0,0,0,0,0,No SMILES found
+COS-OGA,,-,,BPDB,Oral,0,1,0,0,1,1,No SMILES found
+Cryphonectria parasitica,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Cryptococcus albidus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Cydia pomonella granulosis virus,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Cylindrobasidium laeve,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Entyloma ageratinae,,-,,BPDB,Other,1,0,0,0,0,0,No SMILES found
+Erwinia amylovora HrpN harpin protein,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Erwinia carotovora,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Fenugreek seed powder,,-,,BPDB,Oral,0,0,0,1,0,1,No SMILES found
+Fusarium oxysporum,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Gliocladium catenulatum strain J1446,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Gliocladium virens,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Helicoverpa armigera nucleopolyhedrovirus,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Helicoverpa zea nucleopolyhedrovirus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Heterorhabditis bacteriophora,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Heterorhabditis megidis,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Hirsutella thompsonii,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Isaria fumerosa Apopka strain 97,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Jojoba oil,,61789-91-1,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Lagenidium giganteum,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Lecanicillium muscarium strain Ve6,,67892-35-7,,BPDB,Other,0,0,1,0,0,0,No SMILES found
+Lymantria dispar nucleopolyhedrovirus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Macleaya extract,,112025-60-2,,BPDB,Other,0,1,0,0,0,1,No SMILES found
+Mamestra brassicae nucleopolyhedrovirus,,81181-36-4,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Mamestra configurata nucleopolyhedrovirus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Metarhizium anisopliae strain F52,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Metschnikowia fructicola strain NRRL Y-27328,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Myrothecium verrucaria,,67892-16-4,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Orgyia pseudotsugata nucleopolyhedrovirus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Pantoea agglomerans,,-,,BPDB,Contact,0,1,0,0,0,0,No SMILES found
+Paraffin oil (CAS No: 8042-47-5) (Ref: NEU 11301),,8042-47-5,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Pasteuria nishizawae Pn1,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Phlebiopsis gigantea strain 410.3,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Phlebiopsis gigantea strain VRA 1835,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Phlebiopsis gigantea strain VRA 1984,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Phthorimaea operculella granulovirus,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Polynactins,,39285-04-6,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Potassium phosphonates,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Purpureocillium lilacinum strain PL 11,,-,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Pyrethrins (mix),,8003-34-7,,BPDB,Contact,0,0,1,0,1,2,No SMILES found
+Pythium oligandrum Strain B301,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Pythium oligandrum Strain DV74,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Pythium oligandrum Strain M1,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+QRD-460 Terpenoid blend,7462,99-86-5,,BPDB,Contact,0,0,1,0,0,1,No SMILES found
+Rapeseed oil,,8002-13-9,,BPDB,Contact,0,0,0,1,0,0,No SMILES found
+Reynoutria sachalinensis extract,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Rosemary oil,,8000-25-7,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Saccharopolyspora spinosa,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Sea algae extract,,-,,BPDB,Other,0,0,0,1,0,1,No SMILES found
+Spearmint oil,,8008-79-5,,BPDB,Contact,0,1,0,0,0,0,No SMILES found
+Spider venom peptide,,2307677-15-0,,BPDB,Oral,0,0,0,1,0,1,No SMILES found
+"Spodoptera exigua multicapsid nucleopolyhedrovirus, isolate BV-0004",,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Spodoptera littoralis nucleopolyhedrovirus,,-,,BPDB,Oral,0,0,0,1,0,0,No SMILES found
+Spodoptera litura nucleopolyhedrovirus,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+Streptomyces K61,,-,,BPDB,Oral,0,0,0,1,0,1,No SMILES found
+Streptomyces lydicus,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Sweet lupin seed extract,,-,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Tea tree oil,,68647-73-4,,BPDB,Oral,0,0,0,1,0,1,No SMILES found
+Trichoderma afroharzianum strain T-22,,-,,BPDB,Contact,0,1,0,0,0,0,No SMILES found
+Trichoderma afroharzianum strain Th2RI99,,-,,BPDB,Other,0,1,0,0,0,1,No SMILES found
+Trichoderma asperellum strain ICC012,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma asperellum strain T11,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma asperellum strain T25,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Trichoderma asperellum strain T34,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma atroviride strain I-1237,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma atroviride strain IMI 206040,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma atroviride strain SC1,,-,,BPDB,Contact,0,1,0,0,0,0,No SMILES found
+Trichoderma atroviride strain T11,,-,,BPDB,Contact,0,1,0,0,0,1,No SMILES found
+Trichoderma atroviride strain TV1,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma harzianum strain T39,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma polysporum strain IMI 206039,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma stromaticum,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Trichoderma virens strain GL-21,,-,,BPDB,Other,0,1,0,0,0,0,No SMILES found
+Willaertia magna C2c Maky lysate,,None allocated,,BPDB,Contact,0,0,0,1,0,1,No SMILES found
+Zucchini Yellow Mosaic Virus Weak Strain,,-,,BPDB,Other,0,0,0,1,0,0,No SMILES found
+
+name,CID,CAS,SMILES,source,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,label,ppdb_level,Exclusion reason
+Gossyplure (Ref: PP761),NOT FOUND,50933-33-0,CCCCC=CCCC=CCCCCCCOC(=O)C.CCCCC=CCCC=CCCCCCCOC(=O)C,BPDB,Other,0,0,0,1,0,1,CID not found
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES
+
+Name,CAS,Levela,Sourceb,Datasetc,SMILES,Contact,Oral,Unknown,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX| O, 14 D, > 362.58, UGB| ",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,,14 D,,Invalid SMILES
+
+Name,CAS,Level,Source,Dataset,SMILES,Exclusion reason
+Barium metaborate,13701-59-2,Low,"ECOTOX, O, 14 D, > 362.58, UGB;",Negative,[Ba+2].[O-][BH]=O.[O-][BH]=O,Invalid SMILES
+Dicloran,99-30-9,Low,"PPDB,C, > 100, Low; O, > 113, Low; ",Negative,Nc1c(Cl)cc(cc1Cl)[N](=O)O,Invalid SMILES
+Dinotefuran,165252-70-0,High,"PPDB,C, > 0.023, High; ",Positive,O=[N](O)/N=C(/NC)\NCC1COCC1,Invalid SMILES

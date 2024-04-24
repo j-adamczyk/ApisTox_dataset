@@ -1,0 +1,861 @@
+name,CID,CAS,SMILES,source,toxicity_type,herbicide,fungicide,insecticide,other_agrochemical,label,ppdb_level
+(4-chlorophenoxy)acetic acid,26229,122-88-3,C1=CC(=CC=C1OCC(=O)O)Cl,PPDB,Contact,0,0,0,1,0,1
+"1,3-dichloropropene (Ref: D D92)",24726,542-75-6,C=CC(Cl)Cl,PPDB,Contact,0,0,0,1,1,1
+1-decanol,8174,112-30-1,CCCCCCCCCCO,PPDB,Contact,0,0,0,1,0,1
+1-methylcyclopropene,151080,3100-04-7,CC1=CC1,PPDB,Other,0,0,0,1,1,1
+1-naphthylacetamide,6861,86-86-2,C1=CC=C2C(=C1)C=CC=C2CC(=O)N,PPDB,Contact,0,0,0,1,0,1
+1-naphthylacetic acid,6862,86-87-3,C1=CC=C2C(=C1)C=CC=C2CC(=O)O,PPDB,Contact,0,0,0,1,0,0
+"2,3,6-TBA (Ref: HC 1281)",5759,50-31-7,C1=CC(=C(C(=C1Cl)C(=O)O)Cl)Cl,PPDB,Other,1,0,0,0,0,1
+"2,4,5-trichlorophenol",44147467,95-95-4,C1=C(C(=CC(=C1Cl)Cl)Cl)O,PPDB,Other,0,0,0,1,0,1
+"2,4-D (Ref: L 208)",1486,94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,PPDB,Oral,1,0,0,0,0,1
+"2,4-DB (Ref: ENT 8538)",1489,94-82-6,CNC.C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O,PPDB,Contact,1,0,0,0,0,1
+"2,4-D-dimethylammonium",16180,2008-39-1,CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,PPDB,Oral,1,0,0,0,0,1
+24-epibrassinolide,443055,78821-43-9,CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2COC(=O)C4C3(CC(C(C4)O)O)C)C)O)O,PPDB,Contact,0,0,0,1,1,1
+2-aminobutane,24874,13952-84-6,CCC(C)N,PPDB,Contact,0,1,0,0,0,1
+2-naphthyloxyacetic acid,8422,120-23-0,c1ccc2cc(ccc2c1)OCC(=O)O,PPDB,Contact,0,0,0,1,0,0
+2-phenylphenol,7017,90-43-7,C1=CC=C(C=C1)C2=CC=CC=C2O,PPDB,Contact,0,1,0,0,0,1
+8-hydroxyquinoline,1923,148-24-3,C1=CC2=C(C(=C1)O)N=CC=C2,PPDB,Oral,0,1,0,0,0,1
+ACC,535,22059-21-8,C1CC1(C(=O)O)N,PPDB,Contact,1,0,0,0,0,0
+Acephate,1982,30560-19-1,CC(=O)NP(=O)(OC)SC,PPDB,Oral,0,0,1,0,1,2
+Acequinocyl,93315,57960-19-7,CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C,PPDB,Contact,0,0,0,1,0,0
+Acetamiprid,213021,135410-20-7,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl,PPDB,Contact,0,0,1,0,1,1
+Acetochlor (Ref: CP 55097),1988,34256-82-1,CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C,PPDB,Oral,1,0,0,0,0,1
+Acibenzolar-S-methyl (Ref: CGA 245704),86412,135158-54-2,CSC(=O)C1=C2C(=CC=C1)N=NS2,PPDB,Contact,0,1,1,0,0,1
+Acifluorfen (Ref: RH 5781),44073,50594-66-6,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Acifluorfen-sodium (Ref: RH 6201 ),44072,62476-59-9,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)[O-].[Na+],PPDB,Contact,1,0,0,0,0,1
+Aclonifen (Ref: AE F068300),92389,74070-46-5,C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl,PPDB,Contact,1,0,0,0,0,1
+Acrinathrin (Ref: RU 38702),6436606,101007-06-1,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=CC(=O)OC(C(F)(F)F)C(F)(F)F)C,PPDB,Oral,0,0,1,0,1,2
+Afidopyropen (Ref: ME 5343),54589430,915972-17-7,CC12CCC(C(C1CC(C3(C2C(C4=C(O3)C=C(OC4=O)C5=CN=CC=C5)O)C)O)(C)COC(=O)C6CC6)OC(=O)C7CC7,PPDB,Oral,0,0,1,0,0,1
+Alachlor (Ref: CP 50144 ),2078,15972-60-8,CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl,PPDB,Contact,1,0,0,0,0,1
+Alanycarb,9576091,83130-01-2,CCOC(=O)CCN(CC1=CC=CC=C1)SN(C)C(=O)ON=C(C)SC,PPDB,Contact,0,0,1,0,1,2
+Aldicarb (Ref: ENT 27093),9570071,116-06-3,CC(C)(C=NOC(=O)NC)SC,PPDB,Oral,0,0,1,0,1,2
+Aldoxycarb,9570093,1646-88-4,CC(C)(C=NOC(=O)NC)S(=O)(=O)C,PPDB,Contact,0,0,1,0,0,1
+Aldrin (Ref: OMS 194),12310947,309-00-2,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Oral,0,0,1,0,1,2
+Allethrin (Ref: FMC 249),11442,584-79-2,CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C,PPDB,Contact,0,0,1,0,1,1
+Alloxydim,3034433,55634-91-8,CCCC(=C1C(=O)CC(C(C1=O)C(=O)OC)(C)C)NOCC=C,PPDB,Contact,1,0,0,0,0,1
+Alloxydim sodium,74087703,55635-13-7,CCCC(=NOCC=C)C1=C(CC(C(C1=O)C(=O)OC)(C)C)[O-].[Na+],PPDB,Contact,1,0,0,0,0,1
+Alpha-cypermethrin (Ref: OMS 3004),49833,67375-30-8,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Alpha-endosulfan,12309460,959-98-8,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,1
+Aluminium ammonium sulphate,3032540,7784-26-1,[NH4+].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3],PPDB,Contact,0,0,0,1,0,1
+Aluminium phosphide,30332,20859-73-8,[Al]#P,PPDB,Oral,0,0,1,0,1,2
+Ametoctradin (Ref: BAS 650F),15604010,865318-97-4,CCCCCCCCC1=C(N2C(=NC=N2)N=C1CC)N,PPDB,Contact,0,1,0,0,0,1
+Ametryn (Ref: G 34162 ),13263,834-12-8,CCNC1=NC(=NC(=N1)SC)NC(C)C,PPDB,Oral,1,0,0,0,0,1
+Amicarbazone (Ref: BAY MKH 3586),153920,129909-90-6,CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C,PPDB,Oral,1,0,0,0,0,1
+Amidosulfuron,91777,120923-37-7,CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Aminocarb (Ref: BAY 44646),7157,2032-59-9,CC1=C(C=CC(=C1)OC(=O)NC)N(C)C,PPDB,Contact,0,0,1,0,1,2
+Aminocyclopyrachlor (Ref: DPX-MAT28),17747875,858956-08-8,C1CC1C2=NC(=C(C(=N2)N)Cl)C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Aminopyralid (Ref: XDE 750),213012,150114-71-9,C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N,PPDB,Oral,1,0,0,0,1,1
+Amisulbrom,10238657,348635-87-0,CC1=C(C2=C(N1S(=O)(=O)C3=NN(C=N3)S(=O)(=O)N(C)C)C=C(C=C2)F)Br,PPDB,Contact,0,1,0,0,0,1
+Amitraz (Ref: ENT 27967),36324,33089-61-1,CC1=CC(=C(C=C1)N=CN(C)C=NC2=C(C=C(C=C2)C)C)C,PPDB,Contact,0,0,1,0,0,1
+Amitrole,1639,61-82-5,C1=NNC(=N1)N,PPDB,Contact,1,0,0,0,0,1
+Ancymidol (Ref: EL 531),25572,12771-68-5,COC1=CC=C(C=C1)C(C2CC2)(C3=CN=CN=C3)O,PPDB,Contact,0,0,0,1,0,1
+Anilazine (Ref: ENT 26 058),7541,101-05-3,C1=CC=C(C(=C1)NC2=NC(=NC(=N2)Cl)Cl)Cl,PPDB,Oral,0,1,0,0,0,1
+Anilofos (Ref: HOE 30374),91687,64249-01-0,CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC,PPDB,Contact,1,0,0,0,1,1
+Arsenic acid,234,7778-39-4,O[As](=O)(O)O,PPDB,Other,0,0,0,1,1,1
+Asulam (Ref: M&B 9057),18752,3337-71-1,COC(=O)NS(=O)(=O)C1=CC=C(C=C1)N,PPDB,Contact,1,0,0,0,0,1
+Asulam sodium (Ref: AE F102789),61292,2302-17-2,COC(=O)[N-]S(=O)(=O)C1=CC=C(C=C1)N.[Na+],PPDB,Contact,1,0,0,0,0,1
+Atrazine (Ref: G 30027),2256,1912-24-9,CCNC1=NC(=NC(=N1)Cl)NC(C)C,PPDB,Contact,1,0,0,0,0,1
+Azafenidin,443029,68049-83-2,C#CCOC1=C(C=C(C(=C1)N2C(=O)N3CCCCC3=N2)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Azamethiphos (Ref: GCA 18809),71482,35575-96-3,COP(=O)(OC)SCN1C2=NC=C(C=C2OC1=O)Cl,PPDB,Oral,0,0,1,0,1,2
+Azimsulfuron,86355,120162-55-2,CN1C(=C(C=N1)C2=NN(N=N2)C)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Azinphos-ethyl (Ref: BAY 16259),17531,2642-71-9,CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1,PPDB,Contact,0,0,1,0,1,1
+Azinphos-methyl,2268,86-50-0,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1,PPDB,Contact,0,0,1,0,1,2
+Azocyclotin (Ref: BAY BUE 1452),91634,41083-11-8,C1CCC(CC1)[Sn](C2CCCCC2)(C3CCCCC3)N4C=NC=N4,PPDB,Other,0,0,0,1,0,1
+Azoxystrobin (Ref: ICI 5504),3034285,131860-33-8,COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)OC,PPDB,Oral,0,1,0,0,0,1
+Barium polysulphide,6857597,50864-67-0,[S-2].[Ba+2],PPDB,Other,0,1,0,0,0,1
+Beflubutamid (Ref: UBH 820),6451159,113614-08-7,CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F,PPDB,Contact,1,0,0,0,0,0
+Benalaxyl (Ref: M 9834),51369,71626-11-4,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2,PPDB,Oral,0,1,0,0,0,1
+Benalaxyl-M (Ref: IR 6141),176648,98243-83-5,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2,PPDB,Contact,0,1,0,0,0,1
+Benazolin (Ref: RD 7693),19662,3813-05-6,C1=CC2=C(C(=C1)Cl)N(C(=O)S2)CC(=O)O,PPDB,Other,1,0,0,0,0,0
+Bendiocarb (Ref: NC 6897),2314,22781-23-3,CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C,PPDB,Contact,0,0,1,0,1,2
+Benfluralin (Ref: EL 110),2319,1861-40-1,CCCCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Benfuracarb,54886,82560-54-1,CCOC(=O)CCN(C(C)C)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C,PPDB,Contact,0,0,1,0,1,2
+Benomyl (Ref: T 1991),28780,17804-35-2,CCCCNC(=O)N1C2=CC=CC=C2N=C1NC(=O)OC,PPDB,Contact,0,1,0,0,1,1
+Benoxacor (Ref: CGA 154281),62306,98730-04-2,CC1COC2=CC=CC=C2N1C(=O)C(Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Bensulfuron (Ref: IN R9419),107828,99283-01-9,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)O)OC,PPDB,Oral,1,0,0,0,0,1
+Bensulfuron-methyl (Ref: DPX F5384),54960,83055-99-6,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC,PPDB,Oral,1,0,0,0,0,1
+Bensulide (Ref: R 4461),12932,741-58-2,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1,PPDB,Other,1,0,0,0,1,1
+Bensultap (Ref: OMS 3011),87176,17606-31-4,CN(C)C(CSS(=O)(=O)C1=CC=CC=C1)CSS(=O)(=O)C2=CC=CC=C2,PPDB,Contact,0,0,1,0,0,1
+Bentazone,2328,25057-89-0,CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O,PPDB,Contact,1,0,0,0,0,0
+Benthiavalicarb,20593234,413615-35-7,CC(C)C(C(=O)NC(C)C1=NC2=C(S1)C=C(C=C2)F)NC(=O)O,PPDB,Contact,1,1,0,0,0,1
+Benthiavalicarb-isopropyl (Ref: KIF-230),53297381,177406-68-7,CC(C)C(C(=O)NC(C)C1=NC2=C(S1)C=C(C=C2)F)NC(=O)OC(C)C,PPDB,Contact,0,1,0,0,0,1
+Benzobicyclon (Ref: SB 500),11236201,156963-66-5,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2=C(C3CCC(C3)C2=O)SC4=CC=CC=C4)Cl,PPDB,Contact,1,0,0,0,0,0
+Benzovindiflupyr,53491464,1072957-71-1,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC3=C2C4CCC3C4=C(Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Beta-cyfluthrin (Ref: OMS 3051),56608859,1820573-27-0,CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Beta-cypermethrin (Ref: OMS 3068),93357,65731-84-2,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Bicyclopyrone (Ref: NOA449280),11188745,352010-68-5,COCCOCC1=C(C=CC(=N1)C(F)(F)F)C(=C2C(=O)C3CCC(C3)C2=O)O,PPDB,Contact,1,0,0,0,0,0
+Bifenazate,176879,149877-41-8,CC(C)OC(=O)NNC1=C(C=CC(=C1)C2=CC=CC=C2)OC,PPDB,Contact,0,0,1,0,1,1
+Bifenox,39230,42576-02-3,COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,0
+Bifenthrin (Ref: FMC 54800),6442842,82657-04-3,CC1=C(C=CC=C1COC(=O)C2C(C2(C)C)C=C(C(F)(F)F)Cl)C3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Binapacryl (Ref: FMC 9044),10234,485-31-4,CCC(C)C1=CC(=CC(=C1OC(=O)C=C(C)C)[N+](=O)[O-])[N+](=O)[O-],PPDB,Contact,0,1,0,0,0,1
+Bioallethrin,11442,260359-57-7,CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C,PPDB,Contact,0,0,1,0,1,1
+Bioresmethrin (Ref: FMC 17370),162381,28434-01-7,CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C,PPDB,Oral,0,0,1,0,1,2
+Bispyribac-sodium (Ref: KIH-2023),23682789,125401-92-5,COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)[O-])OC.[Na+],PPDB,Oral,1,0,0,0,0,0
+Bistrifluron (Ref: DBI-3204),10275455,201593-84-2,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=CC(=C2Cl)C(F)(F)F)C(F)(F)F)F,PPDB,Contact,0,0,1,0,0,1
+Bitertanol (Ref: KWG 0599),91656,55179-31-2,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O,PPDB,Oral,0,1,0,0,0,0
+Bixafen,11434448,581809-46-3,CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl,PPDB,Oral,0,1,0,0,0,1
+Bixlozone (Ref: F9600),15056663,81777-95-9,CC1(CON(C1=O)CC2=C(C=C(C=C2)Cl)Cl)C,PPDB,Contact,1,0,0,0,0,1
+Boscalid (Ref: BAS 510F),213013,188425-85-6,C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl,PPDB,Oral,0,1,0,0,0,0
+Broflanilide (Ref: MCI-8007),53341374,1207727-04-5,CN(C1=CC=CC(=C1F)C(=O)NC2=C(C=C(C=C2Br)C(C(F)(F)F)(C(F)(F)F)F)C(F)(F)F)C(=O)C3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Brofluthrinate (Ref: ZXI 8901),16722122,160791-64-0,CC(C)C(C1=CC=C(C=C1)OC(F)F)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=C(C=C3)Br,PPDB,Contact,0,0,0,1,1,2
+Bromacil (Ref: DPX N0976),9411,314-40-9,CCC(C)N1C(=O)C(=C(NC1=O)C)Br,PPDB,Other,1,0,0,0,0,1
+Bromomethane,6323,74-83-9,CBr,PPDB,Other,0,0,0,1,0,1
+Bromophos,16422,2104-96-3,COP(=S)(OC)OC1=CC(=C(C=C1Cl)Br)Cl,PPDB,Contact,0,0,1,0,1,2
+Bromophos-ethyl (Ref: SHG-2225),20965,4824-78-6,CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)Br)Cl,PPDB,Contact,0,0,1,0,1,2
+Bromopropylate (Ref: GS 19851),28936,18181-80-1,CC(C)OC(=O)C(C1=CC=C(C=C1)Br)(C2=CC=C(C=C2)Br)O,PPDB,Other,0,0,0,1,0,0
+Bromoxynil (Ref: ENT 20852),15531,1689-84-5,C1=C(C=C(C(=C1Br)O)Br)C#N,PPDB,Oral,1,0,0,0,1,1
+Bromoxynil-butanoate,62526,3861-41-4,CCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br,PPDB,Oral,1,0,0,0,0,1
+Bromoxynil-octanoate,15533,1689-99-2,CCCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br,PPDB,Contact,1,0,0,0,0,1
+Bromoxynil-potassium,23691011,2961-68-4,C1=C(C=C(C(=C1Br)[O-])Br)C#N.[K+],PPDB,Oral,1,0,0,0,0,1
+Bromuconazole (Ref: LS 860263),3444,116255-48-2,C1C(COC1(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl)Br,PPDB,Oral,0,1,0,0,0,1
+Bufencarb (Ref: RE-5353),24721,8065-36-9,CCCC(C)C1=CC(=CC=C1)OC(=O)NC.CCC(CC)C1=CC(=CC=C1)OC(=O)NC,PPDB,Other,0,0,1,0,1,1
+Bupirimate (Ref: PP 588),38884,41483-43-6,CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C,PPDB,Contact,0,1,0,0,0,1
+Buprofezin (Ref: PP 618),50367,69327-76-0,CC(C)N1C(=NC(C)(C)C)SCN(C1=O)C2=CC=CC=C2,PPDB,Oral,0,0,1,0,0,0
+Butachlor (Ref: CP 53619),31677,23184-66-9,CCCCOCN(C1=C(C=CC=C1CC)CC)C(=O)CCl,PPDB,Contact,1,0,0,0,0,1
+Butafenacil (Ref: CGA 276854),11826859,134605-64-4,CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl,PPDB,Contact,1,0,0,0,0,1
+Butathiofos (Ref: Dowco 429),185020,90338-20-8,CCOP(=S)(OCC)OC1=CN=C(N=C1)C(C)(C)C,PPDB,Other,0,0,1,0,1,2
+Butocarboxim (Ref: Co 755),5360962,34681-10-2,CC(C(=NOC(=O)NC)C)SC,PPDB,Oral,0,0,1,0,1,2
+Butralin (Ref: Amchem70-25),36565,33629-47-9,CCC(C)NC1=C(C=C(C=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-],PPDB,Oral,1,0,0,0,0,1
+Butroxydim (Ref: ICIA0500),135993077,138164-12-2,CCCC(=O)C1=C(C(=C(C=C1C)C)C2CC(=O)C(=C(CC)NOCC)C(=O)C2)C,PPDB,Contact,1,0,0,0,0,0
+Butylate (Ref: R 1910),16181,2008-41-5,CCSC(=O)N(CC(C)C)CC(C)C,PPDB,Other,1,0,0,0,0,1
+Cadusafos (Ref: FMC 67825),91752,95465-99-9,CCC(C)SP(=O)(OCC)SC(C)CC,PPDB,Contact,0,0,1,0,1,1
+Cafenstrole (Ref: CH 900),195429,125306-83-4,CCN(CC)C(=O)N1C=NC(=N1)S(=O)(=O)C2=C(C=C(C=C2C)C)C,PPDB,Oral,1,0,0,0,0,0
+Calcium acid methanearsonate,22193,5902-95-4 ,C[As](=O)([O-])[O-].C[As](=O)([O-])[O-].[Ca+2],PPDB,Contact,1,0,0,0,0,1
+Calcium arsenate,24501,7778-44-1,[O-][As](=O)([O-])[O-].[O-][As](=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2],PPDB,Oral,0,0,1,0,1,1
+Calcium carbonate,10112,471-34-1,C(=O)([O-])[O-].[Ca+2],PPDB,Oral,1,1,0,0,0,0
+Calcium chloride,5284359,10043-52-4,[Cl-].[Cl-].[Ca+2],PPDB,Other,0,0,0,1,0,1
+Calcium phosphate,24456,10103-46-5,[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2],PPDB,Other,1,1,0,0,0,1
+Camphechlor (Ref: Hercules 3956),58167,8001-35-2,C1C2C(C(C(C1(Cl)Cl)(C2(CCl)C(Cl)Cl)CCl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Captafol (Ref: Ortho-5865),17038,2425-06-1,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl,PPDB,Other,0,1,0,0,0,1
+Captan (Ref: SR 406),8606,133-06-2,C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl,PPDB,Oral,0,1,0,0,0,1
+Carbaryl (Ref: UC 7744),6129,63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,PPDB,Contact,0,0,1,0,1,2
+Carbendazim (Ref: BAS 346F),25429,10605-21-7,COC(=O)NC1=NC2=CC=CC=C2N1,PPDB,Contact,0,1,0,0,0,1
+Carbetamide (Ref: RP 11561),27689,16118-49-3,CCNC(=O)C(C)OC(=O)NC1=CC=CC=C1,PPDB,Oral,1,0,0,0,0,1
+Carbofuran (Ref: OMS 864),2566,1563-66-2,CC1(CC2=C(O1)C(=CC=C2)OC(=O)NC)C,PPDB,Contact,0,0,1,0,1,2
+Carbophenothion (Ref: ENT 23708),13081,786-19-6,CCOP(=S)(OCC)SCSC1=CC=C(C=C1)Cl,PPDB,Contact,0,0,1,0,1,1
+Carbosulfan (Ref: OMS 3022),41384,55285-14-8,CCCCN(CCCC)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C,PPDB,Contact,0,0,1,0,1,2
+Carboxin (Ref: D 735),21307,5234-68-4,CC1=C(SCCO1)C(=O)NC2=CC=CC=C2,PPDB,Oral,0,1,0,0,0,1
+Carfentrazone,443229,128621-72-7,CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F,PPDB,Contact,1,0,0,0,0,0
+Carfentrazone-ethyl (Ref: F 8426),86222,128639-02-1,CCOC(=O)C(CC1=CC(=C(C=C1Cl)F)N2C(=O)N(C(=N2)C)C(F)F)Cl,PPDB,Contact,1,0,0,0,0,1
+Cartap (Ref: TL 1258),27159,22042-59-7,CN(C)C(CSC(=O)N)CSC(=O)N,PPDB,Other,0,0,1,0,1,2
+Cartap hydrochloride,30913,15263-52-2,CN(C)C(CSC(=O)N)CSC(=O)N.Cl,PPDB,Other,0,0,1,0,1,1
+Chinomethionat (Ref: ENT 25606),17109,2439-01-2,CC1=CC2=C(C=C1)N=C3C(=N2)SC(=O)S3,PPDB,Other,0,1,0,0,0,1
+Chloramben (Ref: ACP M-629),8630,133-90-4,C1=C(C=C(C(=C1N)Cl)C(=O)O)Cl,PPDB,Other,1,0,0,0,0,1
+Chlorantraniliprole (Ref: DPX E2Y45),11271640,500008-45-7,CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br,PPDB,Contact,0,0,1,0,1,1
+Chlorbenside (Ref: ENT 20696),7639,103-17-3,C1=CC(=CC=C1CSC2=CC=C(C=C2)Cl)Cl,PPDB,Other,0,0,1,0,0,0
+Chlorbromuron (Ref: C6313),25912,13360-45-7,CN(C(=O)NC1=CC(=C(C=C1)Br)Cl)OC,PPDB,Contact,1,0,0,0,0,1
+Chlordane (Ref: OMS 1437),5993,57-74-9,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Chlordimeform (Ref: ENT 27335),22544,6164-98-3,CC1=C(C=CC(=C1)Cl)N=CN(C)C,PPDB,Contact,0,0,1,0,0,0
+Chlorethoxyfos (Ref: DPX 43898),91655,54593-83-8,CCOP(=S)(OCC)OC(C(Cl)(Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Chlorfenapyr (Ref: MK 242),91778,122453-73-0,CCOCN1C(=C(C(=C1C(F)(F)F)Br)C#N)C2=CC=C(C=C2)Cl,PPDB,Other,0,0,1,0,1,2
+Chlorfenvinphos (Ref: OMS 166),5377784,470-90-6,CCOP(=O)(OCC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl,PPDB,Oral,0,0,1,0,1,2
+Chlorfluazuron (Ref: CGA 112913),91708,71422-67-8,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC3=C(C=C(C=N3)C(F)(F)F)Cl)Cl)F,PPDB,Oral,0,0,1,0,0,1
+Chloridazon (Ref: BAS 119H),15546,1698-60-8,C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl,PPDB,Contact,1,0,0,0,0,0
+Chlorimuron,91762,99283-00-8,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorimuron-ethyl (Ref: DPX F6025),56160,90982-32-4,CCOC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)Cl)OC,PPDB,Contact,1,0,0,0,0,1
+Chlormephos (Ref: MC 2188),32739,24934-91-6,CCOP(=S)(OCC)SCCl,PPDB,Other,0,0,1,0,1,2
+Chlormequat,13836,7003-89-6,C[N+](C)(C)CCCl,PPDB,Contact,0,0,0,1,0,1
+Chlormequat chloride (Ref: BAS 062W),13836,999-81-5,C[N+](C)(C)CCCl.[Cl-],PPDB,Contact,0,0,0,1,0,1
+Chlorobenzilate (Ref: ENT 18596),10522,510-15-6,CCOC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O,PPDB,Other,0,0,1,0,1,1
+Chlorophacinone (Ref: LM 91),19402,3691-35-8,C1=CC=C(C=C1)C(C2=CC=C(C=C2)Cl)C(=O)C3C(=O)C4=CC=CC=C4C3=O,PPDB,Other,0,0,0,1,1,1
+Chloropicrin,6423,76-06-2,C([N+](=O)[O-])(Cl)(Cl)Cl,PPDB,Other,0,0,1,0,0,1
+Chlorothalonil (Ref: DS 2787),15910,1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl,PPDB,Oral,0,1,0,0,0,1
+Chlorotoluron (Ref: C 2242),27375,15545-48-9,CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl,PPDB,Oral,1,0,0,0,0,0
+Chloroxuron (Ref: C 1983),16115,1982-47-4,CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorpropham (Ref: ENT 18060),2728,101-21-3,CC(C)OC(=O)NC1=CC(=CC=C1)Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorpyrifos (Ref: OMS 971),2730,2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Chlorpyrifos-methyl (Ref: OMS 1155),21803,5598-13-0,COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Chlorsulfuron (Ref: DPX 4189),47491,64902-72-3,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorthal-dimethyl (Ref: DAC 893),2943,1861-32-1,COC(=O)C1=C(C(=C(C(=C1Cl)Cl)C(=O)OC)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorthiamid (Ref: WL 5792.),2734819,1918-13-4,C1=CC(=C(C(=C1)Cl)C(=S)N)Cl,PPDB,Contact,1,0,0,0,0,1
+Chlorthion (Ref: BAY 22/190 ),10372,500-28-7,COP(=S)(OC)OC1=CC(=C(C=C1)[N+](=O)[O-])Cl,PPDB,Other,0,0,1,0,1,2
+Chlozolinate (Ref: M 8164),51574,84332-86-5,CCOC(=O)C1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C,PPDB,Contact,0,1,0,0,0,1
+Chromafenozide (Ref: ANS 118),10157484,143807-66-3,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C3=C(C=C2)OCCC3)C)C,PPDB,Contact,0,0,1,0,0,1
+Cinidon-ethyl (Ref: BAS 615H),5851439,142891-20-1,CCOC(=O)C(=CC1=C(C=CC(=C1)N2C(=O)C3=C(C2=O)CCCC3)Cl)Cl,PPDB,Contact,1,0,0,0,0,0
+Cinmethylin (Ref: BAS 684 H),91745,87818-31-3,CC1=CC=CC=C1COC2CC3(CCC2(O3)C)C(C)C,PPDB,Contact,1,0,0,0,0,0
+Cinosulfuron (Ref: CGA 142464),92420,94593-91-6,COCCOC1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OC)OC,PPDB,Oral,1,0,0,0,0,1
+Clethodim (Ref: RE 45601),135491728,99129-21-2,CCC(=C1C(=O)CC(CC1=O)CC(C)SCC)NOCC=CCl,PPDB,Contact,1,0,0,0,0,0
+Climbazole (Ref: 106162),37907,38083-17-9,CC(C)(C)C(=O)C(N1C=CN=C1)OC2=CC=C(C=C2)Cl,PPDB,Contact,0,1,0,0,1,2
+Clodinafop (Ref: CGA 193469),5483847,114420-56-3,CC(C(=O)O)OC1=CC=C(C=C1)OC2=NC=C(C=C2F)Cl,PPDB,Contact,1,0,0,0,0,1
+Clodinafop propargyl (Ref: CGA 184927),92431,105512-06-9,CC(C(=O)OCC#C)OC1=CC=C(C=C1)OC2=NC=C(C=C2F)Cl,PPDB,Contact,1,0,0,0,0,1
+Clofencet (Ref: MON 21250 ),123627,129025-54-3,CCC1=C(C(=O)C=NN1C2=CC=C(C=C2)Cl)C(=O)O,PPDB,Oral,0,0,0,1,0,1
+Clofentezine (Ref: NC 21314),73670,74115-24-5,C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl,PPDB,Contact,0,0,1,0,0,1
+Clomazone (Ref: FMC 57020),54778,81777-89-1,CC1(CON(C1=O)CC2=CC=CC=C2Cl)C,PPDB,Oral,1,0,0,0,0,1
+Clopyralid,15553,1702-17-6,C1=CC(=NC(=C1Cl)C(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Clopyralid-olamine,162839,57754-85-5,C1=CC(=NC(=C1Cl)C(=O)O)Cl.C(CO)N,PPDB,Contact,1,0,0,0,0,1
+Cloquintocet-mexyl (Ref: CGA 185072),93528,99607-70-2,CCCCCC(C)OC(=O)COC1=C2C(=C(C=C1)Cl)C=CC=N2,PPDB,Contact,1,0,0,0,0,1
+Cloransulam-methyl (Ref: XDE 565),86453,147150-35-4,CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)C(=O)OC)F,PPDB,Contact,1,0,0,0,0,1
+Clothianidin (Ref: CGA 322704),213027,210880-92-5,CN=C(NCC1=CN=C(S1)Cl)N[N+](=O)[O-],PPDB,Oral,0,0,1,0,1,2
+Copper (I) oxide,14830,1317-39-1,[Cu].[Cu].O,PPDB,Contact,0,1,1,0,0,1
+Copper (II) hydroxide,30154,20427-59-2,[Cu+2].[OH-].[OH-],PPDB,Contact,0,1,0,0,0,1
+Copper acetoarsenite (Ref: ENT 884),72720419,12002-03-8,CC(=O)[O-].CC(=O)[O-].[O-][As]1O[As](O[As](O1)[O-])[O-].[O-][As]1O[As](O[As](O1)[O-])[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2],PPDB,Other,0,0,1,0,1,1
+Copper II acetate,8895,142-71-2,CC(=O)[O-].CC(=O)[O-].[Cu+2],PPDB,Other,0,1,0,0,0,1
+Copper II carbonate,14452,1184-64-1,C(=O)([O-])[O-].[Cu+2],PPDB,Other,0,1,1,0,0,1
+Copper II chloride,24014,7447-39-4,Cl[Cu]Cl,PPDB,Other,0,1,0,0,0,1
+Copper oxychloride,18629822,1332-40-7,O(Cl)Cl.[Cu+2],PPDB,Oral,0,1,0,0,0,1
+Copper sulphate,24462,12527-76-3,[O-]S(=O)(=O)[O-].[Cu+2],PPDB,Contact,0,1,0,0,0,1
+"Cyanamide (Ref: LH 21,810A)",9864,420-04-2,C(#N)N,PPDB,Other,0,0,0,1,1,1
+Cyanazine,30773,21725-46-2,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N,PPDB,Contact,1,0,0,0,0,1
+Cyantraniliprole (Ref: DPX-HGW86),11578610,736994-63-1,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N,PPDB,Contact,0,0,1,0,1,2
+Cyazofamid (Ref: IKF 916),9862076,120116-88-3,CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl,PPDB,Contact,0,1,0,0,0,1
+Cyclanilide (Ref: RPA 090946),11097730,113136-77-9,C1CC1(C(=O)NC2=C(C=C(C=C2)Cl)Cl)C(=O)O,PPDB,Oral,0,0,0,1,0,1
+Cyclaniliprole (Ref: IKI-3106),24822142,1031756-98-5,CC(C1CC1)NC(=O)C2=CC(=CC(=C2NC(=O)C3=CC(=NN3C4=C(C=CC=N4)Cl)Br)Br)Cl,PPDB,Oral,0,0,1,0,1,2
+Cycloate (Ref: R 2063),14337,1134-23-2,CCN(C1CCCCC1)C(=O)SCC,PPDB,Other,1,0,0,0,1,1
+Cyclosulfamuron (Ref: BAS 710H),6451137,136849-15-5,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)NC2=CC=CC=C2C(=O)C3CC3)OC,PPDB,Oral,1,0,0,0,0,1
+Cycloxydim (Ref: BAS 517H),91765,101205-02-1,CCCC(=C1C(=O)CC(CC1=O)C2CCCSC2)NOCC,PPDB,Contact,1,0,0,0,0,1
+Cyenopyrafen (Ref: NC-512 ),18772482,560121-52-0,CC1=C(N(N=C1C)C)C(=C(C#N)C2=CC=C(C=C2)C(C)(C)C)OC(=O)C(C)(C)C,PPDB,Contact,0,0,1,0,0,1
+Cyflufenamid (Ref: NF 149),9844539,180409-60-3,C1CC1CONC(=NC(=O)CC2=CC=CC=C2)C3=C(C=CC(=C3F)F)C(F)(F)F,PPDB,Contact,0,1,0,0,0,1
+Cyflumetofen (Ref: OK-5101),11496052,400882-07-7,CC(C)(C)C1=CC=C(C=C1)C(C#N)(C(=O)C2=CC=CC=C2C(F)(F)F)C(=O)OCCOC,PPDB,Contact,0,0,1,0,0,0
+Cyfluthrin (Ref: OMS 2012),104926,68359-37-5,CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Cyhalofop,15118048,122008-78-0,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F,PPDB,Oral,1,0,0,0,0,1
+Cyhalofop-butyl (Ref: DE 537),180089,122008-85-9,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F,PPDB,Contact,1,0,0,0,0,1
+Cyhalothrin (Ref: OMS 2011),5281873,68085-85-8,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C,PPDB,Oral,0,0,1,0,1,2
+Cyhexatin (Ref: OMS 3029),6327054,13121-70-5,C1CCC(CC1)[Sn](C2CCCCC2)C3CCCCC3.O,PPDB,Contact,0,0,0,1,0,1
+Cymiazol (Ref: CGA 50439),43714,61676-87-7,CC1=CC(=C(C=C1)N=C2N(C=CS2)C)C,PPDB,Other,0,0,0,1,0,1
+Cymoxanil (Ref: DPX T3217),5364079,57966-95-7,CCNC(=O)NC(=O)C(=NOC)C#N,PPDB,Oral,0,1,0,0,0,1
+Cypermethrin (Ref: OMS 2002),2912,52315-07-8,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Cyphenothrin (Ref: S 2703),38283,39515-40-7,CC(=CC1C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C,PPDB,Other,0,0,1,0,1,1
+Cyproconazole (Ref: SAN 619),86132,94361-06-5,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O,PPDB,Contact,0,1,0,0,0,1
+Cyprodinil (Ref: CGA 219417),86367,121552-61-2,CC1=NC(=NC(=C1)C2CC2)NC3=CC=CC=C3,PPDB,Contact,0,1,0,0,0,1
+Cyromazine (Ref: OMS 2014),47866,66215-27-8,C1CC1NC2=NC(=NC(=N2)N)N,PPDB,Oral,0,0,1,0,0,0
+Dalapon,6418,75-99-0,CC(C(=O)O)(Cl)Cl,PPDB,Other,1,0,0,0,0,1
+Dalapon-sodium,517058,127-20-8,CC(C(=O)[O-])(Cl)Cl.[Na+],PPDB,Other,1,0,0,0,0,1
+Daminozide,15331,1596-84-5,CN(C)NC(=O)CCC(=O)O,PPDB,Contact,0,0,0,1,0,0
+Dazomet (Ref: N 521),10788,533-74-4,CN1CN(C(=S)SC1)C,PPDB,Oral,0,0,0,1,1,1
+DDT (Ref: OMS 16),3036,50-29-3,"C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl (for p,p'-DDT)",PPDB,Contact,0,0,1,0,1,2
+Deltamethrin (Ref: OMS 1998),40585,52918-63-5,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,PPDB,Contact,0,0,1,0,1,2
+Demeton (Ref: ENT 17295),24722,8065-48-3,CCOP(=S)(OCC)OCCSCC,PPDB,Other,0,0,1,0,1,1
+Demeton-O-methyl (Ref: ENT 18862),13346,867-27-6,CCSCCOP(=S)(OC)OC,PPDB,Other,0,0,1,0,1,1
+Demeton-S-methyl,13526,919-86-8,CCSCCSP(=O)(OC)OC,PPDB,Oral,0,0,1,0,1,2
+Desmedipham (Ref: EP 475),24743,13684-56-5,CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2,PPDB,Contact,1,0,0,0,0,1
+Desmetryn (Ref: G 34360),13904,1014-69-3,CC(C)NC1=NC(=NC(=N1)NC)SC,PPDB,Contact,1,0,0,0,0,0
+Di-1-p-menthene,61928,34363-01-4,C(CC(C)(C)C1CCC(C)=CC1)C1CCC(C)=CC1,PPDB,Other,1,0,0,0,0,0
+Diafenthiuron (Ref: CGA 106630),3034380,80060-09-9,CC(C)C1=CC(=CC(=C1NC(=S)NC(C)(C)C)C(C)C)OC2=CC=CC=C2,PPDB,Contact,0,0,1,0,1,1
+Dialifos (Ref: AC 14503),25146,10311-84-9,CCOP(=S)(OCC)SC(CCl)N1C(=O)C2=CC=CC=C2C1=O,PPDB,Contact,0,0,1,0,1,2
+Diazinon (Ref: OMS 469),3017,333-41-5,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C,PPDB,Oral,0,0,1,0,1,2
+Dibromochloropropane (Ref: OS1897),7280,96-12-8,C(C(CBr)Br)Cl,PPDB,Other,0,0,0,1,0,0
+Dicamba (Ref: SAN 837H),3030,1918-00-9,COC1=C(C=CC(=C1C(=O)O)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Dichlobenil (Ref: H 133),3031,1194-65-6,C1=CC(=C(C(=C1)Cl)C#N)Cl,PPDB,Contact,1,0,0,0,1,1
+Dichlofluanid (Ref: BAY 47531),14145,1085-98-9,CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Dichlone (Ref: USR 604),8342,117-80-6,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl,PPDB,Other,0,1,0,0,0,0
+Dichlorprop (Ref: RD 406),8427,120-36-5,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Dichlorprop-P (Ref: BAS 044H),119435,15165-67-0,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl,PPDB,Contact,1,0,0,0,0,0
+Dichlorprop-P-etexyl (Ref: CA2134),24843409,865363-39-9,CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)Cl,PPDB,Oral,1,0,0,0,0,0
+Dichlorvos (Ref: OMS 14),3039,62-73-7,COP(=O)(OC)OC=C(Cl)Cl,PPDB,Oral,0,0,1,0,1,2
+Diclobutrazol (Ref: PP296),53309,75736-33-3,CC(C)(C)C(C(CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O.CC(C)(C)C(C(CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O,PPDB,Contact,0,1,0,0,1,2
+Diclofop (Ref: AE F021079),38687,40843-25-2,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Diclofop-methyl (Ref: HOE 023408),39985,51338-27-3,CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Diclomezine (Ref: F-850),93341,62865-36-5,CC1=C(C=C(C=C1Cl)C2=NNC(=O)C=C2)Cl,PPDB,Contact,0,1,0,0,0,1
+Dicloran (Ref: RD 6584),7430,99-30-9,C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-],PPDB,Oral,0,1,0,0,0,0
+Diclosulam (Ref: XDE 564),3081304,145701-21-9,CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)Cl)F,PPDB,Contact,1,0,0,0,0,1
+Dicofol (Ref: ENT 23648),8268,115-32-2,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl,PPDB,Oral,0,0,0,1,1,1
+Dicrotophos (Ref: OMS 253),5371560,141-66-2,CC(=CC(=O)N(C)C)OP(=O)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Dicyclopentadiene,6492,77-73-6,C1C=CC2C1C3CC2C=C3,PPDB,Other,0,0,0,1,0,0
+Dieldrin (Ref: ENT 16225 ),969491,60-57-1,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Other,0,0,1,0,1,2
+Dienochlor (Ref: SAN 804),16686,2227-17-0,C1(=C(C(C(=C1Cl)Cl)(C2(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,0,1
+Diethatyl ethyl (Ref: BAY NNT 6867),38090,38727-55-8,CCC1=C(C(=CC=C1)CC)N(CC(=O)OCC)C(=O)CCl,PPDB,Other,1,0,0,0,0,1
+Diethofencarb (Ref: S 1605),91742,87130-20-9,CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC,PPDB,Contact,0,1,0,0,0,1
+Difenoconazole (Ref: CGA 169374),86173,119446-68-3,CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Difenoxuron (Ref: C3470),26576,14214-32-5,CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC,PPDB,Other,1,0,0,0,0,0
+Difenzoquat metilsulfate (Ref: AC 84777),39424,43222-48-6,CN1C(=CC(=[N+]1C)C2=CC=CC=C2)C3=CC=CC=C3.COS(=O)(=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Diflovidazin (Ref: SZ1 121),153985,162320-67-4,C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=C(C=CC=C3F)F)Cl,PPDB,Contact,0,0,0,1,0,1
+Diflubenzuron (Ref: OMS 1804),37123,35367-38-5,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F,PPDB,Oral,0,0,1,0,1,1
+Diflufenican (Ref: AE 088657),91735,83164-33-4,C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F,PPDB,Contact,1,0,0,0,0,1
+Diflufenzopyr (Ref: HSDB 7010),6125184,109293-97-2,CC(=NNC(=O)NC1=CC(=CC(=C1)F)F)C2=C(C=CC=N2)C(=O)O,PPDB,Contact,0,0,0,1,0,1
+Diflumetorim (Ref: UBF 002),93341,130339-07-0,CCC(C1=CC=C(C=C1)OC(F)F)NC2=NC=NC(=C2Cl)C,PPDB,Oral,0,0,0,1,1,1
+Dikegulac,65420,18467-77-1,CC1(OCC2C(O1)C3C(O2)(OC(O3)(C)C)C(=O)O)C,PPDB,Contact,0,0,0,1,0,1
+Dikegulac-sodium,23667639,52508-35-7,CC1(OCC2C(O1)C3C(O2)(OC(O3)(C)C)C(=O)[O-])C.[Na+],PPDB,Contact,0,0,0,1,0,1
+Dimefox,8264,115-26-4,CN(C)P(=O)(N(C)C)F,PPDB,Contact,0,0,1,0,1,1
+Dimefuron (Ref: RP 23465),91612,34205-21-5,CC(C)(C)C1=NN(C(=O)O1)C2=C(C=C(C=C2)NC(=O)N(C)C)Cl,PPDB,Contact,1,0,0,0,0,0
+Dimethachlor (Ref: CGA 17020),39722,50563-36-5,CC1=C(C(=CC=C1)C)N(CCOC)C(=O)CCl,PPDB,Contact,1,0,0,0,0,0
+Dimethametryn (Ref: C 18898),31573,22936-75-0,CCNC1=NC(=NC(=N1)SC)NC(C)C(C)C,PPDB,Oral,1,0,0,0,0,1
+Dimethenamid (Ref: SAN 582H),91744,87674-68-8,CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C,PPDB,Contact,1,0,0,0,0,1
+Dimethenamid-P,13633097,163515-14-8,CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C,PPDB,Oral,1,0,0,0,0,0
+Dimethipin (Ref: N 252),41385,55290-64-7,CC1=C(S(=O)(=O)CCS1(=O)=O)C,PPDB,Oral,0,0,0,1,0,1
+Dimethirimol (Ref: PP675),21290,5221-53-4,CCCCC1=C(NC(=NC1=O)N(C)C)C,PPDB,Other,0,1,0,0,0,0
+Dimethoate (Ref: OMS 94),3082,60-51-5,CNC(=O)CSP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Dimethomorph (Ref: CME 151),5889665,110488-70-5,COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC,PPDB,Oral,0,1,0,0,0,1
+Dimoxystrobin (Ref: BAS 505F),10936292,149961-52-4,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2C(=NOC)C(=O)NC,PPDB,Oral,0,1,0,0,0,1
+Diniconazole (Ref: XE-779),6436605,83657-24-3,CC(C)(C)C(C(=CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O,PPDB,Contact,0,1,0,0,0,1
+Diniconazole-M,6440728,83657-18-5,CC(C)(C)C(C(=CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O,PPDB,Contact,0,1,0,0,0,1
+Dinobuton (Ref: OMS 1056),13783,973-21-7,CCC(C)C1=CC(=CC(=C1OC(=O)OC(C)C)[N+](=O)[O-])[N+](=O)[O-],PPDB,Other,0,1,0,0,0,1
+Dinocap (Ref: ENT 24727),5284389,39300-45-3,CCCCCCC(C)C1=CC(=CC(=C1OC(=O)C=CC)[N+](=O)[O-])[N+](=O)[O-],PPDB,Oral,0,1,0,0,1,1
+Dinotefuran (Ref: MTI 446),197701,165252-70-0,CN=C(NCC1CCOC1)N[N+](=O)[O-],PPDB,Contact,0,0,1,0,1,2
+Diofenolan (Ref: CGA 059205),4578030,63837-33-2,CCC1OCC(O1)COC2=CC=C(C=C2)OC3=CC=CC=C3,PPDB,Contact,0,0,0,1,0,1
+Dioxathion (Ref: Hercules AC25),6531,78-34-2,CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC,PPDB,Other,0,0,1,0,0,1
+Diphenamid (Ref: L 34314),13728,957-51-7,CN(C)C(=O)C(C1=CC=CC=C1)C2=CC=CC=C2,PPDB,Contact,1,0,0,0,0,0
+Dipotassium phosphonate,21889738,13492-26-7,OP([O-])[O-].[K+].[K+],PPDB,Oral,0,0,0,1,0,0
+Dipropetryn (Ref: GC 16068),20105,4147-51-7,CCSC1=NC(=NC(=N1)NC(C)C)NC(C)C,PPDB,Contact,1,0,0,0,0,1
+Diquat,6795,2764-72-9,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31,PPDB,Oral,1,0,0,0,0,1
+Diquat dibromide,6794,85-00-7,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31.[Br-].[Br-],PPDB,Contact,1,0,0,0,0,1
+Disodium methanearsonate,8947,144-21-8,C[As](=O)([O-])[O-].[Na+].[Na+],PPDB,Contact,1,0,0,0,0,1
+Disodium phosphonate (Ref: IKF-916 25 SC),6336603,13708-85-5 ,P([O-])([O-])=O.[Na+].[Na+],PPDB,Oral,0,1,0,0,0,0
+Disulfoton (Ref: ENT 23347),3118,298-04-4,CCOP(=S)(OCC)SCCSCC,PPDB,Contact,0,0,1,0,1,2
+Dithianon (Ref: BAS 216F),18771,3347-22-6,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N,PPDB,Oral,0,1,0,0,0,1
+Dithiopyr (Ref: RH 101664),91757,97886-45-8,CC(C)CC1=C(C(=NC(=C1C(=O)SC)C(F)(F)F)C(F)F)C(=O)SC,PPDB,Contact,1,0,0,0,0,1
+Diuron (Ref: DPX 14740),3120,330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+DNOC (Ref: ENT 154),10800,534-52-1,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],PPDB,Oral,0,0,0,1,0,0
+Dodemorph,61899,1593-77-7,CC1CN(CC(O1)C)C2CCCCCCCCCCC2,PPDB,Contact,0,1,0,0,0,1
+Dodemorph acetate (Ref: BAS 238F),61898,31717-87-0,CC1CN(CC(O1)C)C2CCCCCCCCCCC2.CC(=O)O,PPDB,Contact,0,1,0,0,0,1
+Dodine (Ref: BAS 365F),17110,2439-10-3,CCCCCCCCCCCCN=C(N)N.CC(=O)O,PPDB,Contact,0,1,0,0,0,0
+Ecolyst (Ref: HSDB 7282),213029,274671-61-3,CC[NH+](CC)CCOCC1=CC=C(C=C1)C.[Cl-],PPDB,Other,0,0,0,1,0,1
+Endosulfan (Ref: OMS 570),3224,115-29-7,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,1
+Endrin,12358480,72-20-8,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+EPN (Ref: OMS 219),16421,2104-64-5,CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)[N+](=O)[O-],PPDB,Other,0,0,0,1,1,2
+Epoxiconazole (Ref: BAS 480F),3317081,135319-73-2,C1=CC=C(C(=C1)C2C(O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl,PPDB,Oral,0,1,0,0,0,1
+EPTC (Ref: R 1608),12968,759-94-4,CCCN(CCC)C(=O)SCC,PPDB,Oral,1,0,0,0,1,1
+Esfenvalerate (Ref: OMS 3023),10342051,66230-04-4,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Ethaboxam (Ref: LGC 30473),11174640,162650-77-3,CCC1=C(SC(=N1)NCC)C(=O)NC(C#N)C2=CC=CS2,PPDB,Contact,0,1,0,0,0,1
+Ethalfluralin (Ref: EL 161),41381,55283-68-6,CCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Ethametsulfuron-methyl (Ref: DPX-A7881),91756,97780-06-8,CCOC1=NC(=NC(=N1)NC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC,PPDB,Contact,1,0,0,0,1,1
+Ethephon,27982,16672-87-0,C(CCl)P(=O)(O)O,PPDB,Contact,0,0,0,1,0,1
+Ethidimuron (Ref: MET 1486 ),91596,30043-49-3,CCS(=O)(=O)C1=NN=C(S1)N(C)C(=O)NC,PPDB,Other,1,0,0,0,0,0
+Ethiofencarb (Ref: BAY 108594),34766,29973-13-5,CCSCC1=CC=CC=C1OC(=O)NC,PPDB,Contact,0,0,1,0,1,1
+Ethion (Ref: ENT 24105),3286,563-12-2,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,PPDB,Contact,0,0,1,0,1,1
+Ethirimol (Ref: PP149),32152,23947-60-6,CCCCC1=C(NC(=NC1=O)NCC)C,PPDB,Oral,0,1,0,0,1,1
+Ethofumesate (Ref: AE B049913),33360,26225-79-6,CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C,PPDB,Contact,1,0,0,0,0,1
+Ethoprophos,3289,13194-48-4,CCCSP(=O)(OCC)SCCC,PPDB,Oral,0,0,1,0,1,1
+Ethoxysulfuron (Ref: AE F095404),3623881,126801-58-9,CCOC1=CC=CC=C1OS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,1,0,0,0,0,0
+Etofenprox (Ref: MTI 500),71245,80844-07-1,CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Etoxazole (Ref: S 1283),153974,153233-91-1,CCOC1=C(C=CC(=C1)C(C)(C)C)C2COC(=N2)C3=C(C=CC=C3F)F,PPDB,Contact,0,0,1,0,0,0
+Etrimfos,37995,38260-54-7,CCC1=NC(=CC(=N1)OP(=S)(OC)OC)OCC,PPDB,Contact,0,0,1,0,1,2
+Famoxadone (Ref: JE 874),213032,131807-57-3,CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4,PPDB,Oral,0,1,0,0,1,2
+Fenamidone (Ref: RPA 407213),10403199,161326-34-7,CC1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3,PPDB,Contact,0,1,0,0,0,1
+Fenaminosulf (Ref: BAY 5027),23668198,140-56-7,CN(C)C1=CC=C(C=C1)N=NS(=O)(=O)[O-].[Na+],PPDB,Other,0,0,0,1,0,0
+Fenamiphos (Ref: BAY 68138),31070,22224-92-6,CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C,PPDB,Contact,0,0,1,0,1,2
+Fenarimol (Ref: EL 222),43226,60168-88-9,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl,PPDB,Oral,0,1,0,0,1,1
+Fenazaquin (Ref: DE 436),86356,120928-09-8,CC(C)(C)C1=CC=C(C=C1)CCOC2=NC=NC3=CC=CC=C32,PPDB,Contact,0,0,0,1,1,1
+Fenbuconazole (Ref: RH 7592),86138,114369-43-6,C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N,PPDB,Oral,0,1,0,0,1,1
+Fenbutatin oxide (Ref: ENT 27738),16683004,13356-08-6,CC(C)(C[Sn](CC(C)(C)C1=CC=CC=C1)(CC(C)(C)C2=CC=CC=C2)O[Sn](CC(C)(C)C3=CC=CC=C3)(CC(C)(C)C4=CC=CC=C4)CC(C)(C)C5=CC=CC=C5)C6=CC=CC=C6,PPDB,Contact,0,0,0,1,0,0
+Fenchlorazole (Ref: HOE 072829),93536,103112-36-3,C1=CC(=C(C=C1Cl)Cl)N2C(=NC(=N2)C(=O)O)C(Cl)(Cl)Cl,PPDB,Contact,1,0,0,0,0,0
+Fenchlorazole-ethyl (Ref: HOE 070542),3033865,103112-35-2,C1=CC=C(C=C1)OC(=O)N2C3=CC(=C(C=C3N=C2C(F)(F)F)Cl)Cl,PPDB,Contact,1,0,0,0,0,0
+Fenclorim (Ref: CGA 123407),77338,3740-92-9,C1=CC=C(C=C1)C2=NC(=CC(=N2)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Fenhexamid (Ref: KBR 2738),213031,126833-17-8,CC1(CCCCC1)C(=O)NC2=C(C(=C(C=C2)O)Cl)Cl,PPDB,Oral,0,1,0,0,0,0
+Fenitrothion (Ref: OMS 43),31200,122-14-5,CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-],PPDB,Contact,0,0,1,0,1,2
+Fenothiocarb (Ref: KCO 3001),44178,62850-32-2,CN(C)C(=O)SCCCCOC1=CC=CC=C1,PPDB,Contact,0,0,0,1,0,0
+Fenoxaprop-ethyl,47938,66441-23-4,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl,PPDB,Contact,1,0,0,0,0,0
+Fenoxaprop-P (Ref: AE-F088406),11949285,113158-40-0,CC(C(=O)O)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl,PPDB,Contact,0,0,0,1,0,1
+Fenoxaprop-P-ethyl (Ref: AE F046360),91707,71283-80-2,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl,PPDB,Contact,1,0,0,0,0,1
+Fenoxycarb (Ref: OMS 3010),51605,79127-80-3,CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2,PPDB,Contact,0,0,0,1,0,0
+Fenpiclonil (Ref: CGA 142705),91724,74738-17-3,C1=CC(=C(C(=C1)Cl)Cl)C2=CNC=C2C#N,PPDB,Oral,0,1,0,0,1,1
+Fenpicoxamid (Ref: XDE 777),121494114,517875-34-2,CC1C(C(C(=O)OCC(C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C,PPDB,Contact,0,1,0,0,0,0
+Fenpropathrin (Ref: OMS 1999),47326,39515-41-8,CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C,PPDB,Contact,0,0,1,0,1,2
+Fenpropidin (Ref: CGA 114900),91694,67306-00-7,CC(CC1=CC=C(C=C1)C(C)(C)C)CN2CCCCC2,PPDB,Oral,0,1,0,0,1,1
+Fenpropimorph (Ref: CGA 101031),93365,67564-91-4,CC1CN(CC(O1)C)CC(C)CC2=CC=C(C=C2)C(C)(C)C,PPDB,Oral,0,1,0,0,0,1
+Fenpyrazamine (Ref: S-2188),11493665,473798-59-3,CC1=CC=CC=C1C2=C(N(N(C2=O)C(C)C)C(=O)SCC=C)N,PPDB,Contact,0,1,0,0,0,1
+Fenpyroximate (Ref: NNI 850),9576412,134098-61-6,CC1=NN(C(=C1C=NOCC2=CC=C(C=C2)C(=O)OC(C)(C)C)OC3=CC=CC=C3)C,PPDB,Contact,0,0,1,0,0,1
+Fensulfothion (Ref: ENT 24945),8292,115-90-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)S(=O)C,PPDB,Other,0,0,0,1,1,2
+Fenthion (Ref: OMS 2),3346,55-38-9,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC,PPDB,Contact,0,0,1,0,1,2
+Fentin acetate (Ref: OMS 1020),16682804,900-95-8,CC(=O)O[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,PPDB,Contact,0,1,0,0,0,1
+Fentin hydroxide,6327657,76-87-9,C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O,PPDB,Contact,0,1,0,0,0,0
+Fentrazamide (Ref: BAY YRC 2388),3081363,158237-07-1,CCN(C1CCCCC1)C(=O)N2C(=O)N(N=N2)C3=CC=CC=C3Cl,PPDB,Contact,1,0,0,0,0,0
+Fenvalerate (Ref: OMS 2000),3347,51630-58-1,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Ferbam (Ref: ENT 14689),26710,14484-64-1,CN(C)C(=S)[S-].CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Fe+3],PPDB,Contact,0,1,0,0,0,1
+Ferric phosphate,24861,10045-86-0,[O-]P(=O)([O-])[O-].[Fe+3],PPDB,Contact,0,0,0,1,0,1
+Ferric pyrophosphate,24877,10058-44-3,[Fe+3].[Fe+3].[Fe+3].[Fe+3].[O-]P([O-])(=O)OP([O-])([O-])=O.[O-]P([O-])(=O)OP([O-])([O-])=O.[O-]P([O-])(=O)OP([O-])([O-])=O,PPDB,Contact,0,0,0,1,0,1
+Fipronil (Ref: BAS 350l),3352,120068-37-3,C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F,PPDB,Oral,0,0,1,0,1,2
+Flamprop-M-isopropyl (Ref: WL 43425),92366,63782-90-1,CC(C)OC(=O)C(C)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2,PPDB,Other,1,0,0,0,0,1
+Flazasulfuron (Ref: OK 1166),93539,104040-78-0,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC,PPDB,Contact,1,0,0,0,0,1
+Flonicamid (Ref: IKI 220),9834513,158062-67-0,C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N,PPDB,Contact,0,0,1,0,0,1
+Florasulam (Ref: DE 570),11700495,145701-23-1,COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F,PPDB,Contact,1,0,0,0,0,1
+Florpyrauxifen-benzyl (Ref: XDE-848 BE),70495450,1390661-72-9,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl,PPDB,Contact,1,0,0,0,0,1
+Fluacrypyrim,9954185,229977-93-9,CC(C)OC1=NC(=CC(=N1)OCC2=CC=CC=C2C(=COC)C(=O)OC)C(F)(F)F,PPDB,Contact,0,0,0,1,1,1
+Fluazaindolizine (Ref: DPX-Q8U80),46944253,1254304-22-7,COC1=CC(=C(C=C1)Cl)S(=O)(=O)NC(=O)C2=CN3C=C(C=C(C3=N2)Cl)C(F)(F)F,PPDB,Oral,0,0,0,1,0,1
+Fluazifop-butyl (Ref: SL 236),50897,69806-50-4,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F,PPDB,Contact,1,0,0,0,0,1
+Fluazifop-P-butyl (Ref: R154875),3033674,79241-46-6,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F,PPDB,Contact,1,0,0,0,0,0
+Fluazinam (Ref: IKF 1216),91731,79622-59-6,C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F,PPDB,Oral,0,1,0,0,0,1
+Flubendiamide (Ref: NNI-0001),11193251,272451-65-7,CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C,PPDB,Contact,0,0,1,0,0,0
+Flucarbazone,3081367,145026-88-6,CN1C(=NN(C1=O)C(=O)NS(=O)(=O)C2=CC=CC=C2OC(F)(F)F)OC,PPDB,Other,1,0,0,0,0,0
+Flucarbazone-sodium (Ref: BAY MKH 6562),12056760,181274-17-9,CN1C(=NN(C1=O)C(=NS(=O)(=O)C2=CC=CC=C2OC(F)(F)F)[O-])OC.[Na+],PPDB,Other,1,0,0,0,0,0
+Fluchloralin (Ref: BAS 392H),36392,33245-39-5,CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Flucycloxuron (Ref: OMS 3041),6537963,113036-88-7,C1CC1C(=NOCC2=CC=C(C=C2)NC(=O)NC(=O)C3=C(C=CC=C3F)F)C4=CC=C(C=C4)Cl,PPDB,Contact,0,0,1,0,0,1
+Flucythrinate (Ref: OMS 2007),50980,70124-77-5,CC(C)C(C1=CC=C(C=C1)OC(F)F)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,PPDB,Contact,0,0,1,0,1,2
+Fludioxonil (Ref: CGA 173506),86398,131341-86-1,C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N,PPDB,Contact,0,1,0,0,0,1
+Fluenetil (Ref: M 2060),20288,4301-50-2,C1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)OCCF,PPDB,Contact,0,0,0,1,0,1
+Fluensulfone (Ref: BYI 01921),11534927,318290-98-1,C1=C(SC(=N1)S(=O)(=O)CCC(=C(F)F)F)Cl,PPDB,Contact,0,0,0,1,0,0
+Flufenacet (Ref: FOE 5043),86429,142459-58-3,CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F,PPDB,Oral,1,0,0,0,0,1
+Flufenoxuron (Ref: BAS 3071),91766,101463-69-8,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=C(C=C(C=C2)OC3=C(C=C(C=C3)C(F)(F)F)Cl)F)F,PPDB,Contact,0,0,1,0,0,1
+Flufenprox (Ref: ICIA5682),86103,107713-58-6,CCOC1=CC=C(C=C1)C(COCC2=CC(=CC=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F,PPDB,Other,0,0,1,0,1,2
+Flufenpyr-ethyl (Ref: S 3153),3083546,188489-07-8,CCOC(=O)COC1=C(C=C(C(=C1)N2C(=O)C(=C(C=N2)C(F)(F)F)C)F)Cl,PPDB,Oral,1,0,0,0,0,1
+Fluindapyr (Ref: IR9792),57343740,1383809-87-7,CC1CC(C)(C)c2c(ccc(c12)N=C(c3cn(C)nc3C(F)F)O)F,PPDB,Oral,0,0,0,1,0,1
+Flumetsulam (Ref: DE 498),91759,98967-40-9,CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC3=C(C=CC=C3F)F,PPDB,Contact,1,0,0,0,0,1
+Flumiclorac,92414,87547-04-4,C1CCC2=C(C1)C(=O)N(C2=O)C3=CC(=C(C=C3F)Cl)OCC(=O)O,PPDB,Contact,1,0,0,0,0,0
+Flumiclorac-pentyl (Ref: S 23031),443048,87546-18-7,CCCCCOC(=O)COC1=C(C=C(C(=C1)N2C(=O)C3=C(C2=O)CCCC3)F)Cl,PPDB,Contact,1,0,0,0,0,0
+Flumioxazin (Ref: S 53482),92425,103361-09-7,C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F,PPDB,Contact,1,0,0,0,0,0
+Flumorph (Ref: SYP L190),11057755,211867-47-9,COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)F)OC,PPDB,Contact,0,0,0,1,0,0
+Fluometuron,16562,2164-17-2,CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F,PPDB,Oral,1,0,0,0,0,1
+Fluopicolide (Ref: AE C638206),11159021,239110-15-7,C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Fluopyram,11158353,658066-35-4,C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F,PPDB,Contact,0,1,0,0,0,1
+Fluoroglycofen,92395,77501-60-1,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)OCC(=O)O,PPDB,Contact,1,0,0,0,0,1
+Fluoxastrobin (Ref: HEC 5725),11048796,361377-29-9,CON=C(C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)C4=NOCCO4,PPDB,Contact,0,1,0,0,0,0
+Flupoxam (Ref: MON 18500),86353,119126-15-7,C1=CC=C(C=C1)C2=NC(=NN2C3=CC(=C(C=C3)Cl)COCC(C(F)(F)F)(F)F)C(=O)N,PPDB,Contact,1,0,0,0,0,1
+Flupyradifurone (Ref: BYI 02960),16752772,951659-40-8,C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F,PPDB,Oral,0,0,1,0,1,1
+Flupyrimin,14127920,1689566-03-7,C1=CC(=NC(=O)C(F)(F)F)N(C=C1)CC2=CN=C(C=C2)Cl,PPDB,Oral,1,0,0,0,0,1
+Flupyrsulfuron,132910,150315-10-9,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)O)OC,PPDB,Contact,1,0,0,0,0,1
+Flupyrsulfuron-methyl-sodium,15764724,144740-54-5,COC1=CC(=NC(=N1)[N-]C(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC.[Na+],PPDB,Contact,1,0,0,0,0,1
+Fluquinconazole (Ref: AE C597265),86417,136426-54-5,C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Fluridone,43079,59756-60-4,CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3,PPDB,Oral,1,0,0,0,0,0
+Flurochloridone (Ref: R 40244),91677,61213-25-0,C1C(C(C(=O)N1C2=CC=CC(=C2)C(F)(F)F)Cl)CCl,PPDB,Contact,1,0,0,0,0,1
+Fluroxypyr (Ref: DOW 43304-H),50465,69377-81-7,C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F,PPDB,Oral,1,0,0,0,0,1
+Fluroxypyr-meptyl,54745,81406-37-3,CCCCCCC(C)OC(=O)COC1=NC(=C(C(=C1Cl)N)Cl)F,PPDB,Contact,1,0,0,0,0,1
+Flurprimidol (Ref: EL 500),73668,56425-91-3,CC(C)C(C1=CC=C(C=C1)OC(F)(F)F)(C2=CN=CN=C2)O,PPDB,Contact,0,0,0,1,0,1
+Flurtamone (Ref: RPA 590515),91755,96525-23-4,CNC1=C(C(=O)C(O1)C2=CC=CC=C2)C3=CC(=CC=C3)C(F)(F)F,PPDB,Contact,1,0,0,0,0,1
+Flusilazole (Ref: DPX H6573),73675,85509-19-9,C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F,PPDB,Oral,0,1,0,0,0,1
+Flusulfamide (Ref: MTF 651),86268,106917-52-6,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NS(=O)(=O)C2=CC(=C(C=C2)Cl)C(F)(F)F,PPDB,Oral,0,1,0,0,0,1
+Fluthiacet,18772468,149253-65-6,C1CCN2C(=O)SC(=NC3=CC(=C(C=C3F)Cl)SCC(=O)O)N2C1,PPDB,Contact,0,0,0,1,0,1
+Fluthiacet-methyl (Ref: CGA 248757),93542,117337-19-6,COC(=O)CSC1=C(C=C(C(=C1)N=C2N3CCCCN3C(=O)S2)F)Cl,PPDB,Contact,0,0,0,1,0,1
+Flutianil (Ref: OK-5303),44151818,958647-10-4,COC1=CC=CC=C1N2CCSC2=C(C#N)SC3=C(C=CC(=C3)C(F)(F)F)F,PPDB,Contact,0,1,0,0,0,1
+Flutolanil (Ref: NNF 136),47898,66332-96-5,CC(C)OC1=CC=CC(=C1)NC(=O)C2=CC=CC=C2C(F)(F)F,PPDB,Contact,0,1,0,0,0,0
+Flutriafol (Ref: PP 450),91727,76674-21-0,C1=CC=C(C(=C1)C(CN2C=NC=N2)(C3=CC=C(C=C3)F)O)F,PPDB,Oral,0,1,0,0,1,1
+Fluxapyroxad (Ref: BAS 700F),16095400,907204-31-3,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F,PPDB,Contact,0,0,0,1,0,1
+Folpet,8607,133-07-3,C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl,PPDB,Contact,0,1,0,0,0,0
+Fomesafen (Ref: PP 021),51556,72178-02-0,CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-],PPDB,Oral,1,0,0,0,0,1
+Fonofos (Ref: N-2790),13676,944-22-9,CCOP(=S)(CC)SC1=CC=CC=C1,PPDB,Other,0,0,1,0,1,2
+Foramsulfuron (Ref: AE F130360),11419598,173159-57-4,CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Forchlorfenuron (Ref: KT 30),93379,68157-60-8,C1=CC=C(C=C1)NC(=O)NC2=CC(=NC=C2)Cl,PPDB,Contact,0,0,0,1,0,1
+Formetanate (Ref: SN 36056),31099,22259-30-9,CNC(=O)OC1=CC=CC(=C1)N=CN(C)C,PPDB,Oral,0,0,1,0,1,2
+Formetanate hydrochloride,31899,23422-53-9,CNC(=O)OC1=CC=CC(=C1)N=CN(C)C.Cl,PPDB,Oral,0,0,1,0,1,2
+Formothion (Ref: SAN 6913I),17345,2540-82-1,CN(C=O)C(=O)CSP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Fosamine (Ref: DPX 1108),33257,59682-52-9,CCOP(=O)(C(=O)N)O,PPDB,Contact,1,0,0,0,0,0
+Fosetyl,6328134,15845-66-6,CCOP(=O)=O,PPDB,Contact,0,1,0,0,0,1
+Fosetyl-aluminium (Ref: RP 32545),6328269,39148-24-8,CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3],PPDB,Contact,0,1,0,0,0,1
+Fosthiazate (Ref: IKI 1145),91758,98886-44-3,CCC(C)SP(=O)(N1CCSC1=O)OCC,PPDB,Contact,0,0,1,0,1,2
+Fuberidazole,19756,3878-19-1,C1=CC=C2C(=C1)NC(=N2)C3=CC=CO3,PPDB,Oral,0,1,0,0,0,0
+Furalaxyl (Ref: IPE 134),42504,57646-30-7,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)C2=CC=CO2,PPDB,Oral,0,1,0,0,1,1
+Furalaxyl-M,12767955,57764-08-6,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)C2=CC=C(C=C2)C(=O)C3=CC=CC=C3,PPDB,Contact,0,1,0,0,1,1
+Furfural,7362,98-01-1,C1=COC(=C1)C=O,PPDB,Contact,0,1,0,0,0,1
+Furilazole (Ref: MON 13900),86187,121776-33-8,CC1(N(CC(O1)C2=CC=CO2)C(=O)C(Cl)Cl)C,PPDB,Contact,1,0,0,0,0,1
+Gamma-cyhalothrin (Ref: DE 225),6440554,76703-62-3,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Glufosinate (Ref: HOE 00661),4794,51276-47-2,CP(=O)(CCC(C(=O)O)N)O,PPDB,Contact,1,0,0,0,0,0
+Glufosinate-ammonium (Ref: HOE 039866),53597,77182-82-2,CP(=O)(CCC(C(=O)[O-])N)O.[NH4+],PPDB,Contact,1,0,0,0,0,0
+Glyphosate (Ref: MON 0573),3496,1071-83-6,C(C(=O)O)NCP(=O)(O)O,PPDB,Contact,1,0,0,0,0,1
+Glyphosate-diammonium,44146828,69254-40-6,C(C(=O)O)NCP(=O)([O-])[O-].[NH4+].[NH4+],PPDB,Contact,1,0,0,0,0,1
+Glyphosate-dimethylammonium,13208144,34494-04-7,CNC.C(C(=O)O)NCP(=O)(O)O,PPDB,Contact,1,0,0,0,0,1
+Glyphosate-isopropylamine (Ref: MON 0139),38078,38641-94-0,CC(C)N.C(C(=O)O)NCP(=O)(O)O,PPDB,Contact,1,0,0,0,0,1
+Glyphosate-monoammonium,11615303,114370-14-8,C(C(=O)O)NCP(=O)(O)O.N,PPDB,Contact,1,0,0,0,0,1
+Glyphosate-monopotassium,23716553,39600-42-5,C(C(=O)O)NCP(=O)(O)[O-].[K+],PPDB,Contact,1,0,0,0,0,1
+Glyphosate-sesquisodium (Ref: Mon 8000),71463591,70393-85-0,C(C(=O)O)NCP(=O)(O)[O-].C(C(=O)O)NCP(=O)([O-])[O-].[Na+].[Na+].[Na+],PPDB,Contact,1,0,0,0,0,1
+Glyphosate-sodium,23677848,34494-03-6,C(C(=O)O)NCP(=O)(O)[O-].[Na+],PPDB,Contact,1,0,0,0,0,1
+Glyphosate-trimesium,105048,81591-81-3,C[S+](C)C.C(C(=O)O)NCP(=O)(O)[O-],PPDB,Contact,1,0,0,0,0,0
+Guadipyr,76325977,1376342-13-0,CCCCC=NN(CC1=CN=C(C=C1)Cl)C(=N[N+](=O)[O-])N,PPDB,Contact,0,0,1,0,0,1
+Guazatine (Ref: EM 379),3526,13516-27-3,C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N,PPDB,Oral,0,1,0,0,0,1
+Halauxifen (Ref: X11393729),25181547,943832-60-8,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Halauxifen-methyl (Ref: DE-729),16656802,943831-98-9,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)OC)Cl,PPDB,Contact,1,0,0,0,0,1
+Halfenprox (Ref: MTI 732),10140464,111872-58-3,CC(C)(COCC1=CC(=CC=C1)OC2=CC=CC=C2)C3=CC=C(C=C3)OC(F)(F)Br,PPDB,Contact,0,0,1,0,1,2
+Halofenozide (Ref: RH 0345),114994,112226-61-6,CC(C)(C)N(C(=O)C1=CC=CC=C1)NC(=O)C2=CC=C(C=C2)Cl,PPDB,Contact,0,0,1,0,0,1
+Halosulfuron-methyl (Ref: CGA 288239),91763,100784-20-1,CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Haloxyfop (Ref: DOWCO 453),50895,69806-34-4,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,PPDB,Oral,1,0,0,0,0,1
+Haloxyfop-etotyl (Ref: DOWCO 453EE),91743,87237-48-7,CCOCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,PPDB,Oral,1,0,0,0,0,1
+Haloxyfop-P (Ref: DE 535 acid),448979,95977-29-0,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,PPDB,Contact,1,0,0,0,0,1
+Haloxyfop-P-methyl (Ref: DE 535),13363033,72619-32-0,CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl,PPDB,Contact,1,0,0,0,0,1
+Haloxyfop-sodium,23681922,69806-86-6,CC(C(=O)[O-])OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl.[Na+],PPDB,Oral,1,0,0,0,0,1
+Heptachlor (Ref: ENT 15152),3589,76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Hexaconazole (Ref: PP 523),66461,79983-71-4,CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O,PPDB,Contact,0,1,0,0,0,1
+Hexadecanoic acid,985,57-10-3,CCCCCCCCCCCCCCCC(=O)O,PPDB,Other,0,0,1,0,0,1
+Hexaflumuron (Ref: XRD 473),91741,86479-06-3,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC(C(F)F)(F)F)Cl)F,PPDB,Oral,0,0,1,0,0,1
+Hexazinone (Ref: DPX A3674),39965,51235-04-2,CN1C(=NC(=O)N(C1=O)C2CCCCC2)N(C)C,PPDB,Other,1,0,0,0,0,1
+Hexylthiofos,6451756,41495-67-4,CCOP(=O)(OC1CCCCC1)SCC,PPDB,Contact,0,1,0,0,0,1
+Hexythiazox (Ref: NA 73),13218777,78587-05-0,CC1C(SC(=O)N1C(=O)NC2CCCCC2)C3=CC=C(C=C3)Cl,PPDB,Oral,0,0,0,1,0,0
+Hydramethylnon (Ref: BAS 315l),5281875,67485-29-4,CC1(CNC(=NC1)NN=C(C=CC2=CC=C(C=C2)C(F)(F)F)C=CC3=CC=C(C=C3)C(F)(F)F)C,PPDB,Contact,0,0,1,0,0,1
+Hydroprene (Ref: OMS 1696),5372477,41096-46-2,CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C,PPDB,Oral,0,0,1,0,1,2
+Hydroquinone,785,123-31-9,C1=CC(=CC=C1O)O,PPDB,Other,0,0,0,1,0,0
+Hymexazol (Ref: F 319),24781,10004-44-1,CC1=CC(=O)NO1,PPDB,Contact,0,1,0,0,0,1
+Imazalil (Ref: R 023979),37175,35554-44-0,C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl,PPDB,Oral,0,1,0,0,0,1
+Imazamethabenz (Ref: AC 263840),3034382,100728-84-5,CC1=CC(=C(C=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C,PPDB,Contact,1,0,0,0,0,1
+Imazamethabenz-methyl (Ref: AC 222293),54744,81405-85-8,COC(=O)c1ccc(C)cc1C2=NC(C)(C(C)C)C(=O)N2.COC(=O)c3cc(C)ccc3C4=NC(C)(C(C)C)C(=O)N4,PPDB,Oral,1,0,0,0,0,1
+Imazamox (Ref: BAS 720H),86137,114311-32-9,CC(C)C1(C(=O)NC(=N1)C2=NC=C(C=C2C(=O)O)COC)C,PPDB,Oral,1,0,0,0,0,1
+Imazapic (Ref: AC 263222),91770,104098-48-8,CC1=CN=C(C(=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C,PPDB,Contact,1,0,0,0,0,0
+Imazapyr,54738,81334-34-1,CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C,PPDB,Oral,1,0,0,0,0,1
+Imazaquin (Ref: BAS 725H),54739,81335-37-7,CC(C)C1(C(=O)NC(=N1)C2=NC3=CC=CC=C3C=C2C(=O)O)C,PPDB,Oral,0,0,0,1,1,1
+Imazethapyr (Ref: AC 252925),54740,81335-77-5,CCC1=CN=C(C(=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C,PPDB,Oral,1,0,0,0,0,1
+Imazosulfuron (Ref: TH 913),92433,122548-33-8,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC,PPDB,Oral,1,0,0,0,0,1
+Imibenconazole (Ref: HF 6305),93483,86598-92-7,C1=CC(=CC=C1CSC(=NC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3)Cl,PPDB,Oral,0,1,0,0,0,0
+Imidacloprid (Ref: BAY NTN 33893),86418,138261-41-3,C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(C=C2)Cl,PPDB,Oral,0,0,1,0,1,2
+Iminoctadine triacetate (Ref: DF 125),162366,57520-17-9,CC(=O)O.CC(=O)O.CC(=O)O.C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N,PPDB,Contact,0,1,0,0,0,1
+Imiprothrin (Ref: S 41311),123622,72963-72-5,CC(=CC1C(C1(C)C)C(=O)OCN2C(=O)CN(C2=O)CC#C)C,PPDB,Contact,0,0,0,1,1,2
+Indanofan (Ref: MK 243),11046097,133220-30-1,CCC1(C(=O)C2=CC=CC=C2C1=O)CC3(CO3)C4=CC(=CC=C4)Cl,PPDB,Contact,0,0,0,1,0,1
+Indaziflam,44146693,950782-86-2,CC1CC2=C(C1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C,PPDB,Contact,1,0,0,0,0,1
+Indoxacarb (Ref: DPX KN128),107720,173584-44-6,COC(=O)C12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl,PPDB,Contact,0,0,1,0,1,2
+Iodosulfuron,11027582,185119-76-0,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)I)C(=O)O,PPDB,Oral,1,0,0,0,0,1
+Iodosulfuron-methyl-sodium (Ref: AE F115008),16760189,144550-36-7,CC1=NC(=NC(=N1)OC)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=C2)I)C(=O)OC.[Na+],PPDB,Oral,1,0,0,0,0,1
+Ioxynil (Ref: ACP 63-303),15530,1689-83-4,C1=C(C=C(C(=C1I)O)I)C#N,PPDB,Oral,1,0,0,0,1,1
+Ioxynil octanoate,19730,3861-47-0,CCCCCCCC(=O)OC1=C(C=C(C=C1I)C#N)I,PPDB,Oral,1,0,0,0,1,1
+Ioxynil-lithium,23691010,2961-61-7,[Li+].C1=C(C=C(C(=C1I)[O-])I)C#N,PPDB,Contact,1,0,0,0,1,1
+Ioxynil-sodium,23666695,2961-62-8,C1=C(C=C(C(=C1I)[O-])I)C#N.[Na+],PPDB,Contact,1,0,0,0,1,1
+Ipconazole (Ref: KNF 317),86211,125225-28-7,CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl,PPDB,Contact,0,0,0,1,0,1
+Iprobenfos,18772466,26087-47-8,CC(C)OP(=O)(OC(C)C)SCC1=CC=CC=C1,PPDB,Contact,0,1,0,0,0,1
+Iprodione (Ref: ROP 500F),37517,36734-19-7,CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Iprovalicarb (Ref: SZX 0722),10958189,140923-17-7,CC1=CC=C(C=C1)C(C)NC(=O)C(C(C)C)NC(=O)OC(C)C,PPDB,Oral,0,1,0,0,0,0
+Isofenphos (Ref: BAY SRA 12869),32872,25311-71-1,CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C,PPDB,Contact,0,0,1,0,1,2
+Isofenphos-methyl,127394,99675-03-3,CC(C)NP(=S)(OC)OC1=CC=CC=C1C(=O)OC(C)C,PPDB,Contact,0,0,1,0,1,2
+Isofetamid (Ref: IKF-5411),71657865,875915-78-9,CC1=C(SC=C1)C(=O)NC(C)(C)C(=O)C2=C(C=C(C=C2)OC(C)C)C,PPDB,Oral,0,1,0,0,0,1
+Isoflucypram (Ref: BCS-CN88460),66553206,1255734-28-1,FC(F)c1nn(C)c(F)c1C(=O)N(Cc1cc(Cl)ccc1C(C)C)C1CC1,PPDB,Contact,0,1,0,0,0,1
+Isoprocarb (Ref: OMS 32),17517,2631-40-5,CC(C)C1=CC=CC=C1OC(=O)NC,PPDB,Contact,0,0,0,1,1,1
+Isopropalin (Ref: EL-179),36606,33820-53-0,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-],PPDB,Other,1,0,0,0,1,2
+Isoproturon (Ref: HOE 16410),36679,34123-59-6,CC(C)C1=CC=C(C=C1)NC(=O)N(C)C,PPDB,Oral,1,0,0,0,0,0
+Isopyrazam (Ref: SYN 520453),25271089,881685-58-1,CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C,PPDB,Oral,0,1,0,0,0,0
+Isoxaben (Ref: EAF 496),73672,82558-50-7,CCC(C)(CC)C1=NOC(=C1)NC(=O)C2=C(C=CC=C2OC)OC,PPDB,Contact,1,0,0,0,0,1
+Isoxaflutole (Ref: RPA 201772),84098,141112-29-0,CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3,PPDB,Contact,1,0,0,0,0,1
+Isoxathion (Ref: SL 6711),29307,18854-01-8,CCOP(=S)(OCC)OC1=NOC(=C1)C2=CC=CC=C2,PPDB,Contact,0,0,1,0,1,2
+Kaolin,56841936,1332-58-7,O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O,PPDB,Contact,0,0,0,1,0,1
+Kaolin calcined (Ref: SIK6463.5),64742,92704-41-1,[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],PPDB,Contact,0,0,0,1,0,1
+Kelevan (Ref: GC-9160),20226,4234-79-1,CCOC(=O)CCC(=O)CC1(C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)O,PPDB,Oral,0,0,1,0,0,0
+Kinoprene,6434236,42588-37-4,CC(C)CCCC(C)CC=CC(=CC(=O)OCC#C)C,PPDB,Contact,0,0,0,1,0,1
+Kresoxim-methyl (Ref: BAS 490F),6112114,143390-89-0,CC1=CC=CC=C1OCC2=CC=CC=C2C(=NOC)C(=O)OC,PPDB,Contact,0,1,0,0,0,1
+Lactofen (Ref: PPG 844),62276,77501-63-4,CCOC(=O)C(C)OC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-],PPDB,Contact,0,0,0,1,0,0
+Lambda-cyhalothrin (Ref: OMS 3021),6440557,91465-08-6,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Lead arsenate,24572,7784-40-9,O[As](=O)([O-])[O-].[Pb+2],PPDB,Other,0,0,1,0,1,1
+Lenacil (Ref: DPX B634),16559,2164-08-1,C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O,PPDB,Oral,1,0,0,0,0,0
+Lime sulphur,121494065,1344-81-6,[S-]SSS[S-].[Ca+2],PPDB,Oral,0,0,0,1,0,1
+Limestone,10112,1317-65-3,C(=O)([O-])[O-].[Ca+2],PPDB,Other,0,0,0,1,0,0
+Lindane (Ref: OMS 17),727,58-89-9,C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Oral,0,0,1,0,1,2
+Linuron (Ref: HOE 02810),9502,330-55-2,CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC,PPDB,Contact,1,0,0,0,0,1
+Lithium perfluorooctane sulfonate,23677927,29457-72-5,[Li+].C(C(C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,PPDB,Oral,0,0,1,0,1,2
+Lufenuron (Ref: CGA 184699),71777,103055-07-8,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F,PPDB,Oral,0,0,0,1,0,0
+Malathion (Ref: OMS 1),4004,121-75-5,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Maleic hydrazide,21954,123-33-1,C1=CC(=O)NNC1=O,PPDB,Contact,0,0,0,1,0,1
+Mancozeb,13307026,8018-01-7,C(CNC(=S)[S-])NC(=S)[S-].C(CNC(=S)[S-])NC(=S)[S-].[Mn+2].[Zn+2],PPDB,Contact,0,1,0,0,0,1
+Mandestrobin (Ref: S-2200),10935908,173662-97-0,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2C(C(=O)NC)OC,PPDB,Contact,0,1,0,0,0,1
+Mandipropamid (Ref: NOA 446510),11292824,374726-62-2,COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C,PPDB,Contact,0,1,0,0,0,0
+Maneb (Ref: ENT 14875),3032581,12427-38-2,C(CNC(=S)[S-])NC(=S)[S-].[Mn+2],PPDB,Oral,0,1,0,0,0,1
+MCPA (Ref: BAS 009H),7204,94-74-6,CC1=C(C=CC(=C1)Cl)OCC(=O)O,PPDB,Contact,1,0,0,0,0,0
+MCPA-thioethyl,32876,25319-90-8,CCSC(=O)COC1=C(C=C(C=C1)Cl)C,PPDB,Contact,0,0,0,1,0,1
+MCPB (Ref: MB 3046),7207,94-81-5,CC1=C(C=CC(=C1)Cl)OCCCC(=O)O,PPDB,Oral,1,0,0,0,0,1
+Mecoprop (Ref: RD 4593),7153,7085-19-0,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Mecoprop etexyl,598095,71526-69-7,CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)C,PPDB,Oral,1,0,0,0,0,0
+Mecoprop-P (Ref: BAS 037H),185588,16484-77-8,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Mecoprop-P etexyl (Ref: CA3264),24843401,861229-15-4,CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)C,PPDB,Oral,1,0,0,0,0,0
+Mefenpyr diethyl (Ref: HOE 107892),10937610,135590-91-9,CCOC(=O)C1=NN(C(C1)(C)C(=O)OCC)C2=C(C=C(C=C2)Cl)Cl,PPDB,Contact,1,0,0,0,0,0
+Mefentrifluconazole (Ref: BAS 750F),71230671,1417782-03-6,CC(CN1C=NC=N1)(C2=C(C=C(C=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F)O,PPDB,Contact,0,1,0,0,0,1
+Mefluidide (Ref: MBR 12325),40896,53780-34-0,CC1=CC(=C(C=C1NC(=O)C)NS(=O)(=O)C(F)(F)F)C,PPDB,Other,1,0,0,0,0,1
+Mepanipyrim (Ref: KUF 6201),86296,110235-47-7,CC#CC1=CC(=NC(=N1)NC2=CC=CC=C2)C,PPDB,Oral,0,1,0,0,0,1
+Mephosfolan (Ref: ENT 25991 ),13707,950-10-7,CCOP(=O)(N=C1SCC(S1)C)OCC,PPDB,Contact,0,0,1,0,1,2
+Mepiquat,18743,15302-91-7,C[N+]1(CCCCC1)C,PPDB,Contact,0,0,0,1,0,1
+Mepiquat chloride (Ref: BAS 083W),62781,24307-26-4,C[N+]1(CCCCC1)C.[Cl-],PPDB,Contact,0,0,0,1,0,1
+Mepronil (Ref: B1 2459),41632,55814-41-0,CC1=CC=CC=C1C(=O)NC2=CC(=CC=C2)OC(C)C,PPDB,Oral,0,1,0,0,0,1
+Meptyldinocap (Ref: DE 126),5284389,131-72-6,CCCCCCC(C)C1=CC(=CC(=C1OC(=O)C=CC)[N+](=O)[O-])[N+](=O)[O-],PPDB,Contact,0,1,0,0,0,1
+Mesosulfuron (Ref: AE F154851),11520759,400852-66-6,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)O)OC,PPDB,Oral,1,0,0,0,1,1
+Mesosulfuron-methyl (Ref: AE F130060),11409499,208465-21-8,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Mesotrione (Ref: ZA 1296),175967,104206-82-8,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-],PPDB,Oral,1,0,0,0,1,1
+Metaflumizone (Ref: BAS 320l),20056430,139968-49-3,C1=CC(=CC(=C1)C(F)(F)F)C(=NNC(=O)NC2=CC=C(C=C2)OC(F)(F)F)CC3=CC=C(C=C3)C#N,PPDB,Contact,0,0,1,0,1,1
+Metalaxyl (Ref: CGA 48988),42586,57837-19-1,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC,PPDB,Contact,0,1,0,0,0,0
+Metalaxyl-M (Ref: CGA 329351),11150163,70630-17-0,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC,PPDB,Oral,0,1,0,0,0,1
+Metaldehyde,61021,108-62-3,CC1OC(OC(OC(O1)C)C)C,PPDB,Oral,0,0,0,1,0,1
+Metamifop (Ref: DBH-129),59558935,256412-89-2,CC(C(=O)N(C)C1=CC=CC=C1F)OC2=CC=C(C=C2)OC3=NC4=C(O3)C=C(C=C4)Cl,PPDB,Oral,1,0,0,0,0,1
+Metamitron (Ref: BAY DRW 1139),38854,41394-05-2,CC1=NN=C(C(=O)N1N)C2=CC=CC=C2,PPDB,Oral,1,0,0,0,0,1
+Metam-sodium (Ref: N 869),5366415,137-42-8,CNC(=S)[S-].[Na+],PPDB,Contact,0,0,0,1,0,1
+Metazachlor (Ref: BAS 47900H),49384,67129-08-2,CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl,PPDB,Oral,1,0,0,0,0,1
+Metconazole,86210,125116-23-6,CC1(CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl)C,PPDB,Oral,0,1,0,0,0,1
+Methabenzthiazuron (Ref: BAY 74283 ),29216,18691-97-9,CNC(=O)N(C)C1=NC2=CC=CC=C2S1,PPDB,Contact,1,0,0,0,1,2
+Methamidophos (Ref: ENT 27396),4096,10265-92-6,COP(=O)(N)SC,PPDB,Oral,0,0,1,0,1,2
+Methazole (Ref: VCS-438),4690,20354-26-1,CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl,PPDB,Other,1,0,0,0,0,0
+Methidathion (Ref: ENT 27193 ),13709,950-37-8,COC1=NN(C(=O)S1)CSP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Methiocarb (Ref: OMS 93),16248,2032-65-7,CC1=CC(=CC(=C1SC)C)OC(=O)NC,PPDB,Oral,0,0,1,0,1,2
+Methiozolin (Ref: MRC-01),11500973,403640-27-7,CC1=C(SC=C1)C2=NOC(C2)(C)COCC3=C(C=CC=C3F)F,PPDB,Contact,1,0,0,0,0,1
+Methomyl (Ref: OMS 1196),5353758,16752-77-5,CC(=NOC(=O)NC)SC,PPDB,Contact,0,0,1,0,1,2
+Methoprene (Ref: OMS 1697),5366546,40596-69-8,CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC,PPDB,Oral,0,0,0,1,1,2
+Methoprotryne (Ref: G 36393),13290,841-06-5,CC(C)NC1=NC(=NC(=N1)NCCCOC)SC,PPDB,Other,1,0,0,0,0,0
+Methoxychlor (Ref: OMS 466),4115,72-43-5,COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl,PPDB,Oral,0,0,1,0,1,1
+Methoxyfenozide (Ref: RH 2485),105010,161050-58-4,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C,PPDB,Contact,0,0,1,0,0,1
+Methylarsonic acid,8948,124-58-3,C[As](=O)(O)O,PPDB,Contact,1,0,0,0,0,1
+Metiram (Ref: BAS 222F),5284484,9006-42-2,C(CNC(=S)[S-])NC(=S)S.C(CNC(=S)[S-])NC(=S)S.[NH2-].[Zn],PPDB,Contact,0,1,0,0,0,1
+Metobromuron (Ref: C 3216),18290,3060-89-7,CN(C(=O)NC1=CC=C(C=C1)Br)OC,PPDB,Oral,1,0,0,0,0,0
+Metolachlor (Ref: CGA 24705),4169,51218-45-2,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C,PPDB,Contact,1,0,0,0,0,0
+Metominostrobin (Ref: SSF 126),5483872,133408-50-1,CNC(=O)C(=NOC)C1=CC=CC=C1OC2=CC=CC=C2,PPDB,Contact,0,0,0,1,0,1
+Metosulam (Ref: XDE 511),86422,139528-85-1,CC1=C(C(=C(C=C1)Cl)NS(=O)(=O)C2=NN3C(=CC(=NC3=N2)OC)OC)Cl,PPDB,Contact,1,0,0,0,0,1
+Metoxuron (Ref: SAN 6915H),29863,19937-59-8,CN(C)C(=O)NC1=CC(=C(C=C1)OC)Cl,PPDB,Contact,1,0,0,0,0,1
+Metrafenone (Ref: BAS 560F),6451057,220899-03-6,CC1=CC(=C(C(=C1C(=O)C2=C(C=CC(=C2C)Br)OC)OC)OC)OC,PPDB,Contact,0,1,0,0,0,1
+Metribuzin (Ref: DPX G2504),30479,21087-64-9,CC(C)(C)C1=NN=C(N(C1=O)N)SC,PPDB,Oral,1,0,0,0,0,1
+Metsulfuron (Ref: IN F5438),91730,79510-48-8,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Metsulfuron-methyl (Ref: DPX T6376),52999,74223-64-6,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC,PPDB,Oral,1,0,0,0,0,1
+Metyltetraprole (Ref: S-2367),8988183,1472649-01-6,CC1=C(C(=CC=C1)N2C(=O)N(N=N2)C)COC3=NN(C=C3)C4=CC=C(C=C4)Cl,PPDB,Contact,0,1,0,0,0,1
+Mevinphos (Ref: ENT 22374),5355863,7786-34-7,CC(=CC(=O)OC)OP(=O)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Mexacarbate (Ref: ENT 25766),9414,315-18-4,CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC,PPDB,Contact,0,0,1,0,1,2
+Mirex (Ref: GC 1283),16945,2385-85-5,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,PPDB,Other,0,0,1,0,1,1
+Molinate (Ref: OMS 1373),16653,2212-67-1,CCSC(=O)N1CCCCCC1,PPDB,Oral,1,0,0,0,1,1
+Momfluorothrin (Ref: S-1563),25193220,609346-29-4,CC(=CC1C(C1(C)C)C(=O)OCC2=C(C(=C(C(=C2F)F)COC)F)F)C#N,PPDB,Contact,0,0,1,0,1,2
+Monalide (Ref: SN 35830),23715,7287-36-7,CCCC(C)(C)C(=O)NC1=CC=C(C=C1)Cl,PPDB,Other,1,0,0,0,0,0
+Monocrotophos (Ref: ENT 27129),5371562,6923-22-4,C/C(=C\C(=O)NC)/OP(=O)(OC)OC,PPDB,Oral,0,0,0,1,1,2
+Monolinuron (Ref: HOE 002747),15629,1746-81-2,CN(C(=O)NC1=CC=C(C=C1)Cl)OC,PPDB,Oral,1,0,0,0,0,0
+Monosodium methylarsonate,23664719,2163-80-6,C[As](=O)(O)[O-].[Na+],PPDB,Contact,1,0,0,0,0,1
+Monuron,8800,150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl,PPDB,Contact,1,0,0,0,0,0
+Myclobutanil (Ref: RH 3866),6336,88671-89-0,CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl,PPDB,Contact,0,1,0,0,0,1
+Nabam,3032297,142-59-6,C(CNC(=S)[S-])NC(=S)[S-].[Na+].[Na+],PPDB,Contact,0,1,0,0,0,1
+Naled (Ref: OMS 75),4420,300-76-5,COP(=O)(OC)OC(C(Cl)(Cl)Br)Br,PPDB,Contact,0,0,1,0,1,2
+Napropamide (Ref: R 7465),27189,15299-99-7,CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21,PPDB,Contact,1,0,0,0,0,1
+Napropamide-M,13013865,41643-35-0,CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21,PPDB,Contact,1,0,0,0,0,0
+Naptalam (Ref: ACP 322),8594,132-66-1,C1=CC=C2C(=C1)C=CC=C2NC(=O)C3=CC=CC=C3C(=O)O,PPDB,Contact,1,0,0,0,0,0
+Neburon,11145,555-37-3,CCCCN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Nicosulfuron (Ref: DPX V9360),73281,111991-09-4,CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Oral,1,0,0,0,1,1
+Nitenpyram (Ref: CGA 246916),3034287,150824-47-8,CCN(CC1=CN=C(C=C1)Cl)C(=C[N+](=O)[O-])NC,PPDB,Other,0,0,1,0,1,2
+Nitrofen (Ref: FW-925),15787,1836-75-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl,PPDB,Other,1,0,0,0,0,1
+Nitrothal-isopropyl (Ref: BAS 300 OOF),43704,10552-74-6,CC(C)OC(=O)C1=CC(=CC(=C1)[N+](=O)[O-])C(=O)OC(C)C,PPDB,Oral,0,1,0,0,0,1
+Norflurazon (Ref: H 52143),33775,27314-13-2,CNC1=C(C(=O)N(N=C1)C2=CC=CC(=C2)C(F)(F)F)Cl,PPDB,Other,1,0,0,0,0,0
+Novaluron (Ref: GR 572),93541,116714-46-6,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2)OC(C(OC(F)(F)F)F)(F)F)Cl)F,PPDB,Oral,0,0,0,1,0,1
+Noviflumuron,9828359,121451-02-3,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F,PPDB,Contact,0,0,1,0,0,1
+Nuarimol (Ref: EL 228),91683,63284-71-9,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)F)(C3=CN=CN=C3)O)Cl,PPDB,Contact,0,1,0,0,0,1
+"O,P'-DDT",13089,789-02-6,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,PPDB,Contact,0,0,1,0,1,2
+Ofurace (Ref: AE F057623),42850,58810-48-3,CC1=C(C(=CC=C1)C)N(C2CCOC2=O)C(=O)CCl,PPDB,Oral,0,1,0,0,0,1
+Omethoate (Ref: ENT 25776),14210,1113-02-6,CNC(=O)CSP(=O)(OC)OC,PPDB,Oral,0,0,1,0,1,2
+Orbencarb (Ref: B-3356),36867,34622-58-7,CCN(CC)C(=O)SCC1=CC=CC=C1Cl,PPDB,Oral,1,0,0,0,0,0
+Orthosulfamuron (Ref: IR5878),11091168,213464-77-8,CN(C)C(=O)C1=CC=CC=C1NS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Orysastrobin,11486133,248593-16-0,CC(=NOC)C(=NOC)C(=NOCC1=CC=CC=C1C(=NOC)C(=O)NC)C,PPDB,Other,0,1,0,0,0,0
+Oryzalin (Ref: EL 119),29393,19044-88-3,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)N)[N+](=O)[O-],PPDB,Oral,1,0,0,0,0,1
+Oxabetrinil (Ref: CGA 92194),9576081,94593-79-0,C1COC(O1)CON=C(C#N)C2=CC=CC=C2,PPDB,Oral,1,0,0,0,0,1
+Oxadiargyl (Ref: RP 020630 ),94498,39807-15-3,CC(C)(C)C1=NN(C(=O)O1)C2=CC(=C(C=C2Cl)Cl)OCC#C,PPDB,Contact,1,0,0,0,0,0
+Oxadiazon (Ref: RP 17623 ),29732,19666-30-9,CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Oxadixyl (Ref: SAN 371F),53735,77732-09-3,CC1=C(C(=CC=C1)C)N(C(=O)COC)N2CCOC2=O,PPDB,Contact,0,1,0,0,0,1
+Oxamyl (Ref: DPX D1410),9595287,23135-22-0,CNC(=O)ON=C(C(=O)N(C)C)SC,PPDB,Oral,0,0,1,0,1,2
+Oxasulfuron (Ref: CGA 277476 ),86443,144651-06-9,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC3COC3)C,PPDB,Oral,1,0,0,0,0,1
+Oxathiapiprolin (Ref: DPX-QGU42),56945145,1003318-67-9,CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F,PPDB,Oral,0,1,0,0,0,1
+Oxolinic acid,4628,14698-29-4,CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O,PPDB,Contact,0,0,0,1,0,1
+Oxycarboxin (Ref: F 461),21330,5259-88-1,CC1=C(S(=O)(=O)CCO1)C(=O)NC2=CC=CC=C2,PPDB,Contact,0,1,0,0,0,0
+Oxydemeton-methyl (Ref: ENT 24964),4618,301-12-2,CCS(=O)CCSP(=O)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Oxyfluorfen (Ref: RH 2915),39327,42874-03-3,CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+"P,P'-DDT",3036,50-29-3,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,PPDB,Oral,0,0,1,0,1,1
+Paclobutrazol (Ref: PP 333),73671,76738-62-0,CC(C)(C)C(C(CC1=CC=C(C=C1)Cl)N2C=NC=N2)O,PPDB,Oral,0,0,0,1,1,1
+Paraquat (Ref: PP 148),15939,4685-14-7,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,PPDB,Oral,1,0,0,0,1,1
+Paraquat dichloride,15938,1910-42-5,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C.[Cl-].[Cl-],PPDB,Other,1,0,0,0,0,1
+Parathion-ethyl (Ref: OMS 19),991,56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],PPDB,Other,0,0,1,0,1,2
+Parathion-methyl (Ref: OMS 213),4130,298-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],PPDB,Contact,0,0,1,0,0,1
+Pebulate (Ref: R 2061),14215,1114-71-2,CCCCN(CC)C(=O)SCCC,PPDB,Other,1,0,0,0,1,1
+Pefurazoate (Ref: UR-0003),93532,101903-30-4,CCC(C(=O)OCCCC=C)N(CC1=CC=CO1)C(=O)N2C=CN=C2,PPDB,Contact,0,0,0,1,0,1
+Penconazole (Ref: CGA 71818),91693,66246-88-6,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,PPDB,Contact,0,1,0,0,1,1
+Pencycuron (Ref: NTN 19701),91692,66063-05-6,C1CCC(C1)N(CC2=CC=C(C=C2)Cl)C(=O)NC3=CC=CC=C3,PPDB,Oral,0,1,0,0,0,1
+Pendimethalin (Ref: AC 92553),38479,40487-42-1,CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Penflufen (Ref: BYF-14182),11674113,494793-67-8,CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C,PPDB,Contact,0,1,0,0,0,1
+Penoxsulam (Ref: XDE 638),11784975,219714-96-2,COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC,PPDB,Oral,1,0,0,0,0,1
+Pentachlorophenol,992,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,PPDB,Contact,1,0,0,0,0,1
+Penthiopyrad (Ref: MTF 753),11388558,183675-82-3,CC(C)CC(C)C1=C(C=CS1)NC(=O)C2=CN(N=C2C(F)(F)F)C,PPDB,Contact,0,0,0,1,0,0
+Pentoxazone (Ref: KPP-314),11714234,110956-75-7,CC(=C1C(=O)N(C(=O)O1)C2=CC(=C(C=C2F)Cl)OC3CCCC3)C,PPDB,Contact,1,0,0,0,0,1
+Permethrin (Ref: OMS 1821),40326,52645-53-1,CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Pethoxamid (Ref: ASU 96 520H),6450826,106700-29-2,CCOCCN(C(=O)CCl)C(=C(C)C)C1=CC=CC=C1,PPDB,Contact,1,0,0,0,0,0
+Phenmedipham (Ref: SN 38584),24744,13684-63-4,CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC,PPDB,Contact,1,0,0,0,0,1
+Phenothrin (Ref: OMS 1809),4767,26002-80-2,CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C,PPDB,Contact,0,0,1,0,1,2
+Phenthoate (Ref: OMS 1075),17435,2597-03-7,CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Phenylmercury chloride,7511,100-56-1,C1=CC=C(C=C1)[Hg]Cl,PPDB,Oral,0,1,0,0,0,1
+Phorate (Ref: ENT 24042),4790,298-02-2,CCOP(=S)(OCC)SCSCC,PPDB,Contact,0,0,1,0,1,2
+Phosalone (Ref: ENT 27163),4793,2310-17-0,CCOP(=S)(OCC)SCN1C2=C(C=C(C=C2)Cl)OC1=O,PPDB,Contact,0,0,1,0,1,1
+Phosmet (Ref: OMS 232),12901,732-11-6,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O,PPDB,Contact,0,0,1,0,1,2
+Phosphamidon (Ref: OMS 1325),3032604,13171-21-6,CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl,PPDB,Contact,0,0,1,0,1,2
+Phthalide (Ref: BAY 96610),5483872,27355-22-2,C1C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)C(=O)O1,PPDB,Contact,0,1,0,0,0,0
+Picloram (Ref: X 159868),15965,1918-02-1,C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,PPDB,Oral,1,0,0,0,0,1
+Picloram-dimethylammonium,87148380,55870-98-9,CNC.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,PPDB,Oral,1,0,0,0,0,1
+Picloram-isoctyl,18772488,26952-20-5,CC(C)CCCCCOC(=O)C1=NC(=C(C(=C1Cl)N)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Picloram-methyl,84224,14143-55-6,COC(=O)C1=NC(=C(C(=C1Cl)N)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Picloram-potassium,23664718,2545-60-0,C1(=C(C(=NC(=C1Cl)Cl)C(=O)[O-])Cl)N.[K+],PPDB,Oral,1,0,0,0,0,1
+Picloram-triethylammonium,61949,35832-11-2,CCN(CC)CC.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,PPDB,Oral,1,0,0,0,0,1
+Picloram-tripromine,62620,6753-47-5,CC(CN(CC(C)O)CC(C)O)O.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,PPDB,Oral,1,0,0,0,0,1
+Picolinafen (Ref: BAS 700H),3294375,137641-05-5,C1=CC(=CC(=C1)OC2=CC=CC(=N2)C(=O)NC3=CC=C(C=C3)F)C(F)(F)F,PPDB,Contact,1,0,0,0,0,0
+Picoxystrobin (Ref: ZA 1963),11285653,117428-22-5,COC=C(C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)C(=O)OC,PPDB,Contact,0,1,0,0,0,0
+Pinoxaden (Ref: NOA 407855),210326,243973-20-8,CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C,PPDB,Contact,1,0,0,0,0,1
+Piperalin (Ref: HSDB 7058),18996,3478-94-2,CC1CCCCN1CCCOC(=O)C2=CC(=C(C=C2)Cl)Cl,PPDB,Contact,0,0,0,1,0,1
+Piperonyl butoxide (Ref: ENT 14250),5794,51-03-6,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,PPDB,Contact,0,0,1,0,0,0
+Piperophos (Ref: C 19 490),32230,24151-93-7,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,PPDB,Contact,0,0,0,1,0,1
+Piproctanyl,92514,69309-47-3,CC(C)CCCC(C)CC[N+]1(CCCCC1)CC=C,PPDB,Contact,0,0,0,1,0,1
+Piproctanyl bromide (Ref: ACR-1222),3034411,56717-11-4,CC(C)CCCC(C)CC[N+]1(CCCCC1)CC=C.[Br-],PPDB,Contact,0,0,0,1,0,1
+Pirimicarb (Ref: OMS 1330),31645,23103-98-2,CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C,PPDB,Oral,0,0,1,0,1,1
+Pirimiphos-methyl (Ref: OMS 1424),34526,29232-93-7,CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C,PPDB,Oral,0,0,1,0,1,2
+Potassium bicarbonate,516893,298-14-6,C(=O)(O)[O-].[K+],PPDB,Oral,0,0,0,1,0,1
+Potassium hydrogen phosphonate,23701737,13977-65-6,OP(O)[O-].[K+],PPDB,Oral,0,0,0,1,0,0
+Potassium iodide,4875,7681-11-0,[K+].[I-],PPDB,Contact,0,0,0,1,1,2
+Potassium thiocyanate,516872,333-20-0,C(#N)[S-].[K+],PPDB,Contact,0,0,0,1,1,2
+Prallethrin (Ref: OMS 3033),9839306,23031-36-9,CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC#C,PPDB,Contact,0,0,0,1,1,2
+Pretilachlor (Ref: CGA 26423),91644,51218-49-6,CCCOCCN(C1=C(C=CC=C1CC)CC)C(=O)CCl,PPDB,Contact,1,0,0,0,0,1
+Primisulfuron,91774,113036-87-6,C1=CC=C(C(=C1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F,PPDB,Contact,1,0,0,0,0,1
+Primisulfuron methyl (Ref: CGA 136872),101525,86209-51-0,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F,PPDB,Contact,1,0,0,0,0,1
+Prochloraz (Ref: BTS 40542),73665,67747-09-5,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2,PPDB,Oral,0,1,0,0,0,0
+Prochloraz manganese chloride complex,71306902,75747-77-2,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.Cl[Mn]Cl,PPDB,Oral,0,0,0,1,0,0
+Prochloraz manganese complex (Ref: BTS 46828),155203,69192-23-0,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.Cl[Mn]Cl,PPDB,Oral,0,0,0,1,0,0
+Procymidone (Ref: S 7131),36242,32809-16-8,CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C,PPDB,Contact,0,1,0,0,0,1
+Prodiamine (Ref: SAN 745H),34469,29091-21-2,CCCN(CCC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-],PPDB,Contact,0,0,0,1,0,1
+Profenofos (Ref: OMS 2004),38779,41198-08-7,CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl,PPDB,Contact,0,0,1,0,1,2
+Profoxydim (Ref: BAS 625H),197395,139001-49-3,CCCC(=C1C(=O)CC(CC1=O)C2CCCSC2)NOCC(C)OC3=CC=C(C=C3)Cl,PPDB,Contact,1,0,0,0,0,0
+Prohexadione,184900,88805-35-0,CCC(=O)C1C(=O)CC(CC1=O)C(=O)O,PPDB,Contact,0,0,0,1,0,1
+Prohexadione-calcium (Ref: BAS 125W),12001831,127277-53-6,CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2],PPDB,Contact,0,0,0,1,0,1
+Promecarb (Ref: SN 34615),17516,2631-37-0,CC1=CC(=CC(=C1)OC(=O)NC)C(C)C,PPDB,Other,0,0,1,0,1,1
+Prometon (Ref: G 31435),4928,1610-18-0,CC(C)NC1=NC(=NC(=N1)OC)NC(C)C,PPDB,Contact,1,0,0,0,0,1
+Prometryn (Ref: C 34161),4929,7287-19-6,CC(C)NC1=NC(=NC(=N1)SC)NC(C)C,PPDB,Contact,1,0,0,0,0,1
+Propachlor (Ref: CP 31393),4931,1918-16-7,CC(C)N(C1=CC=CC=C1)C(=O)CCl,PPDB,Oral,1,0,0,0,0,0
+Propamocarb (Ref: SN 39744),32490,24579-73-5,CCCOC(=O)NCCCN(C)C,PPDB,Oral,0,1,0,0,0,1
+Propamocarb hydrochloride (Ref: SN 66752),15575641,25606-41-1,CCCOC(=O)NCCCN(C)C.Cl,PPDB,Oral,0,1,0,0,0,1
+Propanil (Ref: FW 734),4933,709-98-8,CCC(=O)NC1=CC(=C(C=C1)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Propaquizafop (Ref: CGA 233380),16213016,111479-05-1,CC(C(=O)OCCON=C(C)C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl,PPDB,Oral,1,0,0,0,0,1
+Propargite (Ref: ENT 27226),4936,2312-35-8,CC(C)(C)C1=CC=C(C=C1)OC2CCCCC2OS(=O)OCC#C,PPDB,Contact,0,0,0,1,0,1
+Propazine (Ref: G 30028),4937,139-40-2,CC(C)NC1=NC(=NC(=N1)Cl)NC(C)C,PPDB,Contact,1,0,0,0,0,1
+Propham,24685,122-42-9,CC(C)OC(=O)NC1=CC=CC=C1,PPDB,Contact,1,0,0,0,0,1
+Propiconazole (Ref: CGA 64250),43234,60207-90-1,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,PPDB,Contact,0,1,0,0,0,1
+Propineb (Ref: BAY 46131),6100711,12071-83-9,CC(CNC(=S)[S-])NC(=S)[S-].[Zn+2],PPDB,Contact,0,1,0,0,0,1
+Propisochlor,167454,86763-47-5,CCC1=CC=CC(=C1N(COC(C)C)C(=O)CCl)C,PPDB,Contact,1,0,0,0,0,1
+Propoxur (Ref: OMS 33),4944,114-26-1,CC(C)OC1=CC=CC=C1OC(=O)NC,PPDB,Contact,0,0,1,0,1,2
+Propoxycarbazone,177355,145026-81-9,CCCOC1=NN(C(=O)N1C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC,PPDB,Contact,1,0,0,0,0,0
+Propoxycarbazone-sodium (Ref: MKH 6561),12056759,181274-15-7,CCCOC1=NN(C(=O)N1C)C(=NS(=O)(=O)C2=CC=CC=C2C(=O)OC)[O-].[Na+],PPDB,Contact,1,0,0,0,0,0
+Propyzamide (Ref: RH 315),32154,23950-58-5,CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl,PPDB,Oral,1,0,0,0,0,1
+Proquinazid (Ref: DPX KQ926),11057771,189278-12-4,CCCN1C(=O)C2=C(C=CC(=C2)I)N=C1OCCC,PPDB,Oral,0,1,0,0,0,0
+Prosulfocarb (Ref: SC 0574),62020,52888-80-9,CCCN(CCC)C(=O)SCC1=CC=CC=C1,PPDB,Contact,1,0,0,0,0,1
+Prosulfuron (Ref: CGA 152005),91751,94125-34-5,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F,PPDB,Contact,1,0,0,0,0,1
+Prothioconazole (Ref: JAU 6476 ),6451142,178928-70-6,C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl,PPDB,Oral,0,1,0,0,0,1
+Proximpham,17808,2828-42-4,CC(=NOC(=O)NC1=CC=CC=C1)C,PPDB,Other,1,0,0,0,0,0
+Pydiflumetofen (Ref: SYN 545794),56933411,1228284-64-7,CC(CC1=C(C=C(C=C1Cl)Cl)Cl)N(C(=O)C2=CN(N=C2C(F)F)C)OC,PPDB,Contact,0,1,0,0,0,1
+Pymetrozine (Ref: CGA 215944),9576037,123312-89-0,CC1=NNC(=O)N(C1)N=CC2=CN=CC=C2,PPDB,Oral,0,0,1,0,0,1
+Pyraclofos (Ref: OMS 3040),93460,89784-60-1,CCCSP(=O)(OCC)OC1=CN(N=C1)C2=CC=C(C=C2)Cl,PPDB,Contact,0,0,1,0,1,2
+Pyraclostrobin (Ref: BAS 500F),6422843,175013-18-0,COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC,PPDB,Contact,0,1,0,0,0,1
+Pyraflufen-ethyl (Ref: ET 751),182951,129630-19-9,CCOC(=O)COC1=C(C=C(C(=C1)C2=NN(C(=C2Cl)OC(F)F)C)F)Cl,PPDB,Contact,1,0,0,0,0,1
+Pyrasulfotole (Ref: AE 0317309 ),11693711,365400-11-9,CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C,PPDB,Contact,1,0,0,0,0,1
+Pyrazophos (Ref: HOE 2873),26033,13457-18-6,CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C,PPDB,Contact,0,1,0,0,1,2
+Pyrazosulfuron,93525,98389-04-9,CN1C(=C(C=N1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,0,0,0,1,0,1
+Pyrazosulfuron-ethyl (Ref: NC 311),91750,93697-74-6,CCOC(=O)C1=C(N(N=C1)C)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Contact,0,0,0,1,0,1
+Pyribenzoxim (Ref: LGC 40863 ),178117,168088-61-7,COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)ON=C(C4=CC=CC=C4)C5=CC=CC=C5)OC,PPDB,Other,1,0,0,0,0,1
+Pyridaben (Ref: BAS 300l),91754,96489-71-3,CC(C)(C)C1=CC=C(C=C1)CSC2=C(C(=O)N(N=C2)C(C)(C)C)Cl,PPDB,Contact,0,0,1,0,1,2
+Pyridafenthion (Ref: ENT 23968)),8381,119-12-0,CCOP(=S)(OCC)OC1=NN(C(=O)C=C1)C2=CC=CC=C2,PPDB,Other,0,0,1,0,1,2
+Pyridalyl (Ref: S-1812),11488729,179101-81-6,C1=CC(=NC=C1C(F)(F)F)OCCCOC2=C(C=C(C=C2Cl)OCC=C(Cl)Cl)Cl,PPDB,Contact,0,0,1,0,0,1
+Pyridate (Ref: CL 11344),41463,55512-33-9,CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl,PPDB,Contact,1,0,0,0,0,1
+Pyrifenox (Ref: CGA 179945),6023583,88283-41-4,CON=C(CC1=CN=CC=C1)C2=C(C=C(C=C2)Cl)Cl,PPDB,Oral,0,1,0,0,0,1
+Pyriftalid (Ref: CGA 279233),9948894,135186-78-6,CC1C2=C(C(=CC=C2)SC3=NC(=CC(=N3)OC)OC)C(=O)O1,PPDB,Contact,1,0,0,0,0,1
+Pyrimethanil (Ref: SN 100309),91650,53112-28-0,CC1=CC(=NC(=N1)NC2=CC=CC=C2)C,PPDB,Contact,0,1,0,0,0,1
+Pyrimidifen,6451139,105779-78-0,CCC1=C(C(=NC=N1)NCCOC2=C(C(=C(C=C2)CCOCC)C)C)Cl,PPDB,Oral,0,0,1,0,1,2
+Pyriminobac-methyl (Ref: KIH-6127),9604652,136191-64-5,CC(=NOC)C1=C(C(=CC=C1)OC2=NC(=CC(=N2)OC)OC)C(=O)OC,PPDB,Contact,1,0,0,0,0,0
+Pyriofenone (Ref: IKF-309),23082663,688046-61-9,CC1=CC(=C(C(=C1C(=O)C2=C(C(=CN=C2OC)Cl)C)OC)OC)OC,PPDB,Contact,0,1,0,0,0,1
+Pyriproxyfen (Ref: S 9318),91753,95737-68-1,CC(COC1=CC=C(C=C1)OC2=CC=CC=C2)OC3=CC=CC=N3,PPDB,Contact,0,0,1,0,0,1
+Pyrithiobac-sodium (Ref: DPX PE 350),23682187,123343-16-8,COC1=CC(=NC(=N1)SC2=C(C(=CC=C2)Cl)C(=O)[O-])OC.[Na+],PPDB,Contact,1,0,0,0,0,1
+Pyroquilon (Ref: CGA 49104),91665,57369-32-1,C1CC(=O)N2CCC3=CC=CC1=C32,PPDB,Oral,0,1,0,0,0,1
+Pyroxasulfone (Ref: KIH-485),11556910,447399-55-5,CC1(CC(=NO1)S(=O)(=O)CC2=C(N(N=C2C(F)(F)F)C)OC(F)F)C,PPDB,Contact,1,0,0,0,0,1
+Pyroxsulam (Ref: XDE 742),11571555,422556-08-9,COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC,PPDB,Contact,1,0,0,0,0,1
+Quinalphos (Ref: ENT 27397),26124,13593-03-8,CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1,PPDB,Oral,0,0,1,0,1,2
+Quinclorac (Ref: BAS 514H),91739,84087-01-4,C1=CC(=C(C2=NC=C(C=C21)Cl)C(=O)O)Cl,PPDB,Contact,1,0,0,0,0,0
+Quinmerac (Ref: BAS 518H),91749,90717-03-6,CC1=CN=C2C(=C1)C=CC(=C2C(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Quinoclamine,17748,2797-51-5,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)N,PPDB,Contact,1,0,0,0,0,1
+Quinoxyfen (Ref: DE 795),3391107,124495-18-7,C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F,PPDB,Contact,0,1,0,0,0,1
+Quintozene,6720,82-68-8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-],PPDB,Contact,0,1,0,0,0,1
+Quizalofop-ethyl (Ref: DPX Y6202),53518,76578-14-8,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl,PPDB,Oral,1,0,0,0,1,1
+Quizalofop-P-ethyl (Ref: DPX 79376),1617113,100646-51-3,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl,PPDB,Contact,1,0,0,0,0,1
+Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,119738-06-6,CC(C(=O)OCC1CCCO1)OC2=CC=C(C=C2)OC3=CN=C4C=C(C=CC4=N3)Cl,PPDB,Contact,1,0,0,0,0,1
+Resmethrin (Ref: OMS 1206),5053,10453-86-8,CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C,PPDB,Contact,0,0,1,0,1,2
+Rimsulfuron (Ref: DPX E9636),91779,122931-48-0,CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC,PPDB,Oral,1,0,0,0,0,1
+Saflufenacil (Ref: BAS 800H),11571392,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(=C(C=C1Cl)F)N2C(=O)C=C(N(C2=O)C)C(F)(F)F,PPDB,Contact,0,0,0,1,0,1
+Sedaxane,11688533,874967-67-6,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4,PPDB,Oral,0,0,0,1,1,1
+Sethoxydim (Ref: BAS 9052H),52923,74051-80-2,CCCC(=C1C(=O)CC(CC1=O)CC(C)SCC)NOCC,PPDB,Contact,1,0,0,0,1,1
+Siduron,16116,1982-49-6,CC1CCCCC1NC(=O)NC2=CC=CC=C2,PPDB,Contact,1,0,0,0,0,0
+Silafluofen (Ref: HOE 084498),92430,105024-66-6,CCOC1=CC=C(C=C1)[Si](C)(C)CCCC2=CC(=C(C=C2)F)OC3=CC=CC=C3,PPDB,Oral,0,0,0,1,1,2
+Silthiofam (Ref: MON 65500),16116,175217-20-6,CC1=C(SC(=C1C(=O)NCC=C)[Si](C)(C)C)C,PPDB,Contact,0,1,0,0,0,1
+Simazine (Ref: G 27692),5216,122-34-9,CCNC1=NC(=NC(=N1)Cl)NCC,PPDB,Contact,1,0,0,0,0,1
+Sintofen (Ref: SC 2053),10915750,130561-48-7,CC1=CC=C(C=C1)N2C3=C(C(=CC=C3)OCCOC)C(=O)C(=N2)C(=O)O,PPDB,Contact,0,0,0,1,0,1
+S-methoprene (Ref: SAN 810),1711973,65733-16-6,CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC,PPDB,Other,0,0,0,1,1,1
+S-metolachlor (Ref: CGA 77102),11140605,87392-12-9,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C,PPDB,Oral,1,0,0,0,0,1
+Sodium 5-nitroguaiacolate,3017748,67233-85-6,COC1=C(C=C(C=C1)[N+](=O)[O-])[O-].[Na+],PPDB,Contact,0,0,0,1,0,1
+Sodium chlorate,516902,7775-09-9,[O-]Cl(=O)=O.[Na+],PPDB,Oral,1,0,0,0,0,1
+Sodium o-nitrophenolate,69985,824-39-5,C1=CC=C(C(=C1)[N+](=O)[O-])[O-].[Na+],PPDB,Contact,0,0,0,1,0,1
+Sodium p-nitrophenolate,13214,824-78-2,C1=CC(=CC=C1[N+](=O)[O-])[O-].[Na+],PPDB,Oral,0,0,0,1,0,1
+Sodium tetraborate pentahydrate,71306767,11130-12-4,B(O)(O)O.O.O.O.O.O.[Na+],PPDB,Contact,0,0,0,1,0,0
+Sodium tetrathiocarbonate (Ref: GY-81),3034198,7345-69-9,C(=S)([S-])S[S-].[Na+].[Na+],PPDB,Contact,0,0,0,1,0,1
+Spinetoram (Ref: XDE 175),53297414,935545-74-7,CCC1CCCC(C(C(=O)C2=CC3C(C2CC(=O)O1)CCC4C3CC(C4)OC5C(C(C(C(O5)C)OC)OCC)OC)C)OC6CCC(C(O6)C)N(C)C,PPDB,Contact,0,0,0,1,1,2
+Spirodiclofen (Ref: BAJ 2740),177863,148477-71-8,CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)C3=C(C=C(C=C3)Cl)Cl,PPDB,Oral,0,0,0,1,0,0
+Spiromesifen (Ref: BSN 2060),9907412,283594-90-1,CC1=CC(=C(C(=C1)C)C2=C(C3(CCCC3)OC2=O)OC(=O)CC(C)(C)C)C,PPDB,Contact,0,0,1,0,0,0
+Spirotetramat (Ref: BYI 08330),9969573,203313-25-1,CCOC(=O)OC1=C(C(=O)NC12CCC(CC2)OC)C3=C(C=CC(=C3)C)C,PPDB,Contact,0,0,1,0,0,1
+Spiroxamine (Ref: KWG 4168),86160,118134-30-8,CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C,PPDB,Contact,0,1,0,0,1,1
+Sulcotrione (Ref: SC 0051),91760,99105-77-8,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl,PPDB,Oral,1,0,0,0,0,1
+Sulfentrazone (Ref: FMC 97285),86369,122836-35-5,CC1=NN(C(=O)N1C(F)F)C2=CC(=C(C=C2Cl)Cl)NS(=O)(=O)C,PPDB,Contact,1,0,0,0,0,1
+Sulfluramid (Ref: GX 071),77797,4151-50-2,CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,PPDB,Other,0,0,1,0,1,1
+Sulfometuron,52998,74223-56-6,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)C,PPDB,Contact,1,0,0,0,0,1
+Sulfometuron-methyl (Ref: DPX T5648),52997,74222-97-2,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C,PPDB,Contact,1,0,0,0,0,1
+Sulfosulfuron (Ref: MON 37500),86426,141776-32-1,CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC,PPDB,Contact,1,0,0,0,0,1
+Sulfoxaflor (Ref: DE-208),16723172,946578-00-3,CC(C1=CN=C(C=C1)C(F)(F)F)S(=NC#N)(=O)C,PPDB,Oral,0,0,1,0,1,2
+Sulfuryl fluoride,17607,2699-79-8,O=S(=O)(F)F,PPDB,Contact,0,0,0,1,1,1
+Sulprofos (Ref: NTN 9306),37125,35400-43-2,CCCSP(=S)(OCC)OC1=CC=C(C=C1)SC,PPDB,Other,0,0,1,0,1,1
+Sumithrin ,187827,51186-88-0,CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C,PPDB,Contact,0,0,1,0,1,2
+Tau-fluvalinate (Ref: SAN 527l),91768,102851-06-9,CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl,PPDB,Contact,0,0,1,0,0,1
+TCA-sodium,23681045,650-51-1,C(=O)(C(Cl)(Cl)Cl)[O-].[Na+],PPDB,Other,1,0,0,0,0,1
+Tebuconazole (Ref: HWG 1608),86102,107534-96-3,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O,PPDB,Oral,0,1,0,0,0,1
+Tebufenozide (Ref: RH 5992 2F ),91773,112410-23-8,CCC1=CC=C(C=C1)C(=O)NN(C(=O)C2=CC(=CC(=C2)C)C)C(C)(C)C,PPDB,Oral,0,0,1,0,0,1
+Tebufenpyrad (Ref: AC 801757),86354,119168-77-3,CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)C(C)(C)C)C,PPDB,Contact,0,0,0,1,1,1
+Tebutam (Ref: GPC-5544),92299,35256-85-0,CC(C)N(CC1=CC=CC=C1)C(=O)C(C)(C)C,PPDB,Oral,1,0,0,0,0,1
+Tebuthiuron (Ref: EL 103),5383,34014-18-1,CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC,PPDB,Contact,1,0,0,0,0,1
+Tecnazene,8330,117-18-0,C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl,PPDB,Other,0,1,0,0,0,1
+Teflubenzuron (Ref: CME 13406),91734,83121-18-0,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F,PPDB,Oral,0,0,1,0,0,1
+Tefluthrin (Ref: R 151993),11534837,79538-32-2,CC1=C(C(=C(C(=C1F)F)COC(=O)C2C(C2(C)C)C=C(C(F)(F)F)Cl)F)F,PPDB,Contact,0,0,1,0,1,2
+Tembotrione (Ref: AE 0172747),11556911,335104-84-2,CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)COCC(F)(F)F,PPDB,Oral,1,0,0,0,0,1
+Temephos (Ref: OMS 786),5392,3383-96-8,COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,1
+Tepraloxydim (Ref: BAS 620H),135585373,149979-41-9,CCC(=C1C(=O)CC(CC1=O)C2CCOCC2)NOCC=CCl,PPDB,Oral,1,0,0,0,0,0
+Terbacil (Ref: DPX D732),22188,5902-51-2,CC1=C(C(=O)N(C(=O)N1)C(C)(C)C)Cl,PPDB,Other,1,0,0,0,0,1
+Terbufos (Ref: AC 92100),25670,13071-79-9,CCOP(=S)(OCC)SCSC(C)(C)C,PPDB,Contact,0,0,1,0,1,1
+Terbumeton (Ref: GS 14259),36584,33693-04-8,CCNC1=NC(=NC(=N1)OC)NC(C)(C)C,PPDB,Other,1,0,0,0,0,1
+Terbuthylazine,22206,5915-41-3,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C,PPDB,Oral,1,0,0,0,0,1
+Terbutryn (Ref: GS 14260),13450,886-50-0,CCNC1=NC(=NC(=N1)SC)NC(C)(C)C,PPDB,Contact,1,0,0,0,1,2
+Tetrachlorvinphos (Ref: SD 8447),5284462,22248-79-9,COP(=O)(OC)OC(=CCl)C1=CC(=C(C=C1Cl)Cl)Cl,PPDB,Other,0,0,1,0,1,1
+Tetraconazole (Ref: M 14360),80277,112281-77-3,C1=CC(=C(C=C1Cl)Cl)C(CN2C=NC=N2)COC(C(F)F)(F)F,PPDB,Contact,0,1,0,0,0,1
+Tetradifon (Ref: ENT 23737),8305,116-29-0,C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl,PPDB,Oral,0,0,0,1,1,1
+Tetramethrin (Ref: ENT 27339),83975,7696-12-0,CC(=CC1C(C1(C)C)C(=O)OCN2C(=O)C3=C(C2=O)CCCC3)C,PPDB,Other,0,0,1,0,1,2
+Thenylchlor (Ref: NSK 850),443036,96491-05-3,CC1=C(C(=CC=C1)C)N(CC2=C(C=CS2)OC)C(=O)CCl,PPDB,Other,0,0,0,1,0,1
+Thiabendazole (Ref: MK 360),5430,148-79-8,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,PPDB,Oral,0,1,0,0,1,1
+Thiacloprid (Ref: YRC 2894),115224,111988-49-9,C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl,PPDB,Oral,0,0,1,0,0,1
+Thiamethoxam (Ref: CGA 293343),5821911,153719-23-4,CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl,PPDB,Oral,0,0,1,0,1,2
+Thiazopyr (Ref: MON 13200),91776,117718-60-2,CC(C)CC1=C(C(=NC(=C1C(=O)OC)C(F)F)C(F)(F)F)C2=NCCS2,PPDB,Other,1,0,0,0,0,1
+Thidiazuron (Ref: SN 49537),40087,51707-55-2,C1=CC=C(C=C1)NC(=O)NC2=CN=NS2,PPDB,Other,1,0,0,0,0,0
+Thiencarbazone,20056440,936331-72-5,CC1=C(C(=CS1)C(=O)O)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C,PPDB,Oral,1,0,0,0,0,0
+Thiencarbazone-methyl (Ref: BYH 18636 ),11205153,317815-83-1,CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C,PPDB,Oral,1,0,0,0,0,0
+Thifensulfuron (Ref: IN L9225),91729,79277-67-1,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)O,PPDB,Oral,1,0,0,0,1,1
+Thifensulfuron-methyl (Ref: DPX M6316),73674,79277-27-3,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC,PPDB,Oral,1,0,0,0,1,1
+Thifluzamide (Ref: MON 24000),86389,130000-40-7,CC1=NC(=C(S1)C(=O)NC2=C(C=C(C=C2Br)OC(F)(F)F)Br)C(F)(F)F,PPDB,Oral,0,1,0,0,0,1
+Thiobencarb (Ref: IMC 3950),34192,28249-77-6,CCN(CC)C(=O)SCC1=CC=C(C=C1)Cl,PPDB,Contact,1,0,0,0,0,1
+Thiocyclam,35970,31895-21-3,CN(C)C1CSSSC1,PPDB,Oral,0,0,1,0,0,1
+Thiocyclam oxalate (Ref: SAN 1551),35969,31895-22-4,CN(C)C1CSSSC1.C(=O)(C(=O)O)O,PPDB,Oral,0,0,1,0,0,1
+Thiodicarb (Ref: OMS 3026),6386307,59669-26-0,CC(=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC)SC,PPDB,Oral,0,0,1,0,1,2
+Thiofanox (Ref: DS 15647),38235,39196-18-4,CC(C)(C)C(=NOC(=O)NC)CSC,PPDB,Contact,0,0,1,0,1,2
+Thiometon (Ref: SAN 230),12541,640-15-3,CCSCCSP(=S)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Thiophanate,3032792,23564-06-9,CCOC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OCC,PPDB,Contact,0,1,0,0,0,1
+Thiophanate-methyl (Ref: NF 44),3032791,23564-05-8,COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC,PPDB,Contact,0,1,0,0,0,1
+Thiram (Ref: ENT 987),5455,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,PPDB,Contact,0,1,0,0,0,1
+Tiocarbazil (Ref: M 3432),37523,36756-79-3,CCC(C)N(C(C)CC)C(=O)SCC1=CC=CC=C1,PPDB,Other,1,0,0,0,0,1
+Tolclofos-methyl (Ref: S 3349 ),91664,57018-04-9,CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl,PPDB,Oral,0,1,0,0,0,0
+Tolylfluanid (Ref: BAY 49854),12898,731-27-1,CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C,PPDB,Contact,0,1,0,0,0,0
+Topramezone (Ref: BAS 670 H),11302979,210631-68-8,CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C,PPDB,Oral,1,0,0,0,0,1
+Tralkoxydim (Ref: PP 604),91746,87820-88-0,CCC(=C1C(=O)CC(CC1=O)C2=C(C=C(C=C2C)C)C)NOCC,PPDB,Contact,1,0,0,0,0,1
+Tralomethrin (Ref: OMS 3048),48132,66841-25-6,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C(C(Br)(Br)Br)Br)C,PPDB,Contact,0,0,1,0,1,2
+Transfluthrin (Ref: NAK 4455),656612,118712-89-3,CC1(C(C1C(=O)OCC2=C(C(=CC(=C2F)F)F)F)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,1
+Triadimefon,39385,43121-43-3,CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl,PPDB,Oral,0,1,0,0,0,1
+Triadimenol (Ref: BAY KWG 0519),41368,55219-65-3,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O,PPDB,Contact,0,1,0,0,0,0
+Triafamone (Ref: AE 1887198),16004663,874195-61-6,CN(C1=C(C=CC=C1F)C(=O)C2=NC(=NC(=N2)OC)OC)S(=O)(=O)C(F)F,PPDB,Oral,1,0,0,0,0,1
+Tri-allate (Ref: CP 23426),5543,2303-17-5,CC(C)N(C(C)C)C(=O)SCC(=C(Cl)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Triasulfuron (Ref: CGA 131036 ),73282,82097-50-5,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2OCCCl,PPDB,Contact,1,0,0,0,0,1
+Triazamate (Ref: RH 7988),86306,110895-43-7,CCOC(=O)CSC1=NC(=NN1C(=O)N(C)C)C(C)(C)C,PPDB,Contact,0,0,1,0,0,1
+Triazophos (Ref: HOE 002960 ),32184,24017-47-8,CCOP(=S)(OCC)OC1=NN(C=N1)C2=CC=CC=C2,PPDB,Contact,0,0,1,0,0,1
+Triazoxide (Ref: SAS 9244),93422,72459-58-6,C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-],PPDB,Contact,0,1,0,0,0,0
+Tribenuron (Ref: IN R9803),91772,106040-48-6,CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O,PPDB,Contact,1,0,0,0,1,1
+Tribenuron-methyl (Ref: DPX L5300),153909,101200-48-0,CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC,PPDB,Oral,1,0,0,0,1,1
+Tribufos,5125,78-48-8,CCCCSP(=O)(SCCCC)SCCCC,PPDB,Contact,0,0,0,1,0,1
+Tributyltin oxide (Ref: ENT 24979),16682746,56-35-9,CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC,PPDB,Contact,0,0,0,1,1,2
+Trichlorfon (Ref: OMS 800),5853,52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC,PPDB,Oral,0,0,1,0,1,2
+Triclopyr,41428,55335-06-3,C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Triclopyr-butotyl,47455,64700-56-7,CCCCOCCOC(=O)COC1=NC(=C(C=C1Cl)Cl)Cl,PPDB,Contact,1,0,0,0,0,1
+Triclopyr-triethylammonium,42163,57213-69-1,CCN(CC)CC.C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl,PPDB,Contact,1,0,0,0,0,1
+Tricyclazole (Ref: EL 291),39040,41814-78-2,CC1=C2C(=CC=C1)SC3=NN=CN23,PPDB,Oral,0,1,0,0,0,1
+Tridemorph (Ref: BAS 2205-F),32518,81412-43-3,CCCCCCCCCCCCCN1CC(OC(C1)C)C,PPDB,Oral,0,1,0,0,0,0
+Trietazine (Ref: G 27901),15951,1912-26-1,CCNC1=NC(=NC(=N1)Cl)N(CC)CC,PPDB,Other,1,0,0,0,0,1
+Trifloxystrobin (Ref: CGA 279202),11664966,141517-21-7,CC(=NOCC1=CC=CC=C1C(=NOC)C(=O)OC)C2=CC(=CC=C2)C(F)(F)F,PPDB,Contact,0,1,0,0,0,0
+Trifloxysulfuron (Ref: CGA 292230),9955886,145099-21-4,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)OCC(F)(F)F)OC,PPDB,Contact,1,0,0,0,0,1
+Trifloxysulfuron-sodium (Ref: CGA 362622),23676736,199119-58-9,COC1=CC(=NC(=N1)NC(=O)[N-]S(=O)(=O)C2=C(C=CC=N2)OCC(F)(F)F)OC.[Na+],PPDB,Oral,1,0,0,0,0,1
+Trifludimoxazin,49831143,1258836-72-4,CN1C(=O)N(C(=O)N(C1=S)C)C2=CC3=C(C=C2F)OC(C(=O)N3CC#C)(F)F,PPDB,Contact,1,0,0,0,0,1
+Triflumezopyrim (Ref: DPX-RAB55),57414497,1263133-33-0,C1=CC=[N+]2C(=C1)N(C(=C(C2=O)C3=CC(=CC=C3)C(F)(F)F)[O-])CC4=CN=CN=C4,PPDB,Contact,0,0,1,0,1,2
+Triflumizole (Ref: NF 114 ),91699,99387-89-0,CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2,PPDB,Oral,0,1,0,0,0,1
+Triflumuron (Ref: OMS 2015),47445,64628-44-0,C1=CC=C(C(=C1)C(=O)NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)Cl,PPDB,Contact,0,0,1,0,0,0
+Trifluralin (Ref: EL 152),5569,1582-09-8,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],PPDB,Contact,1,0,0,0,0,1
+Triflusulfuron,86416,135990-29-3,CC1=CC=CC(=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C)C(=O)O,PPDB,Contact,1,0,0,0,0,1
+Triflusulfuron-methyl (Ref: DPX 66037),92434,126535-15-7,CC1=CC=CC(=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C)C(=O)OC,PPDB,Contact,1,0,0,0,0,1
+Triforine (Ref: AC 902194),33565,26644-46-2,C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O,PPDB,Contact,0,1,0,0,0,1
+Trinexapac-ethyl (Ref: CGA 163935),92421,95266-40-3,CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1,PPDB,Contact,0,0,0,1,0,0
+Triticonazole (Ref: RPA 400727),6537961,131983-72-7,CC1(CCC(=CC2=CC=C(C=C2)Cl)C1(CN3C=NC=N3)O)C,PPDB,Oral,0,1,0,0,0,1
+Tritosulfuron,11657899,142469-14-5,COC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(F)(F)F)C(F)(F)F,PPDB,Contact,1,0,0,0,0,0
+Uniconazole (Ref: XE 1019),6436604,83657-22-1,CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O,PPDB,Contact,0,0,0,1,0,1
+Valifenalate (Ref: IR5885),11338509,283159-90-0,CC(C)C(C(=O)NC(CC(=O)OC)C1=CC=C(C=C1)Cl)NC(=O)OC(C)C,PPDB,Contact,0,1,0,0,0,1
+Vamidothion (Ref: ENT 26613),560193,2275-23-2,CC(C(=O)NC)SCCSP(=O)(OC)OC,PPDB,Contact,0,0,1,0,1,2
+Verbutin (Ref: MB-599),11458968,185676-84-0,CC#CCOC(C)C1=CC(=C(C=C1)OC)OC,PPDB,Contact,0,0,1,0,0,1
+Vernolate (Ref: R-106),16003,1929-77-7,CCCN(CCC)C(=O)SCCC,PPDB,Other,1,0,0,0,1,1
+Vinclozolin (Ref: BAS 352F),39676,50471-44-8,CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C,PPDB,Oral,0,1,0,0,0,1
+Warfarin,54678486,81-81-2,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,PPDB,Other,0,0,0,1,0,1
+XMC (Ref: H 69),17563,2655-14-3,CC1=CC(=CC(=C1)OC(=O)NC)C,PPDB,Oral,0,0,1,0,1,2
+Zarilamid (Ref: ICIA001),158659,84527-51-5,CCOC(C#N)NC(=O)C1=CC=C(C=C1)Cl,PPDB,Contact,0,1,0,0,1,2
+Zeta-cypermethrin (Ref: FMC 56701),12617362,97955-44-7,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,PPDB,Contact,0,0,1,0,1,2
+Zinc borate,167155,10361-94-1,B([O-])([O-])[O-].B([O-])([O-])[O-].[Zn+2].[Zn+2].[Zn+2],PPDB,Contact,0,1,0,0,0,0
+Zineb (Ref: ENT 14874),5284484,12122-67-7,C(CNC(=S)[S-])NC(=S)[S-].[Zn+2],PPDB,Contact,0,1,0,0,1,1
+Ziram,8722,137-30-4,CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2],PPDB,Contact,0,1,0,0,0,1
+Zoxamide (Ref: RH 7281),122087,156052-68-5,CCC(C)(C(=O)CCl)NC(=O)C1=CC(=C(C(=C1)Cl)C)Cl,PPDB,Contact,0,1,0,0,0,1

@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "pesticide-bee-toxicity-prediction"
+version = "1.0.0"
+description = ""
+authors = ["Jakub Adamczyk (j-adamczyk), Jakub Poziemski (JPoziemski)"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.*"  # due to DeepChem requirement of <3.11
+
+deepchem = "2.7.1"
+joblib = "1.3.2"
+matplotlib = "3.8.3"
+numpy = "1.24.4"
+pandas = "2.1.3"
+pubchempy = "1.0.4"
+requests = "2.31.0"
+rdkit = "2023.9.5"
+tqdm = "4.66.1"
+scikit-learn = "1.3.2"
+
+[tool.poetry.dev-dependencies]
+black = "*"
+isort = "*"
+pre-commit = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

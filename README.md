@@ -3,6 +3,8 @@
 This repository hosts ApisTox dataset, for applications of data analysis and ML in
 ecotoxicology and agrochemistry.
 
+Paper preprint is available [on ArXiv](https://arxiv.org/abs/2404.16196).
+
 Dataset and code are released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 ## Dataset files

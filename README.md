@@ -5,7 +5,7 @@ ecotoxicology and agrochemistry.
 
 Paper preprint is available [on ArXiv](https://arxiv.org/abs/2404.16196).
 
-Dataset and code are released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
+Dataset and code are released under [CC-BY-NC-4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Dataset files
 
